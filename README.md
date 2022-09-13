@@ -8,7 +8,7 @@
 
 <img width="600" src="https://static-cdn.myedools.com/org-6352%2Fschool-6353%2F0620a955716ebe7ce2cf494ac59b8b92%2FYour+Way+-+Desenvolvimento.png" alt="exemplo imagem">
 
-> Curso online feito na impacta treinamentos.
+> Contéudo passado durante as aulas de POO - Faculdade Impacta ADS
 
 ## 💻 Tech usadas
 
