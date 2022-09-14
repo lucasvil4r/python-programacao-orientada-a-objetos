@@ -6,7 +6,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
 
-<img width="600" src="https://static-cdn.myedools.com/org-6352%2Fschool-6353%2F0620a955716ebe7ce2cf494ac59b8b92%2FYour+Way+-+Desenvolvimento.png" alt="exemplo imagem">
+<img width="600" src="https://www.impacta.edu.br/themes/wc_agenciar3/images/logo-new.png" alt="impacta">
 
 > Contéudo passado durante as aulas de POO - Faculdade Impacta ADS
 
