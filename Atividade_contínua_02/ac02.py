@@ -1,7 +1,7 @@
 # INSIRA ABAIXO OS NOMES DOS ALUNOS DO GRUPO (máximo 6 alunos)
 # ALUNO 1: Nathalia de Araujo Santos - 2201044
 # ALUNO 2: Lucas Vilar - 2101658
-# ALUNO 3: GUSTAVO GATTO - 2201041
+# ALUNO 3: Gustavo Gatto - 2201041
 # ALUNO 4:
 # ALUNO 5:
 # ALUNO 6:
