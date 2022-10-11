@@ -1,0 +1,3 @@
+Uma PILHA implementa o mecanismos de inserção/remoção:*
+
+R: LIFO

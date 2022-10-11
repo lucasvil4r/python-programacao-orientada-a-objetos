@@ -1,0 +1,6 @@
+Considerando que ao utilizar uma “lista”, 
+as instruções de inserção e remoção serão
+sempre realizadas em uma de suas extremidades,
+podemos afirmar que essa estrutura se comporta como uma:
+
+R: Pilha
