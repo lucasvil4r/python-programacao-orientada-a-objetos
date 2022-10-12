@@ -2,7 +2,7 @@
 # ATIVIDADE CONTÍNUA 03
 
 # INSIRA ABAIXO O NOME DOS ALUNOS DO GRUPO (máximo 6)
-# ALUNO 1: Lucas Vilar - RA: 2101658 
+# ALUNO 1: Lucas Vilar - RA: 2101658
 # ALUNO 2: Gustavo R. Gatto - RA:2201041
 # ALUNO 3: Nathalia Araújo - RA:2201044
 # ALUNO 4: Kaique dos Santos Fischer - RA:2201268
@@ -70,10 +70,10 @@ class Aluno(Pessoa):
         self.disciplinas.append(disciplina)
 
     def incluir_triunfo(self, pontos):
-        self.__triunfos += pontos
+        self.__triunfos = self.__triunfos + pontos
 
     def incluir_mau_feito(self, pontos):
-        self.__mau_feitos += pontos
+        self.__mau_feitos = self.__mau_feitos + pontos
 
     def set_casa(self, casa):
         self.casa = casa
@@ -95,10 +95,10 @@ class Torneio:
     def marcar_ponto(self, casa, quantidade):
         if casa == self.casa1:
             self.casa1 = casa
-            self.__pontos_casa1 += quantidade
+            self.__pontos_casa1 = self.__pontos_casa1 + quantidade
         else:
             self.casa2 = casa
-            self.__pontos_casa2 += quantidade
+            self.__pontos_casa2 = self.__pontos_casa2 + quantidade
 
     def get_pontos_casa1(self):
         return self.__pontos_casa1
