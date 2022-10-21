@@ -13,4 +13,4 @@ ObjStack.push(4)
 ObjStack.pop()
 ObjStack.pop()
 
-print(ObjStack.items)
+print(ObjStack.stack)
