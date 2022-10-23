@@ -1,3 +1,5 @@
+#PILHA - primeiros serão os últimos a serem removidos
+
 from __future__ import annotations
 
 from typing import Generic, TypeVar
