@@ -1,4 +1,4 @@
-Eugenio Saloio;24;3005.99
+Eugenio Saloio , 24 , 3005.99
 Zelvio Caeira;38;1947.42
 Eusebio Maior;28;4686.53
 Evaristo Lemos;42;3313.16
