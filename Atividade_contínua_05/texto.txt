@@ -1,0 +1,3536 @@
+Khejalat Nakesh;2018;90;Iran;Reza Maghsoodi;54.0
+Red Island;2018;90;Canada;Lux;32.0
+The Cleaning Lady;2018;90;USA;Jon Knautz;54.0
+Lost Fare;2018;90;USA;Bruce Logan;46.0
+Juanita;2019;90;USA;Clark Johnson;59.0
+Flashout;2019;90;USA;Richard Lerner;48.0
+The Perfection;2018;90;USA;Richard Shepard;61.0
+Gully;2019;90;USA;Nabil Elderkin;28.0
+Broken Star;2018;90;USA;Dave Schwep;43.0
+Mi vendicherÃ²;2018;90;USA;Ben Meyerson;44.0
+MamÃ¡ se fue de viaje;2019;90;Mexico;Fernando SariÃ±ana;44.0
+Mi mejor amigo;2018;90;Argentina;MartÃ­n Deus;67.0
+Meri Nimmo;2018;90;India;Rahul Shanklya;71.0
+Johnny Gruesome;2018;90;USA;Gregory Lamberson;38.0
+Parwareshghah;2019;90;Denmark, Luxembourg, France, Germany, Afghanistan;Shahrbanoo Sadat;66.0
+Art of Deception;2019;90;USA;Richard Ryan;35.0
+El Diesel;2018;90;Egypt;Karim El Sobky;46.0
+Allahyar and the Legend of Markhor;2018;90;Pakistan;Uzair Zaheer Khan;75.0
+The Mover;2018;90;Latvia;Davis Simanis Jr.;72.0
+Winter Song;2019;90;USA;Camille Brown;66.0
+Rizu to aoi tori;2018;90;Japan;Naoko Yamada;72.0
+Para Aduma;2018;90;Israel;Tsivia Barkai;63.0
+Seveled;2019;90;Hungary;DÃ©nes Orosz;62.0
+Le jeu;2018;90;France, Belgium;Fred CavayÃ©;68.0
+Wheely;2018;90;Malaysia, Martinique, Maldives, Djibouti, Brunei;Yusry Abd Halim, Carl Mendez;40.0
+Santa Girl;2019;90;USA;Blayne Weaver;51.0
+Binti;2019;90;Belgium;Frederike Migom;65.0
+Point of no Return;2018;90;Ireland, USA;Kevin Glynn;39.0
+Malvagi;2019;90;USA;Dan Berk, Robert Olsen;62.0
+Guardians of the Tomb;2018;90;China, Australia, Russia, Thailand;Kimble Rendall;44.0
+Wastelander;2018;90;USA;Angelo Lopes;26.0
+Bungou Stray Dogs: Dead Apple;2018;90;Japan;Takuya Igarashi;72.0
+Loners;2019;90;USA;Eryc Tramonn;58.0
+Billy;2018;90;Netherlands;Theo Maassen;63.0
+The Prey;2018;90;Cambodia;Jimmy Henderson;54.0
+Tabaluga;2018;90;Germany, Canada;Sven Unterwaldt Jr.;50.0
+Sick for Toys;2018;90;USA;David Del Rio;41.0
+Black Garden;2019;90;Australia;Shaun Wilson;52.0
+Viral Beauty;2018;90;USA, Canada;David Tyson Lam;63.0
+Cinderella and the Secret Prince;2018;90;USA;Lynne Southerland;52.0
+Nighthawks;2019;90;USA;Grant S. Johnson;37.0
+Comment tuer sa mÃ¨re;2018;90;France;David Diane, Morgan Spillemaecker;36.0
+Egg;2018;90;USA;Marianna Palka;50.0
+Skin in the Game;2019;90;USA;Adisa;43.0
+Le milieu de l'horizon;2019;90;Switzerland, Belgium;Delphine Lehericey;68.0
+A Daughter's Plan To Kill;2019;90;USA;Ian Niles;47.0
+CrÃ­a puercos;2018;90;Mexico;EhÃ©catl GarcÃ­a;73.0
+The Storyteller;2018;90;USA;Joe Crump;69.0
+Maria;2019;90;Philippines;Pedring Lopez;50.0
+Closure;2018;90;USA;Alex Goldberg;68.0
+The 20th Century;2019;90;Canada;Matthew Rankin;69.0
+Pumpkins;2018;90;UK;Maria Lee Metheringham;24.0
+Qui m'aime me suive!;2019;90;France;JosÃ© Alcala;51.0
+Jane and Emma;2018;90;USA;Chantelle Squires;62.0
+Robo;2019;90;Russia;Sarik Andreasyan;51.0
+Mr. Malevolent;2018;90;USA;Rusty Cundieff, Darin Scott;42.0
+Ghostbox Cowboy;2018;90;China, USA;John Maringouin;48.0
+The Manson Family Massacre;2019;90;UK, USA;Andrew Jones;32.0
+Alcatraz;2018;90;UK, USA;Andrew Jones;33.0
+The Dawn;2019;90;USA;Brandon Slagle;46.0
+Bit;2019;90;USA;Brad Michael Elmore;38.0
+Poms;2019;90;UK, USA, Canada;Zara Hayes;59.0
+Puoi baciare lo sposo;2018;90;Italy;Alessandro Genovesi;58.0
+A Beauty & The Beast Christmas;2019;90;USA;Dylan Vox;51.0
+La truffa Ã¨ servita;2018;90;USA, UK;James Oakley;41.0
+Fright Fest;2018;90;USA;Ante Novakovic;36.0
+The Flip Side;2018;90;Australia;Marion Pilowsky;48.0
+Tvar;2019;90;Russia;Olga Gorodetskaya;41.0
+Party Hard Die Young;2018;90;Austria;Dominik Hartl;51.0
+TÃ¡tova volha;2018;90;Czech Republic;JirÃ­ Vejdelek;64.0
+L'angelo del male - Brightburn;2019;90;USA;David Yarovesky;61.0
+Countdown;2019;90;USA;Justin Dec;54.0
+Pimped;2018;90;Australia;David Barker;53.0
+A Quiet Place - Un posto tranquillo;2018;90;USA;John Krasinski;75.0
+Cruise;2018;90;USA;Robert Siegel;53.0
+Treacherous;2018;90;USA;Brian Brough;50.0
+Hollywould;2019;90;USA;Joshua Coates;36.0
+Dead Squad: Temple of the Undead;2018;90;USA;Dominik Hauser;33.0
+Christmas on the Range;2019;90;USA;Gary Wheeler;59.0
+Sconnessi;2018;90;Italy;Cristian Marazziti;53.0
+Una Mujer Sin Filtro;2018;90;Mexico, Chile;Luis Eduardo Reyes;48.0
+F20;2018;90;Croatia;Arsen A. Ostojic;53.0
+Taal is zeg maar echt mijn ding;2018;90;Netherlands;Barbara Bredero;56.0
+Mali;2018;90;Croatia;Antonio Nuic;64.0
+Si saben cÃ³mo me pongo Â¿pa' quÃ© me invitan?;2018;90;Colombia;Fernando AyllÃ³n;48.0
+The Sonata;2018;90;France, UK, Russia, Latvia;Andrew Desmond;51.0
+Rondo;2018;90;USA;Drew Barnhardt;41.0
+In the Cloud;2018;90;USA;Robert Scott Wildes;38.0
+Xiong chu mei zhi bian xing ji;2018;90;China;Leon Ding, Huida Lin;55.0
+Wildwitch - Il mondo selvatico;2018;90;Denmark, Norway, Hungary, Czech Republic;Kaspar Munk;48.0
+L'agenzia dei bugiardi;2019;90;Italy;Volfango De Biasi;56.0
+Jusqu'ici tout va bien;2019;90;France, Belgium;Mohamed Hamidi;58.0
+Il dottore vi ucciderÃ  subito;2019;90;USA;Rob Pallatina;40.0
+Project Gio;2019;90;Netherlands;Bas van Teylingen;19.0
+The Bad Guys;2018;90;USA;Carlos Rincones;62.0
+The Barn;2018;90;USA, France;Matt Beurois;35.0
+Symphony No. 9;2019;90;Iran;Mohamad Reza Honarmand;54.0
+Witches in the Woods;2019;90;Canada;Jordan Barker;41.0
+Postcards from London;2018;90;UK;Steve McLean;51.0
+HÃ©ctor el Father: ConocerÃ¡s la Verdad;2018;90;Puerto Rico;Joel ColÃ³n;55.0
+La vita segreta di mio marito;2018;90;USA;Tamar Halpern;49.0
+Supervized;2019;90;Ireland, UK;Steve Barron;49.0
+Homo Novus;2018;90;Latvia;Anna Viduleja;73.0
+Blezi;2018;90;Latvia;Andrejs Ekis;43.0
+Inner Ghosts;2018;90;Portugal, Brazil;Paulo Leite;38.0
+Head Count;2018;90;USA;Elle Callahan;54.0
+Invisible Sue;2018;90;Germany, Luxembourg;Markus Dietrich;43.0
+Fragmentary;2019;90;Australia, United Arab Emirates, UK;Jace Pickard;43.0
+The Basement;2018;90;USA;Brian M. Conley, Nathan Ives;44.0
+Good Boys - Quei cattivi ragazzi;2019;90;USA;Gene Stupnitsky;67.0
+Harmony;2018;90;Australia;Corey Pearson;54.0
+The Gateway;2018;90;Australia;John V. Soto;54.0
+Future World;2018;90;USA;James Franco, Bruce Thierry Cheung;32.0
+Chasing Bullitt;2018;90;USA;Joe Eddy;47.0
+Permettimi di amarti;2018;90;USA;Shane Stanley;56.0
+The Legend of Halloween Jack;2018;90;UK;Andrew Jones;34.0
+Killer di matrimoni;2019;90;USA;Bernard Salzmann;28.0
+Il ritorno dell'eroe;2018;90;France, Belgium;Laurent Tirard;65.0
+Doppio ricatto, doppio inganno;2018;90;USA;Nadeem Soumah;54.0
+Lez Bomb;2018;90;USA;Jenna Laurenzo;50.0
+Following Phil;2018;90;USA;Samuel Omole;65.0
+Spider-Man 2: Another World;2018;90;UK;Joey Lever;74.0
+The Dwarves of Demrel;2018;90;USA;Chris Raney;35.0
+Our House;2018;90;Canada, Germany, USA;Anthony Scott Burns;53.0
+Arrivederci professore;2018;90;USA;Wayne Roberts;67.0
+Pats Sau Milijonierius;2019;90;Lithuania;Tadas Vidmantas;64.0
+The Aspern Papers;2018;90;UK, Germany;Julien Landais;46.0
+Metal Heart;2018;90;Ireland;Hugh O'Conor;59.0
+Malicious;2018;90;USA;Michael Winnick;50.0
+Vierges;2018;90;France, Israel, Belgium;Keren Ben Rafael;61.0
+Blue;2018;90;USA;Gabriela Ledesma;63.0
+Zuo jia de huang yan: Bi zhong you zui;2019;90;Hong Kong;Christopher Sun;57.0
+Monster;2018;90;UK;Matt Shaw;71.0
+Where We Go from Here;2019;90;USA;Anthony Meindl;47.0
+La morte in un sorso;2018;90;USA;Joe Menendez;48.0
+Manou the Swift;2019;90;Germany;Andrea Block, Christian Haas;54.0
+Grace - Ispirazione cercasi;2018;90;USA;Devin Adair;58.0
+House of Demons;2018;90;USA;Patrick Meaney;33.0
+Extracurricular;2018;90;Canada;Ray Xue;54.0
+The Baylock Residence;2019;90;UK;Anthony M. Winson;37.0
+Per amore di Megan;2018;90;USA;Danny J. Boyle;50.0
+Mamma a tutti i costi;2018;90;USA;Isak Borg, Dena Hysell-Cornejo;46.0
+Elcano y Magallanes. La primera vuelta al mundo;2019;90;Spain;Ãngel Alonso;41.0
+Epidemiya. Vongozero;2019;90;Russia;Pavel Kostomarov;63.0
+Once in Trubchevsk;2019;90;Russia;Larisa Sadilova;57.0
+Animal Among Us;2019;90;USA;John Woodruff;32.0
+Exit 14;2018;90;USA;Joe Salcedo;37.0
+Jurassic Predator;2018;90;UK;Andrew Jones;33.0
+Sunset Society;2018;90;USA;Phoebe Dollar, Rolfe Kanefsky;27.0
+Se son rose;2018;90;Italy;Leonardo Pieraccioni;53.0
+Christmas Camp;2018;90;USA;Jeff Fisher;59.0
+Viaje al cuarto de una madre;2018;90;Spain;Celia Rico Clavellino;67.0
+Fear, Love, and Agoraphobia;2018;90;USA;Alex D'Lerma;57.0
+Io, Leonardo;2019;90;Italy;Jesus Garces Lambert;54.0
+Il vegetale;2018;90;Italy;Gennaro Nunziante;49.0
+Limbo;2019;90;USA;Mark Young;49.0
+Toy Gun;2018;90;Germany, Belgium, Luxembourg;Marco Serafini;53.0
+StarDog and TurboCat;2019;90;UK;Ben Smith;70.0
+The Breaker Upperers;2018;90;New Zealand;Madeleine Sami, Jackie van Beek;59.0
+Talq Senai;2018;90;Egypt;Khaled Diab;65.0
+Klassikokkutulek 2: Pulmad ja matused;2018;90;Estonia;RenÃ© Vilbre;54.0
+A Horse from Heaven;2018;90;USA;David de Vos;55.0
+Paradize 89;2018;90;Latvia;Madara Dislere;67.0
+Shanda's River;2018;90;Italy;Marco Rosson;48.0
+Endzeit;2018;90;Germany;Carolina HellsgÃ¥rd;51.0
+Sol Alegria;2018;90;Brazil;Tavinho Teixeira;56.0
+Birthmarked;2018;90;Canada;Emanuel Hoss-Desmarais;57.0
+Comme des garÃ§ons;2018;90;France;Julien Hallard;60.0
+Investigation 13;2019;90;USA;Krisstian de Lara;40.0
+Obsession;2019;90;USA;Goran Dukic;49.0
+Alterscape;2018;90;USA;Serge Levin;54.0
+A Taste of Phobia;2018;90;UK;Domiziano Cristopharo, Jason Impey;32.0
+Dirty Dealing 3D;2018;90;USA;Christopher Robin Hood;38.0
+Chiamate un dottore!;2019;90;France;Tristan SÃ©guÃ©la;65.0
+Zlogonje;2018;90;Serbia, Republic of North Macedonia;Rasko Miljkovic;67.0
+Svinhery;2018;90;Ukraine, Latvia;Andrejs Ekis;54.0
+La monnaie de leur piÃ¨ce;2018;90;France;Anne Le Ny;41.0
+Beneath the Leaves;2019;90;USA;Adam Marino;45.0
+Emma Peeters;2018;90;Canada, Belgium;Nicole Palo;63.0
+Am I a Serial Killer?;2019;90;USA;Penelope Buitenhuis;50.0
+Lola vers la mer;2019;90;Belgium, France;Laurent Micheli;65.0
+Ravers;2018;90;UK;Bernhard Pucher;46.0
+The Last Porno Show;2019;90;Canada;Kire Paputts;64.0
+Lynn + Lucy;2019;90;UK;Fyzal Boulifa;67.0
+Between Worlds;2018;90;Spain;Maria Pulera;42.0
+Social Animals;2018;90;USA;Theresa Bennett;52.0
+Zayana;2019;90;Oman, India;Khalid Abdulrahim Al-Zadjali;70.0
+La Banda;2019;90;Spain;Roberto Bueso;57.0
+La signora di Purity Falls;2019;90;USA;Sam Irvin;47.0
+Marcianos Contra Mexicanos;2018;90;Mexico;Gabriel Riva Palacio Alatriste, Rodolfo Riva Palacio Alatriste;35.0
+La tribÃ¹;2018;90;Spain;Fernando Colomo;58.0
+My Soul to Keep;2019;90;USA;Ajmal Zaheer Ahmad;50.0
+The Bra;2018;90;Germany, Azerbaijan;Veit Helmer;67.0
+Danur 3: Sunyaruri;2019;90;Indonesia;Awi Suryadi;47.0
+Ascharyachakit!;2018;90;India;Samit Kakkad;49.0
+Treasure Hunter: Legend of the White Witch;2018;90;USA;Ken Barbet;27.0
+Professor Shanku O El Dorado;2019;90;India;Sandip Ray;52.0
+Jonaki;2018;90;India, France, Singapore;Aditya Vikram Sengupta;70.0
+Cyber Bride;2019;90;UK;Louisa Warren;23.0
+L'ultima ora;2019;90;USA;James Helsing;36.0
+Driven;2019;90;USA;Glenn Payne;63.0
+Tuttapposto;2019;90;Italy;Gianni Costantino;63.0
+Inside the Rain;2019;90;USA;Aaron Fisher;45.0
+The Short History of the Long Road;2019;90;USA;Ani Simon-Kennedy;64.0
+Two for Joy;2018;90;UK;Tom Beard;60.0
+Dead Fred;2019;90;UK;Deanna Dewey;39.0
+Fulci for fake;2019;90;UK, Italy;Simone Scafidi;63.0
+The Wedding Year;2019;90;USA;Robert Luketic;55.0
+Surviving Confession;2019;90;USA;Matthew Tibbenham;54.0
+Schoolhouse;2018;90;USA;Steven Perez;28.0
+Hole - L'abisso;2019;90;Ireland, UK, Belgium, Finland;Lee Cronin;57.0
+Tolko ne oni;2018;90;Russia;Aleksandr Boykov;19.0
+Nabat;2019;90;Iran;Pegah Arzi;52.0
+Segfault;2018;90;USA;Robert Paschall Jr.;63.0
+Morte tra i banchi;2018;90;USA;Danny J. Boyle;40.0
+Chhappad Phaad Ke;2019;90;India;Sameer Joshi;63.0
+Small Town Hero;2019;90;UK;Darren Bolton;40.0
+Achoura;2018;90;Morocco, France;Talal Selhami;53.0
+Clementine;2019;90;USA;Lara Gallagher;51.0
+The Silence;2019;90;Canada, Germany;John R. Leonetti;53.0
+First Light;2018;90;Canada;Jason Stone;55.0
+De Collega's 2.0;2018;90;Belgium;Jan Verheyen;45.0
+The Trap;2019;90;USA;Erik White;43.0
+Mistero al castello Blackwood;2018;90;USA;Stacie Passon;56.0
+LajkÃ³ - CigÃ¡ny az Ã¼rben;2018;90;Hungary;BalÃ¡zs Lengyel;58.0
+Pazzie d'amore;2018;90;USA;Lisa France;45.0
+Warning Shot;2018;90;USA;Dustin Fairbanks;49.0
+Inherit the Viper;2019;90;USA;Anthony Jerjen;51.0
+Uma Quase Dupla;2018;90;Brazil;Marcus Baldini;52.0
+Wanderland;2018;90;USA;Josh Klausner;54.0
+The Secret of Happiness;2018;90;Romania;Vlad Zamfirescu;76.0
+Puppet Master: The Littlest Reich;2018;90;UK, USA;Sonny Laguna, Tommy Wiklund;54.0
+Aleksi;2018;90;Croatia, Serbia, Serbia and Montenegro;Barbara Vekaric;67.0
+The Martyr Maker;2018;90;USA;Kamal Ahmed;40.0
+Morto tra una settimana... O ti ridiamo i soldi;2018;90;UK;Tom Edmunds;62.0
+The Wave;2019;90;USA;Gille Klabin;60.0
+The Long Dumb Road;2018;90;USA;Hannah Fidell;61.0
+West of Hell;2018;90;USA;Michael Steves;46.0
+The Ghost Beyond;2018;90;USA;R. Michael Givens;31.0
+Seeds;2018;90;USA;Owen Long;36.0
+Blood Brother;2018;90;USA;John Pogue;44.0
+Echoes of Fear;2018;90;USA;Brian Avenet-Bradley, Laurence Avenet-Bradley;52.0
+SOLO!;2018;90;UK;Nic Cornwall;63.0
+In Full Bloom - I fiori della rabbia;2019;90;Japan, USA;Reza Ghassemi, Adam VillaSenor;68.0
+Hutsulka Ksenya;2019;90;Ukraine;Alena Demyanenko;72.0
+Breaking Barbi;2019;90;USA;Edward G. Negron;51.0
+Rusalka: Ozero myortvykh;2018;90;Russia;Svyatoslav Podgaevskiy, Christopher Bevins;44.0
+Deux fils;2018;90;France, Belgium;FÃ©lix Moati;58.0
+Kapsalon Romy;2019;90;Netherlands, Germany;Mischa Kamp;72.0
+Piccoli Brividi 2 - I fantasmi di Halloween;2018;90;USA, UK;Ari Sandel;56.0
+Holmes & Watson - 2 de menti al servizio della regina;2018;90;USA, Canada;Etan Cohen;38.0
+Woodstock or Bust;2018;90;USA;Leslie Bloom;41.0
+Nobody Famous;2018;90;Canada;Sarah Rotella;46.0
+Siblings of the Cape;2018;90;Japan;Shinzo Katayama;70.0
+FOMO: Fear of Missing Out;2019;90;Hungary;Attila Hartung;70.0
+Vaioretto evÃ¢gÃ¢den gaiden: Eien to jidou shuki ningyou;2019;90;Japan;Haruka Fujita, Taichi Ishidate;74.0
+Storozh;2019;90;Russia;Yuriy Bykov;64.0
+Devushki byvayut raznye;2019;90;Russia;Sarik Andreasyan;23.0
+Gamak Ghar;2019;91;India;Achal Mishra;81.0
+Thousand Yard Stare;2018;91;Canada;Aaron Kurmey;38.0
+Volition;2019;91;Canada;Tony Dean Smith;56.0
+Summer Survivors;2018;91;Lithuania;Marija Kavtaradze;77.0
+Alone We Fight;2018;91;USA;Justin Lee;29.0
+Solo;2018;91;Spain;Hugo Stuven;49.0
+Mermaid Down;2019;91;USA, UK;Jeffrey Grellman;59.0
+We Summon the Darkness;2019;91;UK, USA, Canada;Marc Meyers;51.0
+Death Whisper;2019;91;Indonesia, South Korea;Awi Suryadi;64.0
+Darkoob;2018;91;Iran;Behrouz Shoaybi;57.0
+Space Ninjas;2019;91;UK;Scott McQuaid;37.0
+Mouthpiece;2018;91;Canada;Patricia Rozema;62.0
+Norm of the North: Keys to the Kingdom;2018;91;India, USA;Tim Maltby, Richard Finn;30.0
+Dziura w glowie;2018;91;Poland;Piotr Subbotko;65.0
+Il sole a mezzanotte - Midnight Sun;2018;91;USA;Scott Speer;66.0
+Galveston;2018;91;USA;MÃ©lanie Laurent;62.0
+Permanent Green Light;2018;91;France;Dennis Cooper, Zac Farley;55.0
+Sometimes Always Never;2018;91;UK;Carl Hunter;62.0
+Standing Up, Falling Down;2019;91;USA;Matt Ratner;64.0
+Use Me;2019;91;USA;Julian Shaw;41.0
+Matriarch;2018;91;UK;Scott Vickers;54.0
+La diseducazione di Cameron Post;2018;91;USA, UK;Desiree Akhavan;66.0
+Der Vorname;2018;91;Germany;SÃ¶nke Wortmann;71.0
+Round of Your Life;2019;91;USA;Dylan Thomas Ellis;43.0
+Schemers;2019;91;UK;Dave Mclean;58.0
+La casa delle bambole - Ghostland;2018;91;France, Canada, China;Pascal Laugier;64.0
+Los JapÃ³n;2019;91;Spain;Ãlvaro DÃ­az Lorenzo;36.0
+El SilbÃ³n: OrÃ­genes;2018;91;Mexico, Venezuela;Gisberg Bermudez;44.0
+First We Take Brooklyn;2018;91;USA;Danny A. Abeckaser;38.0
+Bioscopewala;2018;91;India;Deb Medhekar;77.0
+Buttiamo giÃ¹ l'uomo;2019;91;USA;Bridget Savage Cole, Danielle Krudy;64.0
+All Creatures Here Below;2018;91;USA;Collin Schiffli;56.0
+The Mercenary;2019;91;USA;Jesse V. Johnson;54.0
+O Filme do Bruno Aleixo;2019;91;Portugal;JoÃ£o Moreira, Pedro Santo;72.0
+Realna prica;2019;91;Serbia;Gordan Kicic;72.0
+Good Posture;2019;91;USA;Dolly Wells;54.0
+Big Time Adolescence;2019;91;USA;Jason Orley;70.0
+The Final Blade;2018;91;China;Willie Ying;66.0
+FinchÃ© matrimonio non ci separi;2018;91;Mexico;Santiago LimÃ³n;49.0
+Boo!;2018;91;USA;Luke Jaden;36.0
+Jimmie;2018;91;Sweden, Austria, Croatia;Jesper Ganslandt;60.0
+Chained for Life;2018;91;USA;Aaron Schimberg;66.0
+The Fight;2018;91;UK;Jessica Hynes;55.0
+Peng e i due anatroccoli;2018;91;China, USA, UK, Thailand, India;Christopher Jenkins;57.0
+Burning Kentucky;2019;91;USA;Bethany Brooke Anderson;44.0
+Todas as RazÃµes para Esquecer;2018;91;Brazil;Pedro Coutinho;63.0
+Relaxer;2018;91;USA;Joel Potrykus;59.0
+Quando gli angeli dormono;2018;91;Spain;Gonzalo Bendala;54.0
+Hume Tumse Pyaar Kitna;2019;91;India;Lalit Mohan;48.0
+The Party's Just Beginning;2018;91;UK;Karen Gillan;61.0
+The Final Scream;2019;91;UK;Scott Jeffrey;57.0
+Holly Star;2018;91;USA;Michael A. Nickles;51.0
+Black Site;2018;91;UK;Tom Paton;43.0
+El mejor verano de mi vida;2018;91;Spain;Dani de la Orden;58.0
+Mollywood;2019;91;USA;Morocco Vaughn;25.0
+Get Gone;2019;91;USA;Michael Thomas Daniel;27.0
+Elephants;2018;91;USA;Alex Hanno;59.0
+Gojira: hoshi wo kÃ» mono;2018;91;Japan;Hiroyuki Seshita, KÃ´bun Shizuno;50.0
+Benjamin BlÃ¼mchen;2019;91;Germany;Tim Trachte;36.0
+The Mercy of the Jungle;2018;91;Belgium, France, Rwanda;JoÃ«l Karekezi;62.0
+You Can't Say No;2018;91;USA;Paul Kramer;39.0
+Viking Destiny;2018;91;UK, Belgium;David L.G. Hughes;42.0
+Mug - Un'altra vita;2018;91;Poland;Malgorzata Szumowska;64.0
+Pupazzi senza gloria;2018;91;USA, China;Brian Henson;54.0
+Christ(Off);2018;91;France, Belgium;Pierre Dudan;41.0
+Spivak;2018;91;USA;Anthony Abrams, Adam Larson Broder;55.0
+Red Handed;2019;91;USA;Frank Peluso;33.0
+Gli acchiappamostri;2018;91;USA;Jason Murphy;54.0
+To Your Last Death;2019;91;USA;Jason Axinn;73.0
+Amin;2018;91;France;Philippe Faucon;62.0
+Black Wake;2018;91;USA;Jeremiah Kipp;21.0
+Nightshot;2018;91;France;Hugo KÃ¶nig;55.0
+Kill Chain;2019;91;USA;Ken Sanzel;50.0
+A Vigilante;2018;91;USA;Sarah Daggar-Nickson;57.0
+Message Man;2018;91;Indonesia, Australia, UK, United Arab Emirates;Corey Pearson;60.0
+Nicky Larson et le parfum de Cupidon;2018;91;France;Philippe Lacheau;65.0
+Butterfly Kisses;2018;91;USA;Erik Kristopher Myers;58.0
+Denmark;2019;91;UK;Adrian Shergold;60.0
+Gates of Darkness;2019;91;USA, France, Nepal;Don E. FauntLeRoy;42.0
+Qui e ora;2018;91;USA;Fabien Constant;44.0
+Edge of Fear;2018;91;USA;Bobby Roth;44.0
+Await Further Instructions;2018;91;UK;Johnny Kevorkian;48.0
+Lilli;2018;91;India;Prasobh Vijayan;58.0
+Take Me Somewhere Nice;2019;91;Netherlands, Bosnia and Herzegovina;Ena Sendijarevic;64.0
+The BBQ;2018;91;Australia;Stephen Amis;49.0
+Zahr-e Mar;2019;91;Iran;Javad Razavian;41.0
+L'immensitÃ  della notte;2019;91;USA;Andrew Patterson;67.0
+Deok-gu;2018;91;South Korea;Soo-in Bang;67.0
+Don't Go;2018;91;Ireland;David Gleeson;52.0
+Guadalupe Reyes;2019;91;Mexico;Salvador Espinosa;59.0
+Alive;2019;91;Canada;Rob Grant;53.0
+C'era una volta Steve McQueen;2019;91;USA;Mark Steven Johnson;62.0
+Friday's Child;2018;91;USA;A.J. Edwards;60.0
+Behind the Walls;2018;91;USA;James Kondelik, Jon Kondelik;30.0
+Mrs Lowry & Son;2019;91;UK;Adrian Noble;67.0
+Wo de qing chun dou shi ni;2019;91;China;Mengying Dai, Tong Zhou;63.0
+One Last Thing;2018;91;USA;Tim Rouhana;62.0
+Dead Don't Die in Dallas;2019;91;USA;Israel Luna;44.0
+Minutes to Midnight;2018;91;USA;Christopher Ray;34.0
+As Zvaigzde;2018;91;Lithuania;Robertas Kuliunas;32.0
+Torna a casa, Jimi! - 10 cose da non fare quanto perdi il tuo cane a Cipro;2018;92;Cyprus;Marios Piperides;66.0
+Marnies Welt;2018;92;Germany, Belgium;Christoph Lauenstein, Wolfgang Lauenstein;56.0
+El mundo es suyo;2018;92;Spain;Alfonso SÃ¡nchez;49.0
+One Man Dies a Million Times;2019;92;USA;Jessica Oreck;63.0
+Vitoria, 3 de marzo;2018;92;Spain;Victor Cabaco;66.0
+Better Start Running;2018;92;USA;Brett Simon;52.0
+En affÃ¦re;2018;92;Norway;Henrik Martin Dahlsbakken;56.0
+De Matchmaker;2018;92;Netherlands, Belgium;Jeroen Houben;60.0
+HÃ©raÃ°iÃ°;2019;92;Iceland, Denmark, Germany, France;GrÃ­mur HÃ¡konarson;66.0
+Zizotek;2019;92;Greece;Vardis Marinakis;62.0
+AllÃ¡ en el Rancho;2018;92;Mexico;Rafael Montero;40.0
+Wildling;2018;92;USA;Fritz BÃ¶hm;55.0
+Los amores cobardes;2018;92;Spain;Carmen Blanco;60.0
+Office Uprising;2018;92;USA;Lin Oeding;60.0
+Please Come with Me;2019;92;USA;Michael Ciulla;46.0
+Minuscule - Les mandibules du bout du monde;2018;92;France, Guadeloupe, China;HÃ©lÃ¨ne Giraud, Thomas Szabo;68.0
+Stretch Marks;2018;92;USA;Gregory Rocco;57.0
+Deadman Standing;2018;92;USA;Nicholas Barton;49.0
+Eleven Eleven;2018;92;USA;Chris Redish;36.0
+Scarpette rosse e i 7 nani;2019;92;South Korea;Sung-ho Hong, Moo-Hyun Jang;63.0
+Deadtectives;2018;92;USA;Tony West;62.0
+Rendez-vous chez les Malawas;2019;92;France, Belgium;James Huth;39.0
+The Manor;2018;92;USA;Jonathon Schermerhorn;30.0
+A Kid Like Jake;2018;92;USA;Silas Howard;54.0
+Unfriended: Dark Web;2018;92;USA, Russia;Stephen Susco;59.0
+Reach;2018;92;USA;Leif Rokesh;56.0
+Shadows in Mind;2019;92;USA;Mark Schwab;53.0
+Taxi a Gibraltar;2019;92;Spain, Argentina;Alejo Flah;45.0
+Hollow Body;2018;92;USA;Alex Keledjian;37.0
+Love for Sale 2;2019;92;Indonesia;Andibachtiar Yusuf;69.0
+L'incredibile viaggio del fachiro;2018;92;France, India, Belgium, Singapore, USA;Ken Scott;69.0
+The Second Coming of Christ;2018;92;USA;Daniel Anghelcev;45.0
+BROS. Last Call;2018;92;USA;Don Tjernagel;84.0
+The Harvesting;2019;92;USA;Ivan Kraljevic;37.0
+Automation;2019;92;USA;Garo Setian;45.0
+Unintended;2018;92;USA;Anja Murmann;53.0
+Julemandens datter;2018;92;Denmark;Christian DyekjÃ¦r;57.0
+Nuclear;2019;92;UK;Catherine Linstrum;50.0
+Strategy and Pursuit;2018;92;USA;Matt Riddlehoover;72.0
+In a Relationship;2018;92;Mexico, USA;Sam Boyd;55.0
+Twelve;2019;92;USA;Steve Grimaldi;61.0
+Rapina a Stoccolma;2018;92;Canada, USA;Robert Budreau;61.0
+Ni liu da shu;2018;92;Hong Kong;Sunny Chan;68.0
+Ga woo man si ging;2019;92;Hong Kong;Herman Yau;60.0
+All Inclusive;2019;92;France, Belgium;Fabien Onteniente;31.0
+Someone Great;2019;92;USA;Jennifer Kaytin Robinson;62.0
+Patuljci sa naslovnih strana;2018;92;Serbia;Milorad Milinkovic;46.0
+Noura RÃªve;2019;92;Tunisia, Belgium, France, Qatar, Netherlands;Hinde Boujemaa;65.0
+Black Christmas;2019;92;USA, New Zealand;Sophia Takal;32.0
+Cat in the Wall;2019;92;Bulgaria, UK, France;Vesela Kazakova, Mina Mileva;55.0
+Let It Snow - Innamorarsi sotto la neve;2019;92;USA;Luke Snellin;58.0
+A Boy Called Sailboat;2018;92;USA, Australia;Cameron Nugent;67.0
+Dolci scelte;2018;92;USA;Ben Shelton;58.0
+Runnin' from My Roots;2018;92;USA;Nancy Criss;49.0
+We Die Young;2019;92;Bulgaria, USA;Lior Geller;53.0
+Hemelrijken;2019;92;Netherlands;Stanley Kolk;63.0
+Arctic - Un'avventura glaciale;2019;92;India, UK, China, Canada, Japan, South Korea, USA;Aaron Woodley;46.0
+Thunder Road;2018;92;USA;Jim Cummings;71.0
+American Dreamer;2018;92;USA;Derrick Borte;61.0
+El Hijo;2019;92;Argentina;SebastiÃ¡n Schindel;54.0
+En komikers uppvÃ¤xt;2019;92;Sweden;Rojda SekersÃ¶z;66.0
+Rosy;2018;92;USA;Jess Bond;47.0
+Wake Up - Il risveglio;2019;92;USA;Aleksandr Chernyaev;50.0
+Todas as CanÃ§Ãµes de Amor;2018;92;Brazil;Joana Mariani;69.0
+Interlaced;2018;92;USA;James Cardoza;32.0
+Kat and the Band;2019;92;UK;E.E. Hegarty;57.0
+Haunt;2019;92;USA;Scott Beck, Bryan Woods;63.0
+Ghost in the Graveyard;2019;92;USA;Charlie Comparetto;49.0
+Catacombe;2018;92;Belgium, Netherlands;Victor D. Ponten;55.0
+Trolled;2018;92;USA;Alex Sebastian;18.0
+Cops;2018;92;Austria;Stefan A. Lukacs;63.0
+Ordinary Love;2019;92;UK;Lisa Barros D'Sa, Glenn Leyburn;66.0
+Marla;2018;92;USA;Lisa van Dam-Bates;33.0
+Eerie Fairy Tales;2019;92;Estonia;Mart Sander;69.0
+The Samuel Project;2018;92;USA;Marc Fusco;73.0
+L'extraordinaire voyage de Marona;2019;92;France, Romania, Belgium;Anca Damian;76.0
+O PoÃ§o;2019;92;Brazil;AndrÃ© Borelli;68.0
+Unheimlich perfekte Freunde;2019;92;Germany;Marcus H. RosenmÃ¼ller;64.0
+What Still Remains;2018;92;USA;Josh Mendoza;47.0
+Incredible Violence;2018;92;Canada;G. Patrick Condon;43.0
+El viaje extraordinario de Celeste GarcÃ­a;2018;92;Cuba, Germany;Arturo Infante;64.0
+Robin Hood: The Rebellion;2018;92;UK;Nicholas Winter;42.0
+Der LÃ¤ufer;2018;92;Switzerland;Hannes Baumgartner;59.0
+The System;2018;92;USA;Irin Daniels;82.0
+Mountain Rest;2018;92;USA;Alex O Eaton;54.0
+The House of Us;2019;92;South Korea;Ga-eun Yoon;73.0
+Persona non grata;2019;92;France;Roschdy Zem;50.0
+A Sombra do Pai;2018;92;Brazil;Gabriela Amaral;63.0
+The Viper's Hex;2018;92;Japan;Addison Heath, Jasmine Jakupi;74.0
+Clara's Ghost;2018;92;USA;Bridey Elliott;43.0
+The Tokoloshe;2018;92;South Africa;Jerome Pikwane;43.0
+Danur 2: Maddah;2018;92;Indonesia;Awi Suryadi;57.0
+L'avvertimento;2018;92;Spain;Daniel Calparsoro;59.0
+JagtsÃ¦son;2019;92;Denmark;Tilde Harkamp;52.0
+Couples' Night;2018;92;USA;Mark Harris;72.0
+Escape and Evasion;2019;92;Australia, United Arab Emirates;Storm Ashwood;44.0
+Blood Fest;2018;92;USA;Owen Egerton;53.0
+Natale, folle Natale;2019;92;USA;Leslie Small;48.0
+Doshman-e zan;2018;92;Iran;Karim Amini;40.0
+The Hurt;2018;92;USA;Kevin Van Stevenson;31.0
+Howlers;2019;92;USA;Josh Ridgway;48.0
+Already Gone;2019;92;USA;Christopher Kenneally;40.0
+Horrible Histories: The Movie - Rotten Romans;2019;92;UK;Dominic Brigstocke;52.0
+Tomorrow;2018;92;UK;Martha Pinson;80.0
+Headgame;2018;92;USA;Steven Judd;39.0
+Jinn;2018;92;USA;Nijla Mumin;55.0
+Dreamland;2019;92;Canada, Luxembourg, Belgium;Bruce McDonald;47.0
+My Prince Edward;2019;92;Hong Kong;Norris Wong;69.0
+Solis;2018;92;UK;Carl Strathie;47.0
+Vengeance;2018;92;UK;Ross Boyask;44.0
+Backtrace;2018;92;USA;Brian A. Miller;37.0
+Suk Suk;2019;92;Hong Kong;Ray Yeung;71.0
+The Prodigy - Il figlio del male;2019;92;USA, Canada;Nicholas McCarthy;58.0
+The Field;2019;92;USA;Tate Bunker;42.0
+Un giorno di pioggia a New York;2019;92;USA;Woody Allen;66.0
+Stillwater;2018;92;USA;Nino Aldi;51.0
+Un cavaliere per Natale;2019;92;USA;Monika Mitchell;55.0
+Il primo anno;2018;92;France;Thomas Lilti;67.0
+Family Blood;2018;92;USA;Sonny Mallhi;42.0
+Quanto basta;2018;92;Brazil, Italy;Francesco Falaschi;65.0
+Show Dogs - Entriamo in scena;2018;92;UK, USA;Raja Gosnell;37.0
+What are the Odds?;2019;92;India;Megha Ramaswamy;53.0
+The Haunting of Borley Rectory;2019;92;UK;Steven M. Smith;32.0
+Un'improbabile amicizia;2019;93;Canada;Christopher Cantwell;56.0
+Duck Butter;2018;93;USA;Miguel Arteta;53.0
+Cheshm O Goosh Baste;2019;93;Iran;Farzad Motamen;47.0
+Hattrick;2018;93;Iran;Ramtin Lavafipour;58.0
+La notte ha divorato il mondo;2018;93;France;Dominique Rocher;60.0
+U-July 22;2018;93;Norway;Erik Poppe;72.0
+Cetto c'Ã¨ senzadubbiamente;2019;93;Italy;Giulio Manfredonia;51.0
+Litigante;2019;93;Colombia, France;Franco Lolli;65.0
+Bombay Rose;2019;93;India, UK, France, Qatar;Gitanjali Rao;64.0
+Ladyworld;2018;93;USA;Amanda Kramer;35.0
+Los Angeles Overnight;2018;93;USA, Australia;Michael Chrisoulakis;59.0
+Robbery;2018;93;Canada;Corey Stanton;43.0
+Antiquities;2018;93;USA;Daniel Campbell;65.0
+Sarkoob;2019;93;Iran;Reza Goran;48.0
+Welcome to Hell;2018;93;UK;Tony Newton, Sam Mason-Bell;27.0
+Alien Expedition;2018;93;USA;Wallace Brothers;27.0
+Coyote Lake;2019;93;USA;Sara Seligman;52.0
+Mai visto;2019;93;Spain;Marina Seresesky;53.0
+QuÃ© LeÃ³n;2018;93;Dominican Republic;Frank Perozo;62.0
+Higher Power;2018;93;USA;Matthew Charles Santoro;48.0
+Dark Sense;2019;93;UK;Magnus Wake;47.0
+Lo mÃ¡s sencillo es complicarlo todo;2018;93;Mexico;Rene Bueno;38.0
+Asimetrija;2019;93;Serbia, Slovenia, Italy;Masa Neskovic;50.0
+Fall City;2018;93;USA;Nathan D. Lee;54.0
+Stuber - Autista d'assalto;2019;93;USA;Michael Dowse;62.0
+In the Trap - Nella trappola;2019;93;Italy;Alessio Liguori;40.0
+Possession Diaries;2019;93;USA;Juan Frausto;19.0
+Battle Drone;2018;93;USA;Mitch Gould;52.0
+The 16th Episode;2018;93;USA;JÃ©rÃ´me Cohen-Olivar;57.0
+Eighth Grade - Terza media;2018;93;USA;Bo Burnham;74.0
+La chute de Sparte;2018;93;Canada;Tristan Dubois;61.0
+The Way We Weren't;2019;93;USA, Switzerland;Rick Hays;65.0
+The Black String;2018;93;USA;Brian Hanson;54.0
+Uqdat el-Khawagah;2018;93;Egypt;Peter Mimi;49.0
+Madeline's Madeline;2018;93;USA;Josephine Decker;64.0
+Beyond White Space;2018;93;USA, Hungary;Ken Locsmandi;45.0
+Mister Link;2019;93;Canada, USA;Chris Butler;67.0
+The Oath;2018;93;USA;Ike Barinholtz;54.0
+Las niÃ±as bien;2018;93;Mexico;Alejandra MÃ¡rquez Abella;70.0
+El increÃ­ble finde menguante;2019;93;Spain;Jon Mikel Caballero;62.0
+Lupin III: The First;2019;93;Japan;Takashi Yamazaki;70.0
+Gosnell: The Trial of America's Biggest Serial Killer;2018;93;USA;Nick Searcy;67.0
+Tangeye Abu Ghorayb;2018;93;Iran;Bahram Tavakoli;65.0
+The Executioners;2018;93;USA;Giorgio Serafini;38.0
+The Glorious Seven;2019;93;Germany;Harald Franklin;27.0
+The Ninth Passenger;2018;93;Canada;Corey Large;30.0
+Route 80;2018;93;USA;Nick Rapuano;47.0
+Assimilate;2019;93;USA;John Murlowski;53.0
+Slender Man;2018;93;USA;Sylvain White;32.0
+When Jeff Tried to Save the World;2018;93;USA;Kendall Goldberg;57.0
+Giant Little Ones;2018;93;Canada;Keith Behrman;72.0
+Safe Spaces;2019;93;USA;Daniel Schechter;57.0
+The Divorce Party;2019;93;USA;Hughes William Thompson;51.0
+Going for Gold;2018;93;Australia;Clay Glen;47.0
+Swiped;2018;93;USA;Ann Deborah Fishman;35.0
+Love Addict;2018;93;France;Frank Bellocq;50.0
+Cold November;2018;93;Kosovo, Albania, Republic of North Macedonia;Ismet Sijarina;70.0
+Iron Sky - La battaglia continua;2019;93;Finland, Germany, Belgium;Timo Vuorensola;50.0
+Catskill Park;2018;93;USA;Vlad Yudin;37.0
+Resolution Song;2018;93;USA;Antonio James;49.0
+Hidden Light;2018;93;Australia;Aaron Kamp;68.0
+A Son of Man;2019;93;Ecuador;Jamaicanoproblem, Pablo AgÃ¼ero;59.0
+La Llorona - Le lacrime del male;2019;93;USA;Michael Chaves;53.0
+Little Monsters;2019;93;Australia, USA, UK;Abe Forsythe;63.0
+Tales from the Lodge;2019;93;UK;Abigail Blackmore;50.0
+All Square;2018;93;USA;John Hyams;59.0
+Firecrackers;2018;93;Canada;Jasmin Mozaffari;60.0
+Let There Be Light;2019;93;Slovakia, Czech Republic;Marko Skop;67.0
+Dance Baby Dance;2018;93;USA;Stephen Kogon;61.0
+Depth of Pyaar;2019;93;Canada;Mukesh Asopa, Charles Ross;70.0
+HollywoodtÃ¼rke;2019;93;Germany;Murat Ãœnal;58.0
+Brakland;2018;93;Denmark, Iceland;Martin Skovbjerg;59.0
+Blood Vessel;2019;93;Australia;Justin Dix;52.0
+Cui mian cai jue;2019;93;Hong Kong, China;Siu Kwan Lai, Wing Tai Lau;59.0
+Kinky;2018;93;USA;Jean-Claude La Marre;30.0
+Aiuto, ho ristretto mamma e papÃ ;2018;93;Germany;Tim Trageser;49.0
+Los Angeles/Tehran;2018;93;Iran;Tina Pakravan;23.0
+Die defekte Katze;2018;93;Germany;Susan Gordanshekan;65.0
+International Falls;2019;93;USA;Amber McGinnis;54.0
+Target;2018;93;Indonesia;Raditya Dika;40.0
+Support the Girls;2018;93;USA;Andrew Bujalski;64.0
+Old Man & the Gun;2018;93;USA, UK;David Lowery;67.0
+Fig Tree;2018;93;Israel, France, Ethiopia, Germany;Aalam-Warqe Davidian;63.0
+Tijuana Jackson: Purpose Over Prison;2018;93;USA;Romany Malco;57.0
+Run with the Hunted;2019;93;USA;John Swab;75.0
+Daffodils;2019;93;New Zealand;David Stubbs;57.0
+Paradise Beach;2019;93;France;Xavier Durringer;44.0
+Buoyancy;2019;93;Australia;Rodd Rathjen;74.0
+El Motoarrebatador;2018;93;Argentina, Uruguay, France;AgustÃ­n Toscano;68.0
+Happy Times;2019;93;Israel, USA, Italy;Michael Mayer;59.0
+Psi umiru sami;2019;93;Serbia;Nikola Petrovic;50.0
+Videomannen;2018;93;Sweden;Kristian A. SÃ¶derstrÃ¶m;58.0
+Red Devil;2019;93;UK;Savvas D. Michael;60.0
+The Perfect Host: A Southern Gothic Tale;2018;93;USA;Derrick Sims;41.0
+Attenti a quelle due;2019;93;USA;Chris Addison;54.0
+Best F(r)iends: Volume 2;2018;93;USA;Justin MacGregor;51.0
+One Remains;2019;93;USA;Josh Hodgins;29.0
+Holiday;2018;93;Denmark, Netherlands, Sweden;Isabella EklÃ¶f;57.0
+Cronofobia;2018;93;Switzerland;Francesco Rizzi;67.0
+Liang zhi lao hu;2019;93;China;Fei Li;57.0
+Welcome the Stranger;2018;94;USA;Justin Kelly;47.0
+Long Lost;2018;94;USA;Erik Bloomquist;51.0
+By Light of Desert Night;2019;94;USA;David Stuart Snell;54.0
+Jahan, Ba Man Beraghs;2019;94;Iran;Sorush Sehhat;66.0
+The Nightmare Gallery;2019;94;USA;Gene Blalock;38.0
+Une annÃ©e polaire;2018;94;France;Samuel Collardey;65.0
+Sid & Aya: Not a Love Story;2018;94;Philippines;Irene Villamor;69.0
+Dance Night Obsession;2019;94;USA;Harvey Lowry;39.0
+American Bistro;2019;94;USA;Arthur Diennet;64.0
+Loca Por El Trabajo;2018;94;Mexico;Luis Eduardo Reyes;43.0
+Eide Asli;2019;94;Iran;Azita Moguie;53.0
+Cobain;2018;94;Netherlands, Belgium, Germany;Nanouk Leopold;63.0
+Itsy Bitsy;2019;94;USA;Micah Gallo;49.0
+Meet Me in St. Gallen;2018;94;Philippines;Irene Villamor;70.0
+Tutti i ricordi di Claire;2018;94;France;Julie Bertuccelli;60.0
+Half Magic;2018;94;USA;Heather Graham;46.0
+Hotel Gagarin;2018;94;Italy;Simone Spada;57.0
+Corbin Nash;2018;94;UK, USA;Ben Jagger;49.0
+Il pacco;2018;94;USA;Jake Szymanski;55.0
+El despertar de las hormigas;2019;94;Costa Rica, Spain;Antonella Sudasassi, Antonella Sudasassi;66.0
+Il padre dell'anno;2018;94;USA;Tyler Spindel;52.0
+The Open House;2018;94;Canada, USA;Matt Angel, Suzanne Coote;32.0
+Balboa Blvd;2019;94;Australia;Kylie Claude, Rody Claude;66.0
+Virgin Cheerleaders in Chains;2018;94;USA;Paulo Biscaia Filho, Gary McClain Gannaway;38.0
+Quando eravamo fratelli;2018;94;USA;Jeremiah Zagar;69.0
+El proyeccionista;2019;94;Dominican Republic;JosÃ© MarÃ­a Cabral;69.0
+Mi pequeÃ±o gran hombre;2018;94;Mexico;Jorge RamÃ­rez SuÃ¡rez;41.0
+Sonora;2018;94;Mexico;Alejandro Springall;62.0
+Moj jutarnji smeh;2019;94;Serbia;Marko Djordjevic;72.0
+Port Authority;2019;94;USA, France;Danielle Lessovitz;65.0
+Hala;2019;94;USA;Minhal Baig;58.0
+Ibiza;2018;94;USA;Alex Richanbach;52.0
+Swallow;2019;94;USA, France;Carlo Mirabella-Davis;64.0
+Sharon Tate - Tra incubo e realtÃ ;2019;94;USA, Mexico;Daniel Farrands;28.0
+Snu;2019;94;Portugal;PatrÃ­cia Sequeira;66.0
+Il buco;2019;94;Spain;Galder Gaztelu-Urrutia;70.0
+Blood Vow;2018;94;USA;Victoria Sutton;62.0
+Braven - Il coraggioso;2018;94;Canada;Lin Oeding;60.0
+The Bouncer;2018;94;France, Belgium, British Virgin Islands;Julien Leclercq;59.0
+Battalion;2018;94;Australia;Michael Miller;21.0
+Hotel Artemis;2018;94;UK, USA;Drew Pearce;61.0
+Non tutte le sciagure vengono dal cielo;2018;94;Switzerland;Michael Steiner;66.0
+Miss Arizona;2018;94;USA;Autumn McAlpin;53.0
+James vs. His Future Self;2019;94;Canada;Jeremy LaLonde;59.0
+Disco;2019;94;Norway;Jorunn Myklebust Syversen;54.0
+Un PapÃ¡ Pirata;2019;94;Mexico;Humberto Hinojosa Ozcariz;45.0
+Eiga Chuunibyou demo koi ga shitai! Take On Me;2018;94;Japan;Tatsuya Ishihara;73.0
+Just a Gigolo;2019;94;France;Olivier Baroux;54.0
+Blackmark;2018;94;USA;A.J. Martinson;45.0
+Say Yes;2018;94;USA;Stewart Wade;68.0
+Blood Craft;2019;94;USA;James Cullen Bressack;35.0
+Cam;2018;94;USA;Daniel Goldhaber;59.0
+Extra Ordinary;2019;94;Ireland, Belgium, Finland, UK;Mike Ahern, Enda Loughman;64.0
+Dedicada a mi Ex;2019;94;Colombia, Ecuador;Jorge Ulloa;75.0
+MormaÃ§o;2018;94;Brazil;Marina Meliande;64.0
+Cucuy: The Boogeyman;2018;94;USA;Peter Sullivan;46.0
+Red Zone - 22 miglia di fuoco;2018;94;USA, China, Colombia;Peter Berg;61.0
+Equipaggio zero;2019;94;USA;Bert, Bertie;69.0
+Cabaret Maxime;2018;94;Portugal, USA;Bruno de Almeida;61.0
+Bennett's War;2019;94;USA;Alex Ranarivelo;57.0
+Code Name: Dynastud;2018;94;USA;Richard Griffin;34.0
+Re loca;2018;94;Argentina;Martino Zaidelis;61.0
+Loon Lake;2019;94;USA;Ansel Faraj;49.0
+Chen mo de zheng ren;2019;94;China, Hong Kong;Renny Harlin;56.0
+Close;2019;94;UK, USA;Vicky Jewson;57.0
+The Truth About Lies;2018;94;USA;Phil Allocco;52.0
+Las grietas de Jara;2018;94;Argentina, Spain;NicolÃ¡s Gil Lavedra;57.0
+Zagrebacki Ekvinocij;2019;94;Croatia;Svebor Mihael Jelic;81.0
+Long xia jing cha;2018;94;China;Xinyun Li;50.0
+The Second;2018;94;Australia;Mairi Cameron;47.0
+Change in the Air;2018;94;USA;Dianne Dreyer;55.0
+Ore 15:17 - Attacco al treno;2018;94;USA;Clint Eastwood;52.0
+TrÃªs VerÃµes;2019;94;Brazil, France;Sandra Kogut;60.0
+The Song of Sway Lake;2018;94;USA;Ari Gold;60.0
+The Cleansing Hour;2019;94;USA;Damien LeVeck;57.0
+Ti presento Patrick;2018;94;UK;Mandie Fletcher;59.0
+Soul to Keep;2018;94;USA;David Allensworth, Moniere;43.0
+True Fiction;2019;94;Canada;Braden Croft;48.0
+The Maestro;2018;94;USA;Adam Cushman;57.0
+Submission;2019;94;USA;J.M. Berrios;51.0
+Waka okami wa shÃ´gakusei!;2018;94;Japan;KitarÃ´ KÃ´saka;70.0
+Il bene mio;2018;94;Italy;Pippo Mezzapesa;57.0
+Honey Boy;2019;94;USA;Alma Har'el;73.0
+Dafne;2019;94;Italy;Federico Bondi;62.0
+Sestrenka;2019;94;Russia;Aleksandr Galibin;73.0
+Styx;2018;94;Germany, Austria, Netherlands, Malta;Wolfgang Fischer;65.0
+Los Bando;2018;94;Norway, Sweden;Christian Lo;67.0
+River Runs Red;2018;94;USA;Wes Miller;46.0
+Drive Me Home - Portami a casa;2018;94;Italy;Simone Catania;57.0
+Flay;2019;94;USA;Eric Pham;32.0
+Het leven is vurrukkulluk;2018;94;Netherlands;Frans Weisz;53.0
+El Fantasma de mi Novia;2018;94;Dominican Republic;"Francis ""Indio"" Disla Ferreira";62.0
+Emmett;2019;94;USA;Bridget Stokes;48.0
+UP There;2019;94;USA;Michael Blaustein, Daniel Weingarten;49.0
+Among Thieves;2019;95;USA;K.C. Schrimpl;42.0
+Life Like;2019;95;USA;Josh Janowicz;54.0
+Cabaret;2019;95;India;Kaustav Narayan Niyogi;35.0
+Khrustal;2018;95;Belarus, USA, Germany, Russia;Darya Zhuk;70.0
+Brave ragazze;2019;95;Italy;Michela Andreozzi;54.0
+Welcome to Curiosity;2018;95;UK;Ben Pickering;50.0
+Recuperando a mi Ex;2018;95;Mexico;Gabriel GuzmÃ¡n;35.0
+La terra dell'abbastanza;2018;95;Italy;Damiano D'Innocenzo, Fabio D'Innocenzo;62.0
+Cruel Peter;2019;95;Italy;Christian Bisceglia, Ascanio Malgarini;50.0
+In Reality;2018;95;USA;Ann Lupo;51.0
+Go Back to China;2019;95;China, USA;Emily Ting;59.0
+Prishelets;2018;95;Russia;Alexander Kulikov, Mikhail Raskhodnikov;24.0
+Po cem muzi touzÃ­;2018;95;Czech Republic;Rudolf Havlik;62.0
+Podbrosy;2018;95;Russia, Lithuania, Ireland, France;Ivan I. Tverdovskiy;61.0
+Jonathan;2018;95;USA;Bill Oliver;59.0
+Dry Martina;2018;95;Chile, Argentina;Che Sandoval;58.0
+Eaten by Lions;2018;95;UK;Jason Wingard;61.0
+Wounds;2019;95;USA, UK;Babak Anvari;40.0
+Ring of Silence;2019;95;USA;Nicole Bowers Wallace;86.0
+Hekayat-e darya;2018;95;Iran;Bahman Farmanara;46.0
+Eternal Beauty;2019;95;UK;Craig Roberts;63.0
+Recreo;2018;95;Argentina;HernÃ¡n Guerschuny, JazmÃ­n Stuart;57.0
+Solteras;2019;95;Mexico;Luis Javier Henaine;59.0
+Tully;2018;95;USA, Canada;Jason Reitman;70.0
+Abdel et la comtesse;2018;95;France;Isabelle Doval;48.0
+Ride;2018;95;Italy;Valerio Mastandrea;51.0
+Songbird;2018;95;UK;Jamie Adams;42.0
+Nyitva;2018;95;Hungary;Orsi Nagypal;65.0
+Chicuarotes;2019;95;Mexico;Gael GarcÃ­a Bernal;67.0
+Blindspotting;2018;95;USA;Carlos LÃ³pez Estrada;74.0
+The Parting Glass;2018;95;USA;Stephen Moyer;55.0
+Camper Killer;2018;95;USA;Tom Nagel;37.0
+The Tracker;2019;95;Italy, USA;Giorgio Serafini;34.0
+BROS. On The Rocks;2018;95;USA;Don Tjernagel;68.0
+Youtopia;2018;95;Italy;Berardo Carboni;55.0
+Termination;2019;95;USA;Alice Nicolini;26.0
+Burning Men;2019;95;UK;Jeremy Wooding;42.0
+Dorst;2018;95;Netherlands;Saskia Diesing;60.0
+Paradise Hills;2019;95;Spain, USA;Alice Waddington;56.0
+Dublin Oldschool;2018;95;Ireland;Dave Tynan;61.0
+Unhinged;2018;95;USA;Giorgio Serafini;40.0
+Shangri-La: Near Extinction;2018;95;USA;Nick Wauters;30.0
+In Paradox;2019;95;Kuwait;Hamad AlSarraf;53.0
+Exit 0;2019;95;USA;E.B. Hughes;65.0
+Panama Papers;2019;95;USA;Steven Soderbergh;63.0
+Vargur;2018;95;Iceland, Denmark, Sweden;BÃ¶rkur SigÃ¾Ã³rsson;62.0
+Lionheart;2018;95;Nigeria;Genevieve Nnaji;56.0
+The Golem;2018;95;Israel;Doron Paz, Yoav Paz;56.0
+Dino King 3D: Journey to Fire Mountain;2019;95;South Korea, China;Han Sang-Ho;48.0
+Tuntematon mestari;2018;95;Finland;Klaus HÃ¤rÃ¶;74.0
+Curse of the Witch's Doll;2018;95;UK;Lawrence Fowler;32.0
+Sea Fever;2019;95;Ireland, USA, UK, Sweden, Belgium;Neasa Hardiman;57.0
+CÃ³rka trenera;2018;95;Poland;Lukasz Grzegorzek;60.0
+Peter Rabbit;2018;95;USA, Australia, UK;Will Gluck;66.0
+Automata;2019;95;UK;Lawrie Brewster;43.0
+Yung;2018;95;Germany;Henning Gronkowski;57.0
+Heaven's War;2018;95;USA;Danny Carrales;42.0
+Les Tuche 3;2018;95;France;Olivier Baroux;46.0
+Saving Flora;2018;95;USA;Mark Drury Taylor;57.0
+Deep Murder;2019;95;USA;Nick Corirossi;42.0
+Greener Grass;2019;95;USA;Jocelyn DeBoer, Dawn Luebbe;63.0
+Summer '03;2018;95;USA;Becca Gleason;54.0
+The Deeper You Dig;2019;95;USA;John Adams, Toby Poser;51.0
+The Wretched;2019;95;USA;Brett Pierce, Drew T. Pierce;58.0
+The Dustwalker;2019;95;Australia, United Arab Emirates;Sandra Sciberras;38.0
+Pretenders;2018;95;USA;James Franco;51.0
+The Assassin's Code;2018;95;USA, Canada;David A. Armstrong;50.0
+Exterior/Night;2018;95;Egypt, United Arab Emirates;Ahmad Abdalla;69.0
+Benzinho;2018;95;Brazil, Uruguay, Germany;Gustavo Pizzi;72.0
+The Domestics;2018;95;USA;Mike P. Nelson;57.0
+Antes Que Eu Me EsqueÃ§a;2018;95;Brazil;Tiago Arakilian;68.0
+AndiÃ° eÃ°lilega;2018;95;Iceland, Sweden, Belgium;Isold Uggadottir;69.0
+Saving ZoÃ« - Alla ricerca della veritÃ ;2019;95;USA;Jeffrey G. Hunt;53.0
+Drakulics elvtÃ¡rs;2019;95;Hungary;MÃ¡rk BodzsÃ¡r;67.0
+Battle;2018;95;Norway, Denmark, Netherlands, Sweden;Katarina Launing;60.0
+Les affamÃ©s;2018;95;France;LÃ©a FrÃ©deval;41.0
+PrÃ©lude;2019;95;Germany;Sabrina Sarabi;60.0
+Cosa fai a Capodanno?;2018;95;Italy;Filippo Bologna;50.0
+Vielmachglas;2018;95;Germany;Florian Ross;51.0
+Terminal;2018;95;Ireland, UK, Hong Kong, Hungary, USA;Vaughn Stein;54.0
+Solum;2019;95;Portugal;Diogo Morgado;42.0
+Els dies que vindran;2019;95;Spain;Carlos Marques-Marcet;69.0
+After Everything;2018;95;USA;Hannah Marks, Joey Power;63.0
+Sasha Was Here;2018;95;Lithuania;Ernestas Jankauskas;70.0
+La grande noirceur;2018;95;Canada;Maxime Giroux;70.0
+Clown Motel: Spirits Arise;2019;95;USA;Joseph Kelly;52.0
+Diane;2018;95;USA;Kent Jones;67.0
+Beach Bum - Una vita in fumo;2019;95;Switzerland, UK, France, USA;Harmony Korine;55.0
+Dos Veces TÃº;2018;95;Mexico;SalomÃ³n Askenazi;54.0
+Brillantissime;2018;95;France, Belgium;MichÃ¨le Laroque;43.0
+Extinction;2018;95;USA;Ben Young;58.0
+Eat Me;2018;95;USA;Adrian Cruz;46.0
+The Luring;2019;95;USA;Christopher Wells;31.0
+LarguÃ©es;2018;95;France;EloÃ¯se Lang;58.0
+Ouija House;2018;95;USA;Ben Demaree;30.0
+The Infiltrators;2019;95;USA;Cristina Ibarra, Alex Rivera;58.0
+Broken Contract;2018;95;Australia;James Pentecost;38.0
+The Dark;2018;95;Austria;Justin P. Lange;56.0
+Kiss Kiss;2019;95;USA;Dallas King;25.0
+Happy New Year, Colin Burstead;2018;95;UK;Ben Wheatley;64.0
+Adam;2019;95;USA;Rhys Ernst;35.0
+The Other Side;2018;95;USA;Warren Pemberton;41.0
+La mala noche;2019;95;Ecuador, Mexico;Gabriela Calvache;58.0
+My Birthday Song;2018;95;India;Samir Soni;55.0
+Davay razvedyomsya!;2019;95;Russia;Anna Parmas;53.0
+Badnaam Gali;2019;95;India;Ashwin Shetty;70.0
+Uno di famiglia;2018;95;Italy;Alessio Maria Federici;57.0
+Mais vous Ãªtes fous;2019;95;France;Audrey Diwan;65.0
+Fighter;2019;95;Poland;Konrad Maximilian;36.0
+Snapshots;2018;95;USA;Melanie Mayron;66.0
+Dilili a Parigi;2018;95;France, Belgium, Germany;Michel Ocelot;70.0
+Sabea El Boromba;2019;95;Egypt;Mahmoud Karim;57.0
+Si Doel the Movie 2;2019;95;Indonesia;Rano Karno;70.0
+Benyamin Biang Kerok;2018;95;Indonesia;Hanung Bramantyo;29.0
+Frat Pack;2018;95;Canada, USA;Michael Philip;39.0
+Made in Bangladesh;2019;95;France, Bangladesh, Denmark, Portugal;Rubaiyat Hossain;71.0
+The Revenger: An Unromantic Comedy;2019;95;UK;Mark Murphy;56.0
+Exorcism at 60,000 Feet;2019;95;USA;Chad Ferrin;41.0
+Tiempo despuÃ©s;2018;95;Spain, Portugal;JosÃ© Luis Cuerda;58.0
+La fille au bracelet;2019;95;France, Belgium;StÃ©phane Demoustier;68.0
+The 9th Precinct;2019;95;Taiwan;Ding-Lin Wang;55.0
+Beauty & the Beholder;2018;95;USA;Laron Austin;44.0
+Shabab Sheyab;2018;95;United Arab Emirates;Yasir Al-Yasiri;78.0
+Webcast;2018;95;UK, France;Paul McGhie;57.0
+FinchÃ© morte non ci separi;2019;95;USA, Canada;Matt Bettinelli-Olpin, Tyler Gillett;68.0
+Bik Eneich: Un fils;2019;95;Tunisia, France, Lebanon, Qatar;Mehdi Barsaoui;70.0
+La belle et la belle;2018;95;France;Sophie FilliÃ¨res;56.0
+Les goÃ»ts et les couleurs;2018;95;France;Myriam Aziza;53.0
+The Debt Collector;2018;95;UK, USA;Jesse V. Johnson;57.0
+Tanki;2018;95;Russia;Kim Druzhinin;48.0
+Cuddle Weather;2019;95;Philippines;Rod Marmol;62.0
+Palm Swings;2019;95;USA;Sean Hoessli;45.0
+Relentless;2018;95;USA, El Salvador;Lance Tracy;45.0
+Komola Rocket;2018;95;Bangladesh;Noor Imran Mithu;74.0
+Shadow Wolves;2019;95;USA, UK;McKay Daines;37.0
+Makmum;2019;95;Indonesia;Hadrah Daeng Ratu;43.0
+Killers Anonymous;2019;95;UK;Martin Owen;51.0
+Steam Room Stories: The Movie!;2019;95;USA;J.C. Calciano;42.0
+Mossad;2019;95;Israel;Alon Gur Arye;67.0
+City Hunter: Private Eyes;2019;95;Japan;Kenji Kodama;65.0
+Xiao Mei;2018;95;Taiwan;Maren Hwang;63.0
+Gon-ji-am;2018;95;South Korea;Beom-sik Jeong;62.0
+The Brawler;2018;95;USA;Ken Kushner;48.0
+Mudras Calling;2018;95;Myanmar;Christina Kyi;85.0
+Zoo;2018;95;Denmark, Sweden;Antonio Tublen;55.0
+Nova Lituania;2019;96;Lithuania;Karolis Kaupinis;73.0
+Old Boys;2018;96;UK, Sweden;Toby MacDonald;61.0
+Heartlock;2018;96;USA;Jon Kauffman;54.0
+Helena;2018;96;Mexico;Alejandro Sugich;58.0
+Fiore gemello;2018;96;Italy;Laura Luchetti;61.0
+Dark Hall;2018;96;Spain, USA;Rodrigo CortÃ©s;51.0
+Miga Miga Avasaram;2019;96;India;Suresh Kamatchi;72.0
+Un viaggio a quattro zampe;2019;96;China, USA;Charles Martin Smith;67.0
+Enter The Wild;2018;96;USA;Mark Forstmann;37.0
+Landing Up;2018;96;USA;Daniel Tenenbaum;48.0
+Happy Ending;2018;96;Denmark;Hella Joof;58.0
+Hoax;2019;96;USA;Matt Allen;39.0
+Ji wu;2018;96;Hong Kong, Malaysia;Jeffrey Chiang;50.0
+Diamantino - Il calciatore piÃ¹ forte del mondo;2018;96;Portugal, France, Brazil;Gabriel Abrantes, Daniel Schmidt;64.0
+Babes with Blades;2018;96;UK;Cecily Fay;21.0
+Smallfoot: Il mio amico delle nevi;2018;96;USA;Karey Kirkpatrick, Jason Reisig;66.0
+Among the Shadows - Tra le ombre;2019;96;USA;Tiago Mesquita;21.0
+Da yue shi. Wei ai pei yue;2018;96;Hong Kong;Chi-Keung Fung;64.0
+The Isle;2018;96;UK;Matthew Butler-Hart;58.0
+My Hero Academia the Movie - Two Heroes;2018;96;Japan;Kenji Nagasaki;76.0
+Galaxy Lords;2018;96;USA;Von Bilka;29.0
+The Nun: La vocazione del male;2018;96;USA;Corin Hardy;53.0
+The Wedding Guest;2018;96;UK;Michael Winterbottom;57.0
+Die WunderÃ¼bung;2018;96;Austria;Michael Kreihsl;69.0
+Blood Bound;2019;96;USA;Richard LeMay;42.0
+A Certain Kind of Silence;2019;96;Czech Republic, Netherlands, Latvia;Michal Hogenauer;61.0
+Taipei - City of Love;2018;96;USA;Jason Lester;41.0
+Sophie Gold, the Diary of a Gold Digger;2018;96;USA;Carol Botar;57.0
+Garabandal, solo Dios lo sabe;2018;96;Spain;Brian Alexander Jackson;59.0
+Coureur;2018;96;Belgium;Kenneth Mercken;64.0
+El Hubiera SÃ­ Existe;2019;96;Mexico;Luis Eduardo Reyes;58.0
+Delirium;2018;96;USA;Dennis Iliadis;57.0
+Rich Kids;2018;96;USA;Laura Somers;60.0
+Scorched Earth;2018;96;Canada, USA;Peter Howitt;45.0
+L'unica;2018;96;USA;Stephanie Laing;64.0
+The Third Wife;2018;96;Vietnam;Ash Mayfair;67.0
+Ruben Brandt, Collector;2018;96;Hungary;Milorad Krstic;75.0
+El aÃ±o de la plaga;2018;96;Spain, Mexico, Belgium;C. MartÃ­n Ferrera;45.0
+Brotherhood;2019;96;Canada;Richard Bell;48.0
+Zeroville;2019;96;USA;James Franco;45.0
+Klaus: I segreti del Natale;2019;96;Spain, UK;Sergio Pablos, Carlos MartÃ­nez LÃ³pez;82.0
+Sin fin;2018;96;Spain;CÃ©sar Esteban Alenda, JosÃ© Esteban Alenda;69.0
+Monsters and Men;2018;96;USA;Reinaldo Marcus Green;58.0
+End of Sentence;2019;96;Iceland, Ireland;Elfar Adalsteins;72.0
+El PrÃ­ncipe;2019;96;Chile, Argentina, Belgium;SebastiÃ¡n MuÃ±oz;64.0
+La disparition des lucioles;2018;96;Canada;SÃ©bastien Pilote;69.0
+Bent - Polizia criminale;2018;96;Spain, USA;Bobby Moresco;52.0
+Mother Krampus 2: Slay Ride;2018;96;USA;Eddie Lengyel;34.0
+Crucible of the Vampire;2019;96;UK;Iain Ross-McNamee;35.0
+Vita nella Banlieu;2019;96;France;Kery James, LeÃ¯la Sy;64.0
+The Oscar Nominated Short Films 2018: Live Action;2018;96;USA;Max Porter;78.0
+Alpha - Un'amicizia forte come la vita;2018;96;USA, Canada, China;Albert Hughes;67.0
+RemÃ©lem legkÃ¶zelebb sikerÃ¼l meghalnod:);2018;96;Hungary;MihÃ¡ly Schwechtje;72.0
+Susi Susanti: Love All;2019;96;Indonesia;Sim F.;75.0
+To The Beat!;2018;96;USA;Jillian Clare;47.0
+Bomb, yek asheghaneh;2018;96;Iran;Payman Maadi;65.0
+Mosley;2019;96;New Zealand, China;Kirby Atkins;64.0
+Tiempo compartido;2018;96;Mexico;SebastiÃ¡n Hofmann;60.0
+Still;2018;96;USA;Takashi Doscher;52.0
+Lontano da qui;2018;96;USA, Israel, UK, Canada;Sara Colangelo;67.0
+Veneno;2018;96;Dominican Republic;TabarÃ© Blanchard;81.0
+Obey;2018;96;UK;Jamie Jones;54.0
+Io;2019;96;USA;Jonathan Helpert;47.0
+Irina;2018;96;Bulgaria;Nadejda Koseva;65.0
+Khejalat Nakesh;2018;90;Iran;Reza Maghsoodi;54.0
+Red Island;2018;90;Canada;Lux;32.0
+The Cleaning Lady;2018;90;USA;Jon Knautz;54.0
+Lost Fare;2018;90;USA;Bruce Logan;46.0
+Juanita;2019;90;USA;Clark Johnson;59.0
+Flashout;2019;90;USA;Richard Lerner;48.0
+The Perfection;2018;90;USA;Richard Shepard;61.0
+Gully;2019;90;USA;Nabil Elderkin;28.0
+Broken Star;2018;90;USA;Dave Schwep;43.0
+Mi vendicherÃ²;2018;90;USA;Ben Meyerson;44.0
+MamÃ¡ se fue de viaje;2019;90;Mexico;Fernando SariÃ±ana;44.0
+Mi mejor amigo;2018;90;Argentina;MartÃ­n Deus;67.0
+Meri Nimmo;2018;90;India;Rahul Shanklya;71.0
+Johnny Gruesome;2018;90;USA;Gregory Lamberson;38.0
+Parwareshghah;2019;90;Denmark, Luxembourg, France, Germany, Afghanistan;Shahrbanoo Sadat;66.0
+Art of Deception;2019;90;USA;Richard Ryan;35.0
+El Diesel;2018;90;Egypt;Karim El Sobky;46.0
+Allahyar and the Legend of Markhor;2018;90;Pakistan;Uzair Zaheer Khan;75.0
+The Mover;2018;90;Latvia;Davis Simanis Jr.;72.0
+Winter Song;2019;90;USA;Camille Brown;66.0
+Rizu to aoi tori;2018;90;Japan;Naoko Yamada;72.0
+Para Aduma;2018;90;Israel;Tsivia Barkai;63.0
+Seveled;2019;90;Hungary;DÃ©nes Orosz;62.0
+Le jeu;2018;90;France, Belgium;Fred CavayÃ©;68.0
+Wheely;2018;90;Malaysia, Martinique, Maldives, Djibouti, Brunei;Yusry Abd Halim, Carl Mendez;40.0
+Santa Girl;2019;90;USA;Blayne Weaver;51.0
+Binti;2019;90;Belgium;Frederike Migom;65.0
+Point of no Return;2018;90;Ireland, USA;Kevin Glynn;39.0
+Malvagi;2019;90;USA;Dan Berk, Robert Olsen;62.0
+Guardians of the Tomb;2018;90;China, Australia, Russia, Thailand;Kimble Rendall;44.0
+Wastelander;2018;90;USA;Angelo Lopes;26.0
+Bungou Stray Dogs: Dead Apple;2018;90;Japan;Takuya Igarashi;72.0
+Loners;2019;90;USA;Eryc Tramonn;58.0
+Billy;2018;90;Netherlands;Theo Maassen;63.0
+The Prey;2018;90;Cambodia;Jimmy Henderson;54.0
+Tabaluga;2018;90;Germany, Canada;Sven Unterwaldt Jr.;50.0
+Sick for Toys;2018;90;USA;David Del Rio;41.0
+Black Garden;2019;90;Australia;Shaun Wilson;52.0
+Viral Beauty;2018;90;USA, Canada;David Tyson Lam;63.0
+Cinderella and the Secret Prince;2018;90;USA;Lynne Southerland;52.0
+Nighthawks;2019;90;USA;Grant S. Johnson;37.0
+Comment tuer sa mÃ¨re;2018;90;France;David Diane, Morgan Spillemaecker;36.0
+Egg;2018;90;USA;Marianna Palka;50.0
+Skin in the Game;2019;90;USA;Adisa;43.0
+Le milieu de l'horizon;2019;90;Switzerland, Belgium;Delphine Lehericey;68.0
+A Daughter's Plan To Kill;2019;90;USA;Ian Niles;47.0
+CrÃ­a puercos;2018;90;Mexico;EhÃ©catl GarcÃ­a;73.0
+The Storyteller;2018;90;USA;Joe Crump;69.0
+Maria;2019;90;Philippines;Pedring Lopez;50.0
+Closure;2018;90;USA;Alex Goldberg;68.0
+The 20th Century;2019;90;Canada;Matthew Rankin;69.0
+Pumpkins;2018;90;UK;Maria Lee Metheringham;24.0
+Qui m'aime me suive!;2019;90;France;JosÃ© Alcala;51.0
+Jane and Emma;2018;90;USA;Chantelle Squires;62.0
+Robo;2019;90;Russia;Sarik Andreasyan;51.0
+Mr. Malevolent;2018;90;USA;Rusty Cundieff, Darin Scott;42.0
+Ghostbox Cowboy;2018;90;China, USA;John Maringouin;48.0
+The Manson Family Massacre;2019;90;UK, USA;Andrew Jones;32.0
+Alcatraz;2018;90;UK, USA;Andrew Jones;33.0
+The Dawn;2019;90;USA;Brandon Slagle;46.0
+Bit;2019;90;USA;Brad Michael Elmore;38.0
+Poms;2019;90;UK, USA, Canada;Zara Hayes;59.0
+Puoi baciare lo sposo;2018;90;Italy;Alessandro Genovesi;58.0
+A Beauty & The Beast Christmas;2019;90;USA;Dylan Vox;51.0
+La truffa Ã¨ servita;2018;90;USA, UK;James Oakley;41.0
+Fright Fest;2018;90;USA;Ante Novakovic;36.0
+The Flip Side;2018;90;Australia;Marion Pilowsky;48.0
+Tvar;2019;90;Russia;Olga Gorodetskaya;41.0
+Party Hard Die Young;2018;90;Austria;Dominik Hartl;51.0
+TÃ¡tova volha;2018;90;Czech Republic;JirÃ­ Vejdelek;64.0
+L'angelo del male - Brightburn;2019;90;USA;David Yarovesky;61.0
+Countdown;2019;90;USA;Justin Dec;54.0
+Pimped;2018;90;Australia;David Barker;53.0
+A Quiet Place - Un posto tranquillo;2018;90;USA;John Krasinski;75.0
+Cruise;2018;90;USA;Robert Siegel;53.0
+Treacherous;2018;90;USA;Brian Brough;50.0
+Hollywould;2019;90;USA;Joshua Coates;36.0
+Dead Squad: Temple of the Undead;2018;90;USA;Dominik Hauser;33.0
+Christmas on the Range;2019;90;USA;Gary Wheeler;59.0
+Sconnessi;2018;90;Italy;Cristian Marazziti;53.0
+Una Mujer Sin Filtro;2018;90;Mexico, Chile;Luis Eduardo Reyes;48.0
+F20;2018;90;Croatia;Arsen A. Ostojic;53.0
+Taal is zeg maar echt mijn ding;2018;90;Netherlands;Barbara Bredero;56.0
+Mali;2018;90;Croatia;Antonio Nuic;64.0
+Si saben cÃ³mo me pongo Â¿pa' quÃ© me invitan?;2018;90;Colombia;Fernando AyllÃ³n;48.0
+The Sonata;2018;90;France, UK, Russia, Latvia;Andrew Desmond;51.0
+Rondo;2018;90;USA;Drew Barnhardt;41.0
+In the Cloud;2018;90;USA;Robert Scott Wildes;38.0
+Xiong chu mei zhi bian xing ji;2018;90;China;Leon Ding, Huida Lin;55.0
+Wildwitch - Il mondo selvatico;2018;90;Denmark, Norway, Hungary, Czech Republic;Kaspar Munk;48.0
+L'agenzia dei bugiardi;2019;90;Italy;Volfango De Biasi;56.0
+Jusqu'ici tout va bien;2019;90;France, Belgium;Mohamed Hamidi;58.0
+Il dottore vi ucciderÃ  subito;2019;90;USA;Rob Pallatina;40.0
+Project Gio;2019;90;Netherlands;Bas van Teylingen;19.0
+The Bad Guys;2018;90;USA;Carlos Rincones;62.0
+The Barn;2018;90;USA, France;Matt Beurois;35.0
+Symphony No. 9;2019;90;Iran;Mohamad Reza Honarmand;54.0
+Witches in the Woods;2019;90;Canada;Jordan Barker;41.0
+Postcards from London;2018;90;UK;Steve McLean;51.0
+HÃ©ctor el Father: ConocerÃ¡s la Verdad;2018;90;Puerto Rico;Joel ColÃ³n;55.0
+La vita segreta di mio marito;2018;90;USA;Tamar Halpern;49.0
+Supervized;2019;90;Ireland, UK;Steve Barron;49.0
+Homo Novus;2018;90;Latvia;Anna Viduleja;73.0
+Blezi;2018;90;Latvia;Andrejs Ekis;43.0
+Inner Ghosts;2018;90;Portugal, Brazil;Paulo Leite;38.0
+Head Count;2018;90;USA;Elle Callahan;54.0
+Invisible Sue;2018;90;Germany, Luxembourg;Markus Dietrich;43.0
+Fragmentary;2019;90;Australia, United Arab Emirates, UK;Jace Pickard;43.0
+The Basement;2018;90;USA;Brian M. Conley, Nathan Ives;44.0
+Good Boys - Quei cattivi ragazzi;2019;90;USA;Gene Stupnitsky;67.0
+Harmony;2018;90;Australia;Corey Pearson;54.0
+The Gateway;2018;90;Australia;John V. Soto;54.0
+Future World;2018;90;USA;James Franco, Bruce Thierry Cheung;32.0
+Chasing Bullitt;2018;90;USA;Joe Eddy;47.0
+Permettimi di amarti;2018;90;USA;Shane Stanley;56.0
+The Legend of Halloween Jack;2018;90;UK;Andrew Jones;34.0
+Killer di matrimoni;2019;90;USA;Bernard Salzmann;28.0
+Il ritorno dell'eroe;2018;90;France, Belgium;Laurent Tirard;65.0
+Doppio ricatto, doppio inganno;2018;90;USA;Nadeem Soumah;54.0
+Lez Bomb;2018;90;USA;Jenna Laurenzo;50.0
+Following Phil;2018;90;USA;Samuel Omole;65.0
+Spider-Man 2: Another World;2018;90;UK;Joey Lever;74.0
+The Dwarves of Demrel;2018;90;USA;Chris Raney;35.0
+Our House;2018;90;Canada, Germany, USA;Anthony Scott Burns;53.0
+Arrivederci professore;2018;90;USA;Wayne Roberts;67.0
+Pats Sau Milijonierius;2019;90;Lithuania;Tadas Vidmantas;64.0
+The Aspern Papers;2018;90;UK, Germany;Julien Landais;46.0
+Metal Heart;2018;90;Ireland;Hugh O'Conor;59.0
+Malicious;2018;90;USA;Michael Winnick;50.0
+Vierges;2018;90;France, Israel, Belgium;Keren Ben Rafael;61.0
+Blue;2018;90;USA;Gabriela Ledesma;63.0
+Zuo jia de huang yan: Bi zhong you zui;2019;90;Hong Kong;Christopher Sun;57.0
+Monster;2018;90;UK;Matt Shaw;71.0
+Where We Go from Here;2019;90;USA;Anthony Meindl;47.0
+La morte in un sorso;2018;90;USA;Joe Menendez;48.0
+Manou the Swift;2019;90;Germany;Andrea Block, Christian Haas;54.0
+Grace - Ispirazione cercasi;2018;90;USA;Devin Adair;58.0
+House of Demons;2018;90;USA;Patrick Meaney;33.0
+Extracurricular;2018;90;Canada;Ray Xue;54.0
+The Baylock Residence;2019;90;UK;Anthony M. Winson;37.0
+Per amore di Megan;2018;90;USA;Danny J. Boyle;50.0
+Mamma a tutti i costi;2018;90;USA;Isak Borg, Dena Hysell-Cornejo;46.0
+Elcano y Magallanes. La primera vuelta al mundo;2019;90;Spain;Ãngel Alonso;41.0
+Epidemiya. Vongozero;2019;90;Russia;Pavel Kostomarov;63.0
+Once in Trubchevsk;2019;90;Russia;Larisa Sadilova;57.0
+Animal Among Us;2019;90;USA;John Woodruff;32.0
+Exit 14;2018;90;USA;Joe Salcedo;37.0
+Jurassic Predator;2018;90;UK;Andrew Jones;33.0
+Sunset Society;2018;90;USA;Phoebe Dollar, Rolfe Kanefsky;27.0
+Se son rose;2018;90;Italy;Leonardo Pieraccioni;53.0
+Christmas Camp;2018;90;USA;Jeff Fisher;59.0
+Viaje al cuarto de una madre;2018;90;Spain;Celia Rico Clavellino;67.0
+Fear, Love, and Agoraphobia;2018;90;USA;Alex D'Lerma;57.0
+Io, Leonardo;2019;90;Italy;Jesus Garces Lambert;54.0
+Il vegetale;2018;90;Italy;Gennaro Nunziante;49.0
+Limbo;2019;90;USA;Mark Young;49.0
+Toy Gun;2018;90;Germany, Belgium, Luxembourg;Marco Serafini;53.0
+StarDog and TurboCat;2019;90;UK;Ben Smith;70.0
+The Breaker Upperers;2018;90;New Zealand;Madeleine Sami, Jackie van Beek;59.0
+Talq Senai;2018;90;Egypt;Khaled Diab;65.0
+Klassikokkutulek 2: Pulmad ja matused;2018;90;Estonia;RenÃ© Vilbre;54.0
+A Horse from Heaven;2018;90;USA;David de Vos;55.0
+Paradize 89;2018;90;Latvia;Madara Dislere;67.0
+Shanda's River;2018;90;Italy;Marco Rosson;48.0
+Endzeit;2018;90;Germany;Carolina HellsgÃ¥rd;51.0
+Sol Alegria;2018;90;Brazil;Tavinho Teixeira;56.0
+Birthmarked;2018;90;Canada;Emanuel Hoss-Desmarais;57.0
+Comme des garÃ§ons;2018;90;France;Julien Hallard;60.0
+Investigation 13;2019;90;USA;Krisstian de Lara;40.0
+Obsession;2019;90;USA;Goran Dukic;49.0
+Alterscape;2018;90;USA;Serge Levin;54.0
+A Taste of Phobia;2018;90;UK;Domiziano Cristopharo, Jason Impey;32.0
+Dirty Dealing 3D;2018;90;USA;Christopher Robin Hood;38.0
+Chiamate un dottore!;2019;90;France;Tristan SÃ©guÃ©la;65.0
+Zlogonje;2018;90;Serbia, Republic of North Macedonia;Rasko Miljkovic;67.0
+Svinhery;2018;90;Ukraine, Latvia;Andrejs Ekis;54.0
+La monnaie de leur piÃ¨ce;2018;90;France;Anne Le Ny;41.0
+Beneath the Leaves;2019;90;USA;Adam Marino;45.0
+Emma Peeters;2018;90;Canada, Belgium;Nicole Palo;63.0
+Am I a Serial Killer?;2019;90;USA;Penelope Buitenhuis;50.0
+Lola vers la mer;2019;90;Belgium, France;Laurent Micheli;65.0
+Ravers;2018;90;UK;Bernhard Pucher;46.0
+The Last Porno Show;2019;90;Canada;Kire Paputts;64.0
+Lynn + Lucy;2019;90;UK;Fyzal Boulifa;67.0
+Between Worlds;2018;90;Spain;Maria Pulera;42.0
+Social Animals;2018;90;USA;Theresa Bennett;52.0
+Zayana;2019;90;Oman, India;Khalid Abdulrahim Al-Zadjali;70.0
+La Banda;2019;90;Spain;Roberto Bueso;57.0
+La signora di Purity Falls;2019;90;USA;Sam Irvin;47.0
+Marcianos Contra Mexicanos;2018;90;Mexico;Gabriel Riva Palacio Alatriste, Rodolfo Riva Palacio Alatriste;35.0
+La tribÃ¹;2018;90;Spain;Fernando Colomo;58.0
+My Soul to Keep;2019;90;USA;Ajmal Zaheer Ahmad;50.0
+The Bra;2018;90;Germany, Azerbaijan;Veit Helmer;67.0
+Danur 3: Sunyaruri;2019;90;Indonesia;Awi Suryadi;47.0
+Ascharyachakit!;2018;90;India;Samit Kakkad;49.0
+Treasure Hunter: Legend of the White Witch;2018;90;USA;Ken Barbet;27.0
+Professor Shanku O El Dorado;2019;90;India;Sandip Ray;52.0
+Jonaki;2018;90;India, France, Singapore;Aditya Vikram Sengupta;70.0
+Cyber Bride;2019;90;UK;Louisa Warren;23.0
+L'ultima ora;2019;90;USA;James Helsing;36.0
+Driven;2019;90;USA;Glenn Payne;63.0
+Tuttapposto;2019;90;Italy;Gianni Costantino;63.0
+Inside the Rain;2019;90;USA;Aaron Fisher;45.0
+The Short History of the Long Road;2019;90;USA;Ani Simon-Kennedy;64.0
+Two for Joy;2018;90;UK;Tom Beard;60.0
+Dead Fred;2019;90;UK;Deanna Dewey;39.0
+Fulci for fake;2019;90;UK, Italy;Simone Scafidi;63.0
+The Wedding Year;2019;90;USA;Robert Luketic;55.0
+Surviving Confession;2019;90;USA;Matthew Tibbenham;54.0
+Schoolhouse;2018;90;USA;Steven Perez;28.0
+Hole - L'abisso;2019;90;Ireland, UK, Belgium, Finland;Lee Cronin;57.0
+Tolko ne oni;2018;90;Russia;Aleksandr Boykov;19.0
+Nabat;2019;90;Iran;Pegah Arzi;52.0
+Segfault;2018;90;USA;Robert Paschall Jr.;63.0
+Morte tra i banchi;2018;90;USA;Danny J. Boyle;40.0
+Chhappad Phaad Ke;2019;90;India;Sameer Joshi;63.0
+Small Town Hero;2019;90;UK;Darren Bolton;40.0
+Achoura;2018;90;Morocco, France;Talal Selhami;53.0
+Clementine;2019;90;USA;Lara Gallagher;51.0
+The Silence;2019;90;Canada, Germany;John R. Leonetti;53.0
+First Light;2018;90;Canada;Jason Stone;55.0
+De Collega's 2.0;2018;90;Belgium;Jan Verheyen;45.0
+The Trap;2019;90;USA;Erik White;43.0
+Mistero al castello Blackwood;2018;90;USA;Stacie Passon;56.0
+LajkÃ³ - CigÃ¡ny az Ã¼rben;2018;90;Hungary;BalÃ¡zs Lengyel;58.0
+Pazzie d'amore;2018;90;USA;Lisa France;45.0
+Warning Shot;2018;90;USA;Dustin Fairbanks;49.0
+Inherit the Viper;2019;90;USA;Anthony Jerjen;51.0
+Uma Quase Dupla;2018;90;Brazil;Marcus Baldini;52.0
+Wanderland;2018;90;USA;Josh Klausner;54.0
+The Secret of Happiness;2018;90;Romania;Vlad Zamfirescu;76.0
+Puppet Master: The Littlest Reich;2018;90;UK, USA;Sonny Laguna, Tommy Wiklund;54.0
+Aleksi;2018;90;Croatia, Serbia, Serbia and Montenegro;Barbara Vekaric;67.0
+The Martyr Maker;2018;90;USA;Kamal Ahmed;40.0
+Morto tra una settimana... O ti ridiamo i soldi;2018;90;UK;Tom Edmunds;62.0
+The Wave;2019;90;USA;Gille Klabin;60.0
+The Long Dumb Road;2018;90;USA;Hannah Fidell;61.0
+West of Hell;2018;90;USA;Michael Steves;46.0
+The Ghost Beyond;2018;90;USA;R. Michael Givens;31.0
+Seeds;2018;90;USA;Owen Long;36.0
+Blood Brother;2018;90;USA;John Pogue;44.0
+Echoes of Fear;2018;90;USA;Brian Avenet-Bradley, Laurence Avenet-Bradley;52.0
+SOLO!;2018;90;UK;Nic Cornwall;63.0
+In Full Bloom - I fiori della rabbia;2019;90;Japan, USA;Reza Ghassemi, Adam VillaSenor;68.0
+Hutsulka Ksenya;2019;90;Ukraine;Alena Demyanenko;72.0
+Breaking Barbi;2019;90;USA;Edward G. Negron;51.0
+Rusalka: Ozero myortvykh;2018;90;Russia;Svyatoslav Podgaevskiy, Christopher Bevins;44.0
+Deux fils;2018;90;France, Belgium;FÃ©lix Moati;58.0
+Kapsalon Romy;2019;90;Netherlands, Germany;Mischa Kamp;72.0
+Piccoli Brividi 2 - I fantasmi di Halloween;2018;90;USA, UK;Ari Sandel;56.0
+Holmes & Watson - 2 de menti al servizio della regina;2018;90;USA, Canada;Etan Cohen;38.0
+Woodstock or Bust;2018;90;USA;Leslie Bloom;41.0
+Nobody Famous;2018;90;Canada;Sarah Rotella;46.0
+Siblings of the Cape;2018;90;Japan;Shinzo Katayama;70.0
+FOMO: Fear of Missing Out;2019;90;Hungary;Attila Hartung;70.0
+Vaioretto evÃ¢gÃ¢den gaiden: Eien to jidou shuki ningyou;2019;90;Japan;Haruka Fujita, Taichi Ishidate;74.0
+Storozh;2019;90;Russia;Yuriy Bykov;64.0
+Devushki byvayut raznye;2019;90;Russia;Sarik Andreasyan;23.0
+Gamak Ghar;2019;91;India;Achal Mishra;81.0
+Thousand Yard Stare;2018;91;Canada;Aaron Kurmey;38.0
+Volition;2019;91;Canada;Tony Dean Smith;56.0
+Summer Survivors;2018;91;Lithuania;Marija Kavtaradze;77.0
+Alone We Fight;2018;91;USA;Justin Lee;29.0
+Solo;2018;91;Spain;Hugo Stuven;49.0
+Mermaid Down;2019;91;USA, UK;Jeffrey Grellman;59.0
+We Summon the Darkness;2019;91;UK, USA, Canada;Marc Meyers;51.0
+Death Whisper;2019;91;Indonesia, South Korea;Awi Suryadi;64.0
+Darkoob;2018;91;Iran;Behrouz Shoaybi;57.0
+Space Ninjas;2019;91;UK;Scott McQuaid;37.0
+Mouthpiece;2018;91;Canada;Patricia Rozema;62.0
+Norm of the North: Keys to the Kingdom;2018;91;India, USA;Tim Maltby, Richard Finn;30.0
+Dziura w glowie;2018;91;Poland;Piotr Subbotko;65.0
+Il sole a mezzanotte - Midnight Sun;2018;91;USA;Scott Speer;66.0
+Galveston;2018;91;USA;MÃ©lanie Laurent;62.0
+Permanent Green Light;2018;91;France;Dennis Cooper, Zac Farley;55.0
+Sometimes Always Never;2018;91;UK;Carl Hunter;62.0
+Standing Up, Falling Down;2019;91;USA;Matt Ratner;64.0
+Use Me;2019;91;USA;Julian Shaw;41.0
+Matriarch;2018;91;UK;Scott Vickers;54.0
+La diseducazione di Cameron Post;2018;91;USA, UK;Desiree Akhavan;66.0
+Der Vorname;2018;91;Germany;SÃ¶nke Wortmann;71.0
+Round of Your Life;2019;91;USA;Dylan Thomas Ellis;43.0
+Schemers;2019;91;UK;Dave Mclean;58.0
+La casa delle bambole - Ghostland;2018;91;France, Canada, China;Pascal Laugier;64.0
+Los JapÃ³n;2019;91;Spain;Ãlvaro DÃ­az Lorenzo;36.0
+El SilbÃ³n: OrÃ­genes;2018;91;Mexico, Venezuela;Gisberg Bermudez;44.0
+First We Take Brooklyn;2018;91;USA;Danny A. Abeckaser;38.0
+Bioscopewala;2018;91;India;Deb Medhekar;77.0
+Buttiamo giÃ¹ l'uomo;2019;91;USA;Bridget Savage Cole, Danielle Krudy;64.0
+All Creatures Here Below;2018;91;USA;Collin Schiffli;56.0
+The Mercenary;2019;91;USA;Jesse V. Johnson;54.0
+O Filme do Bruno Aleixo;2019;91;Portugal;JoÃ£o Moreira, Pedro Santo;72.0
+Realna prica;2019;91;Serbia;Gordan Kicic;72.0
+Good Posture;2019;91;USA;Dolly Wells;54.0
+Big Time Adolescence;2019;91;USA;Jason Orley;70.0
+The Final Blade;2018;91;China;Willie Ying;66.0
+FinchÃ© matrimonio non ci separi;2018;91;Mexico;Santiago LimÃ³n;49.0
+Boo!;2018;91;USA;Luke Jaden;36.0
+Jimmie;2018;91;Sweden, Austria, Croatia;Jesper Ganslandt;60.0
+Chained for Life;2018;91;USA;Aaron Schimberg;66.0
+The Fight;2018;91;UK;Jessica Hynes;55.0
+Peng e i due anatroccoli;2018;91;China, USA, UK, Thailand, India;Christopher Jenkins;57.0
+Burning Kentucky;2019;91;USA;Bethany Brooke Anderson;44.0
+Todas as RazÃµes para Esquecer;2018;91;Brazil;Pedro Coutinho;63.0
+Relaxer;2018;91;USA;Joel Potrykus;59.0
+Quando gli angeli dormono;2018;91;Spain;Gonzalo Bendala;54.0
+Hume Tumse Pyaar Kitna;2019;91;India;Lalit Mohan;48.0
+The Party's Just Beginning;2018;91;UK;Karen Gillan;61.0
+The Final Scream;2019;91;UK;Scott Jeffrey;57.0
+Holly Star;2018;91;USA;Michael A. Nickles;51.0
+Black Site;2018;91;UK;Tom Paton;43.0
+El mejor verano de mi vida;2018;91;Spain;Dani de la Orden;58.0
+Mollywood;2019;91;USA;Morocco Vaughn;25.0
+Get Gone;2019;91;USA;Michael Thomas Daniel;27.0
+Elephants;2018;91;USA;Alex Hanno;59.0
+Gojira: hoshi wo kÃ» mono;2018;91;Japan;Hiroyuki Seshita, KÃ´bun Shizuno;50.0
+Benjamin BlÃ¼mchen;2019;91;Germany;Tim Trachte;36.0
+The Mercy of the Jungle;2018;91;Belgium, France, Rwanda;JoÃ«l Karekezi;62.0
+You Can't Say No;2018;91;USA;Paul Kramer;39.0
+Viking Destiny;2018;91;UK, Belgium;David L.G. Hughes;42.0
+Mug - Un'altra vita;2018;91;Poland;Malgorzata Szumowska;64.0
+Pupazzi senza gloria;2018;91;USA, China;Brian Henson;54.0
+Christ(Off);2018;91;France, Belgium;Pierre Dudan;41.0
+Spivak;2018;91;USA;Anthony Abrams, Adam Larson Broder;55.0
+Red Handed;2019;91;USA;Frank Peluso;33.0
+Gli acchiappamostri;2018;91;USA;Jason Murphy;54.0
+To Your Last Death;2019;91;USA;Jason Axinn;73.0
+Amin;2018;91;France;Philippe Faucon;62.0
+Black Wake;2018;91;USA;Jeremiah Kipp;21.0
+Nightshot;2018;91;France;Hugo KÃ¶nig;55.0
+Kill Chain;2019;91;USA;Ken Sanzel;50.0
+A Vigilante;2018;91;USA;Sarah Daggar-Nickson;57.0
+Message Man;2018;91;Indonesia, Australia, UK, United Arab Emirates;Corey Pearson;60.0
+Nicky Larson et le parfum de Cupidon;2018;91;France;Philippe Lacheau;65.0
+Butterfly Kisses;2018;91;USA;Erik Kristopher Myers;58.0
+Denmark;2019;91;UK;Adrian Shergold;60.0
+Gates of Darkness;2019;91;USA, France, Nepal;Don E. FauntLeRoy;42.0
+Qui e ora;2018;91;USA;Fabien Constant;44.0
+Edge of Fear;2018;91;USA;Bobby Roth;44.0
+Await Further Instructions;2018;91;UK;Johnny Kevorkian;48.0
+Lilli;2018;91;India;Prasobh Vijayan;58.0
+Take Me Somewhere Nice;2019;91;Netherlands, Bosnia and Herzegovina;Ena Sendijarevic;64.0
+The BBQ;2018;91;Australia;Stephen Amis;49.0
+Zahr-e Mar;2019;91;Iran;Javad Razavian;41.0
+L'immensitÃ  della notte;2019;91;USA;Andrew Patterson;67.0
+Deok-gu;2018;91;South Korea;Soo-in Bang;67.0
+Don't Go;2018;91;Ireland;David Gleeson;52.0
+Guadalupe Reyes;2019;91;Mexico;Salvador Espinosa;59.0
+Alive;2019;91;Canada;Rob Grant;53.0
+C'era una volta Steve McQueen;2019;91;USA;Mark Steven Johnson;62.0
+Friday's Child;2018;91;USA;A.J. Edwards;60.0
+Behind the Walls;2018;91;USA;James Kondelik, Jon Kondelik;30.0
+Mrs Lowry & Son;2019;91;UK;Adrian Noble;67.0
+Wo de qing chun dou shi ni;2019;91;China;Mengying Dai, Tong Zhou;63.0
+One Last Thing;2018;91;USA;Tim Rouhana;62.0
+Dead Don't Die in Dallas;2019;91;USA;Israel Luna;44.0
+Minutes to Midnight;2018;91;USA;Christopher Ray;34.0
+As Zvaigzde;2018;91;Lithuania;Robertas Kuliunas;32.0
+Torna a casa, Jimi! - 10 cose da non fare quanto perdi il tuo cane a Cipro;2018;92;Cyprus;Marios Piperides;66.0
+Marnies Welt;2018;92;Germany, Belgium;Christoph Lauenstein, Wolfgang Lauenstein;56.0
+El mundo es suyo;2018;92;Spain;Alfonso SÃ¡nchez;49.0
+One Man Dies a Million Times;2019;92;USA;Jessica Oreck;63.0
+Vitoria, 3 de marzo;2018;92;Spain;Victor Cabaco;66.0
+Better Start Running;2018;92;USA;Brett Simon;52.0
+En affÃ¦re;2018;92;Norway;Henrik Martin Dahlsbakken;56.0
+De Matchmaker;2018;92;Netherlands, Belgium;Jeroen Houben;60.0
+HÃ©raÃ°iÃ°;2019;92;Iceland, Denmark, Germany, France;GrÃ­mur HÃ¡konarson;66.0
+Zizotek;2019;92;Greece;Vardis Marinakis;62.0
+AllÃ¡ en el Rancho;2018;92;Mexico;Rafael Montero;40.0
+Wildling;2018;92;USA;Fritz BÃ¶hm;55.0
+Los amores cobardes;2018;92;Spain;Carmen Blanco;60.0
+Office Uprising;2018;92;USA;Lin Oeding;60.0
+Please Come with Me;2019;92;USA;Michael Ciulla;46.0
+Minuscule - Les mandibules du bout du monde;2018;92;France, Guadeloupe, China;HÃ©lÃ¨ne Giraud, Thomas Szabo;68.0
+Stretch Marks;2018;92;USA;Gregory Rocco;57.0
+Deadman Standing;2018;92;USA;Nicholas Barton;49.0
+Eleven Eleven;2018;92;USA;Chris Redish;36.0
+Scarpette rosse e i 7 nani;2019;92;South Korea;Sung-ho Hong, Moo-Hyun Jang;63.0
+Deadtectives;2018;92;USA;Tony West;62.0
+Rendez-vous chez les Malawas;2019;92;France, Belgium;James Huth;39.0
+The Manor;2018;92;USA;Jonathon Schermerhorn;30.0
+A Kid Like Jake;2018;92;USA;Silas Howard;54.0
+Unfriended: Dark Web;2018;92;USA, Russia;Stephen Susco;59.0
+Reach;2018;92;USA;Leif Rokesh;56.0
+Shadows in Mind;2019;92;USA;Mark Schwab;53.0
+Taxi a Gibraltar;2019;92;Spain, Argentina;Alejo Flah;45.0
+Hollow Body;2018;92;USA;Alex Keledjian;37.0
+Love for Sale 2;2019;92;Indonesia;Andibachtiar Yusuf;69.0
+L'incredibile viaggio del fachiro;2018;92;France, India, Belgium, Singapore, USA;Ken Scott;69.0
+The Second Coming of Christ;2018;92;USA;Daniel Anghelcev;45.0
+BROS. Last Call;2018;92;USA;Don Tjernagel;84.0
+The Harvesting;2019;92;USA;Ivan Kraljevic;37.0
+Automation;2019;92;USA;Garo Setian;45.0
+Unintended;2018;92;USA;Anja Murmann;53.0
+Julemandens datter;2018;92;Denmark;Christian DyekjÃ¦r;57.0
+Nuclear;2019;92;UK;Catherine Linstrum;50.0
+Strategy and Pursuit;2018;92;USA;Matt Riddlehoover;72.0
+In a Relationship;2018;92;Mexico, USA;Sam Boyd;55.0
+Twelve;2019;92;USA;Steve Grimaldi;61.0
+Rapina a Stoccolma;2018;92;Canada, USA;Robert Budreau;61.0
+Ni liu da shu;2018;92;Hong Kong;Sunny Chan;68.0
+Ga woo man si ging;2019;92;Hong Kong;Herman Yau;60.0
+All Inclusive;2019;92;France, Belgium;Fabien Onteniente;31.0
+Someone Great;2019;92;USA;Jennifer Kaytin Robinson;62.0
+Patuljci sa naslovnih strana;2018;92;Serbia;Milorad Milinkovic;46.0
+Noura RÃªve;2019;92;Tunisia, Belgium, France, Qatar, Netherlands;Hinde Boujemaa;65.0
+Black Christmas;2019;92;USA, New Zealand;Sophia Takal;32.0
+Cat in the Wall;2019;92;Bulgaria, UK, France;Vesela Kazakova, Mina Mileva;55.0
+Let It Snow - Innamorarsi sotto la neve;2019;92;USA;Luke Snellin;58.0
+A Boy Called Sailboat;2018;92;USA, Australia;Cameron Nugent;67.0
+Dolci scelte;2018;92;USA;Ben Shelton;58.0
+Runnin' from My Roots;2018;92;USA;Nancy Criss;49.0
+We Die Young;2019;92;Bulgaria, USA;Lior Geller;53.0
+Hemelrijken;2019;92;Netherlands;Stanley Kolk;63.0
+Arctic - Un'avventura glaciale;2019;92;India, UK, China, Canada, Japan, South Korea, USA;Aaron Woodley;46.0
+Thunder Road;2018;92;USA;Jim Cummings;71.0
+American Dreamer;2018;92;USA;Derrick Borte;61.0
+El Hijo;2019;92;Argentina;SebastiÃ¡n Schindel;54.0
+En komikers uppvÃ¤xt;2019;92;Sweden;Rojda SekersÃ¶z;66.0
+Rosy;2018;92;USA;Jess Bond;47.0
+Wake Up - Il risveglio;2019;92;USA;Aleksandr Chernyaev;50.0
+Todas as CanÃ§Ãµes de Amor;2018;92;Brazil;Joana Mariani;69.0
+Interlaced;2018;92;USA;James Cardoza;32.0
+Kat and the Band;2019;92;UK;E.E. Hegarty;57.0
+Haunt;2019;92;USA;Scott Beck, Bryan Woods;63.0
+Ghost in the Graveyard;2019;92;USA;Charlie Comparetto;49.0
+Catacombe;2018;92;Belgium, Netherlands;Victor D. Ponten;55.0
+Trolled;2018;92;USA;Alex Sebastian;18.0
+Cops;2018;92;Austria;Stefan A. Lukacs;63.0
+Ordinary Love;2019;92;UK;Lisa Barros D'Sa, Glenn Leyburn;66.0
+Marla;2018;92;USA;Lisa van Dam-Bates;33.0
+Eerie Fairy Tales;2019;92;Estonia;Mart Sander;69.0
+The Samuel Project;2018;92;USA;Marc Fusco;73.0
+L'extraordinaire voyage de Marona;2019;92;France, Romania, Belgium;Anca Damian;76.0
+O PoÃ§o;2019;92;Brazil;AndrÃ© Borelli;68.0
+Unheimlich perfekte Freunde;2019;92;Germany;Marcus H. RosenmÃ¼ller;64.0
+What Still Remains;2018;92;USA;Josh Mendoza;47.0
+Incredible Violence;2018;92;Canada;G. Patrick Condon;43.0
+El viaje extraordinario de Celeste GarcÃ­a;2018;92;Cuba, Germany;Arturo Infante;64.0
+Robin Hood: The Rebellion;2018;92;UK;Nicholas Winter;42.0
+Der LÃ¤ufer;2018;92;Switzerland;Hannes Baumgartner;59.0
+The System;2018;92;USA;Irin Daniels;82.0
+Mountain Rest;2018;92;USA;Alex O Eaton;54.0
+The House of Us;2019;92;South Korea;Ga-eun Yoon;73.0
+Persona non grata;2019;92;France;Roschdy Zem;50.0
+A Sombra do Pai;2018;92;Brazil;Gabriela Amaral;63.0
+The Viper's Hex;2018;92;Japan;Addison Heath, Jasmine Jakupi;74.0
+Clara's Ghost;2018;92;USA;Bridey Elliott;43.0
+The Tokoloshe;2018;92;South Africa;Jerome Pikwane;43.0
+Danur 2: Maddah;2018;92;Indonesia;Awi Suryadi;57.0
+L'avvertimento;2018;92;Spain;Daniel Calparsoro;59.0
+JagtsÃ¦son;2019;92;Denmark;Tilde Harkamp;52.0
+Couples' Night;2018;92;USA;Mark Harris;72.0
+Escape and Evasion;2019;92;Australia, United Arab Emirates;Storm Ashwood;44.0
+Blood Fest;2018;92;USA;Owen Egerton;53.0
+Natale, folle Natale;2019;92;USA;Leslie Small;48.0
+Doshman-e zan;2018;92;Iran;Karim Amini;40.0
+The Hurt;2018;92;USA;Kevin Van Stevenson;31.0
+Howlers;2019;92;USA;Josh Ridgway;48.0
+Already Gone;2019;92;USA;Christopher Kenneally;40.0
+Horrible Histories: The Movie - Rotten Romans;2019;92;UK;Dominic Brigstocke;52.0
+Tomorrow;2018;92;UK;Martha Pinson;80.0
+Headgame;2018;92;USA;Steven Judd;39.0
+Jinn;2018;92;USA;Nijla Mumin;55.0
+Dreamland;2019;92;Canada, Luxembourg, Belgium;Bruce McDonald;47.0
+My Prince Edward;2019;92;Hong Kong;Norris Wong;69.0
+Solis;2018;92;UK;Carl Strathie;47.0
+Vengeance;2018;92;UK;Ross Boyask;44.0
+Backtrace;2018;92;USA;Brian A. Miller;37.0
+Suk Suk;2019;92;Hong Kong;Ray Yeung;71.0
+The Prodigy - Il figlio del male;2019;92;USA, Canada;Nicholas McCarthy;58.0
+The Field;2019;92;USA;Tate Bunker;42.0
+Un giorno di pioggia a New York;2019;92;USA;Woody Allen;66.0
+Stillwater;2018;92;USA;Nino Aldi;51.0
+Un cavaliere per Natale;2019;92;USA;Monika Mitchell;55.0
+Il primo anno;2018;92;France;Thomas Lilti;67.0
+Family Blood;2018;92;USA;Sonny Mallhi;42.0
+Quanto basta;2018;92;Brazil, Italy;Francesco Falaschi;65.0
+Show Dogs - Entriamo in scena;2018;92;UK, USA;Raja Gosnell;37.0
+What are the Odds?;2019;92;India;Megha Ramaswamy;53.0
+The Haunting of Borley Rectory;2019;92;UK;Steven M. Smith;32.0
+Un'improbabile amicizia;2019;93;Canada;Christopher Cantwell;56.0
+Duck Butter;2018;93;USA;Miguel Arteta;53.0
+Cheshm O Goosh Baste;2019;93;Iran;Farzad Motamen;47.0
+Hattrick;2018;93;Iran;Ramtin Lavafipour;58.0
+La notte ha divorato il mondo;2018;93;France;Dominique Rocher;60.0
+U-July 22;2018;93;Norway;Erik Poppe;72.0
+Cetto c'Ã¨ senzadubbiamente;2019;93;Italy;Giulio Manfredonia;51.0
+Litigante;2019;93;Colombia, France;Franco Lolli;65.0
+Bombay Rose;2019;93;India, UK, France, Qatar;Gitanjali Rao;64.0
+Ladyworld;2018;93;USA;Amanda Kramer;35.0
+Los Angeles Overnight;2018;93;USA, Australia;Michael Chrisoulakis;59.0
+Robbery;2018;93;Canada;Corey Stanton;43.0
+Antiquities;2018;93;USA;Daniel Campbell;65.0
+Sarkoob;2019;93;Iran;Reza Goran;48.0
+Welcome to Hell;2018;93;UK;Tony Newton, Sam Mason-Bell;27.0
+Alien Expedition;2018;93;USA;Wallace Brothers;27.0
+Coyote Lake;2019;93;USA;Sara Seligman;52.0
+Mai visto;2019;93;Spain;Marina Seresesky;53.0
+QuÃ© LeÃ³n;2018;93;Dominican Republic;Frank Perozo;62.0
+Higher Power;2018;93;USA;Matthew Charles Santoro;48.0
+Dark Sense;2019;93;UK;Magnus Wake;47.0
+Lo mÃ¡s sencillo es complicarlo todo;2018;93;Mexico;Rene Bueno;38.0
+Asimetrija;2019;93;Serbia, Slovenia, Italy;Masa Neskovic;50.0
+Fall City;2018;93;USA;Nathan D. Lee;54.0
+Stuber - Autista d'assalto;2019;93;USA;Michael Dowse;62.0
+In the Trap - Nella trappola;2019;93;Italy;Alessio Liguori;40.0
+Possession Diaries;2019;93;USA;Juan Frausto;19.0
+Battle Drone;2018;93;USA;Mitch Gould;52.0
+The 16th Episode;2018;93;USA;JÃ©rÃ´me Cohen-Olivar;57.0
+Eighth Grade - Terza media;2018;93;USA;Bo Burnham;74.0
+La chute de Sparte;2018;93;Canada;Tristan Dubois;61.0
+The Way We Weren't;2019;93;USA, Switzerland;Rick Hays;65.0
+The Black String;2018;93;USA;Brian Hanson;54.0
+Uqdat el-Khawagah;2018;93;Egypt;Peter Mimi;49.0
+Madeline's Madeline;2018;93;USA;Josephine Decker;64.0
+Beyond White Space;2018;93;USA, Hungary;Ken Locsmandi;45.0
+Mister Link;2019;93;Canada, USA;Chris Butler;67.0
+The Oath;2018;93;USA;Ike Barinholtz;54.0
+Las niÃ±as bien;2018;93;Mexico;Alejandra MÃ¡rquez Abella;70.0
+El increÃ­ble finde menguante;2019;93;Spain;Jon Mikel Caballero;62.0
+Lupin III: The First;2019;93;Japan;Takashi Yamazaki;70.0
+Gosnell: The Trial of America's Biggest Serial Killer;2018;93;USA;Nick Searcy;67.0
+Tangeye Abu Ghorayb;2018;93;Iran;Bahram Tavakoli;65.0
+The Executioners;2018;93;USA;Giorgio Serafini;38.0
+The Glorious Seven;2019;93;Germany;Harald Franklin;27.0
+The Ninth Passenger;2018;93;Canada;Corey Large;30.0
+Route 80;2018;93;USA;Nick Rapuano;47.0
+Assimilate;2019;93;USA;John Murlowski;53.0
+Slender Man;2018;93;USA;Sylvain White;32.0
+When Jeff Tried to Save the World;2018;93;USA;Kendall Goldberg;57.0
+Giant Little Ones;2018;93;Canada;Keith Behrman;72.0
+Safe Spaces;2019;93;USA;Daniel Schechter;57.0
+The Divorce Party;2019;93;USA;Hughes William Thompson;51.0
+Going for Gold;2018;93;Australia;Clay Glen;47.0
+Swiped;2018;93;USA;Ann Deborah Fishman;35.0
+Love Addict;2018;93;France;Frank Bellocq;50.0
+Cold November;2018;93;Kosovo, Albania, Republic of North Macedonia;Ismet Sijarina;70.0
+Iron Sky - La battaglia continua;2019;93;Finland, Germany, Belgium;Timo Vuorensola;50.0
+Catskill Park;2018;93;USA;Vlad Yudin;37.0
+Resolution Song;2018;93;USA;Antonio James;49.0
+Hidden Light;2018;93;Australia;Aaron Kamp;68.0
+A Son of Man;2019;93;Ecuador;Jamaicanoproblem, Pablo AgÃ¼ero;59.0
+La Llorona - Le lacrime del male;2019;93;USA;Michael Chaves;53.0
+Little Monsters;2019;93;Australia, USA, UK;Abe Forsythe;63.0
+Tales from the Lodge;2019;93;UK;Abigail Blackmore;50.0
+All Square;2018;93;USA;John Hyams;59.0
+Firecrackers;2018;93;Canada;Jasmin Mozaffari;60.0
+Let There Be Light;2019;93;Slovakia, Czech Republic;Marko Skop;67.0
+Dance Baby Dance;2018;93;USA;Stephen Kogon;61.0
+Depth of Pyaar;2019;93;Canada;Mukesh Asopa, Charles Ross;70.0
+HollywoodtÃ¼rke;2019;93;Germany;Murat Ãœnal;58.0
+Brakland;2018;93;Denmark, Iceland;Martin Skovbjerg;59.0
+Blood Vessel;2019;93;Australia;Justin Dix;52.0
+Cui mian cai jue;2019;93;Hong Kong, China;Siu Kwan Lai, Wing Tai Lau;59.0
+Kinky;2018;93;USA;Jean-Claude La Marre;30.0
+Aiuto, ho ristretto mamma e papÃ ;2018;93;Germany;Tim Trageser;49.0
+Los Angeles/Tehran;2018;93;Iran;Tina Pakravan;23.0
+Die defekte Katze;2018;93;Germany;Susan Gordanshekan;65.0
+International Falls;2019;93;USA;Amber McGinnis;54.0
+Target;2018;93;Indonesia;Raditya Dika;40.0
+Support the Girls;2018;93;USA;Andrew Bujalski;64.0
+Old Man & the Gun;2018;93;USA, UK;David Lowery;67.0
+Fig Tree;2018;93;Israel, France, Ethiopia, Germany;Aalam-Warqe Davidian;63.0
+Tijuana Jackson: Purpose Over Prison;2018;93;USA;Romany Malco;57.0
+Run with the Hunted;2019;93;USA;John Swab;75.0
+Daffodils;2019;93;New Zealand;David Stubbs;57.0
+Paradise Beach;2019;93;France;Xavier Durringer;44.0
+Buoyancy;2019;93;Australia;Rodd Rathjen;74.0
+El Motoarrebatador;2018;93;Argentina, Uruguay, France;AgustÃ­n Toscano;68.0
+Happy Times;2019;93;Israel, USA, Italy;Michael Mayer;59.0
+Psi umiru sami;2019;93;Serbia;Nikola Petrovic;50.0
+Videomannen;2018;93;Sweden;Kristian A. SÃ¶derstrÃ¶m;58.0
+Red Devil;2019;93;UK;Savvas D. Michael;60.0
+The Perfect Host: A Southern Gothic Tale;2018;93;USA;Derrick Sims;41.0
+Attenti a quelle due;2019;93;USA;Chris Addison;54.0
+Best F(r)iends: Volume 2;2018;93;USA;Justin MacGregor;51.0
+One Remains;2019;93;USA;Josh Hodgins;29.0
+Holiday;2018;93;Denmark, Netherlands, Sweden;Isabella EklÃ¶f;57.0
+Cronofobia;2018;93;Switzerland;Francesco Rizzi;67.0
+Liang zhi lao hu;2019;93;China;Fei Li;57.0
+Welcome the Stranger;2018;94;USA;Justin Kelly;47.0
+Long Lost;2018;94;USA;Erik Bloomquist;51.0
+By Light of Desert Night;2019;94;USA;David Stuart Snell;54.0
+Jahan, Ba Man Beraghs;2019;94;Iran;Sorush Sehhat;66.0
+The Nightmare Gallery;2019;94;USA;Gene Blalock;38.0
+Une annÃ©e polaire;2018;94;France;Samuel Collardey;65.0
+Sid & Aya: Not a Love Story;2018;94;Philippines;Irene Villamor;69.0
+Dance Night Obsession;2019;94;USA;Harvey Lowry;39.0
+American Bistro;2019;94;USA;Arthur Diennet;64.0
+Loca Por El Trabajo;2018;94;Mexico;Luis Eduardo Reyes;43.0
+Eide Asli;2019;94;Iran;Azita Moguie;53.0
+Cobain;2018;94;Netherlands, Belgium, Germany;Nanouk Leopold;63.0
+Itsy Bitsy;2019;94;USA;Micah Gallo;49.0
+Meet Me in St. Gallen;2018;94;Philippines;Irene Villamor;70.0
+Tutti i ricordi di Claire;2018;94;France;Julie Bertuccelli;60.0
+Half Magic;2018;94;USA;Heather Graham;46.0
+Hotel Gagarin;2018;94;Italy;Simone Spada;57.0
+Corbin Nash;2018;94;UK, USA;Ben Jagger;49.0
+Il pacco;2018;94;USA;Jake Szymanski;55.0
+El despertar de las hormigas;2019;94;Costa Rica, Spain;Antonella Sudasassi, Antonella Sudasassi;66.0
+Il padre dell'anno;2018;94;USA;Tyler Spindel;52.0
+The Open House;2018;94;Canada, USA;Matt Angel, Suzanne Coote;32.0
+Balboa Blvd;2019;94;Australia;Kylie Claude, Rody Claude;66.0
+Virgin Cheerleaders in Chains;2018;94;USA;Paulo Biscaia Filho, Gary McClain Gannaway;38.0
+Quando eravamo fratelli;2018;94;USA;Jeremiah Zagar;69.0
+El proyeccionista;2019;94;Dominican Republic;JosÃ© MarÃ­a Cabral;69.0
+Mi pequeÃ±o gran hombre;2018;94;Mexico;Jorge RamÃ­rez SuÃ¡rez;41.0
+Sonora;2018;94;Mexico;Alejandro Springall;62.0
+Moj jutarnji smeh;2019;94;Serbia;Marko Djordjevic;72.0
+Port Authority;2019;94;USA, France;Danielle Lessovitz;65.0
+Hala;2019;94;USA;Minhal Baig;58.0
+Ibiza;2018;94;USA;Alex Richanbach;52.0
+Swallow;2019;94;USA, France;Carlo Mirabella-Davis;64.0
+Sharon Tate - Tra incubo e realtÃ ;2019;94;USA, Mexico;Daniel Farrands;28.0
+Snu;2019;94;Portugal;PatrÃ­cia Sequeira;66.0
+Il buco;2019;94;Spain;Galder Gaztelu-Urrutia;70.0
+Blood Vow;2018;94;USA;Victoria Sutton;62.0
+Braven - Il coraggioso;2018;94;Canada;Lin Oeding;60.0
+The Bouncer;2018;94;France, Belgium, British Virgin Islands;Julien Leclercq;59.0
+Battalion;2018;94;Australia;Michael Miller;21.0
+Hotel Artemis;2018;94;UK, USA;Drew Pearce;61.0
+Non tutte le sciagure vengono dal cielo;2018;94;Switzerland;Michael Steiner;66.0
+Miss Arizona;2018;94;USA;Autumn McAlpin;53.0
+James vs. His Future Self;2019;94;Canada;Jeremy LaLonde;59.0
+Disco;2019;94;Norway;Jorunn Myklebust Syversen;54.0
+Un PapÃ¡ Pirata;2019;94;Mexico;Humberto Hinojosa Ozcariz;45.0
+Eiga Chuunibyou demo koi ga shitai! Take On Me;2018;94;Japan;Tatsuya Ishihara;73.0
+Just a Gigolo;2019;94;France;Olivier Baroux;54.0
+Blackmark;2018;94;USA;A.J. Martinson;45.0
+Say Yes;2018;94;USA;Stewart Wade;68.0
+Blood Craft;2019;94;USA;James Cullen Bressack;35.0
+Cam;2018;94;USA;Daniel Goldhaber;59.0
+Extra Ordinary;2019;94;Ireland, Belgium, Finland, UK;Mike Ahern, Enda Loughman;64.0
+Dedicada a mi Ex;2019;94;Colombia, Ecuador;Jorge Ulloa;75.0
+MormaÃ§o;2018;94;Brazil;Marina Meliande;64.0
+Cucuy: The Boogeyman;2018;94;USA;Peter Sullivan;46.0
+Red Zone - 22 miglia di fuoco;2018;94;USA, China, Colombia;Peter Berg;61.0
+Equipaggio zero;2019;94;USA;Bert, Bertie;69.0
+Cabaret Maxime;2018;94;Portugal, USA;Bruno de Almeida;61.0
+Bennett's War;2019;94;USA;Alex Ranarivelo;57.0
+Code Name: Dynastud;2018;94;USA;Richard Griffin;34.0
+Re loca;2018;94;Argentina;Martino Zaidelis;61.0
+Loon Lake;2019;94;USA;Ansel Faraj;49.0
+Chen mo de zheng ren;2019;94;China, Hong Kong;Renny Harlin;56.0
+Close;2019;94;UK, USA;Vicky Jewson;57.0
+The Truth About Lies;2018;94;USA;Phil Allocco;52.0
+Las grietas de Jara;2018;94;Argentina, Spain;NicolÃ¡s Gil Lavedra;57.0
+Zagrebacki Ekvinocij;2019;94;Croatia;Svebor Mihael Jelic;81.0
+Long xia jing cha;2018;94;China;Xinyun Li;50.0
+The Second;2018;94;Australia;Mairi Cameron;47.0
+Change in the Air;2018;94;USA;Dianne Dreyer;55.0
+Ore 15:17 - Attacco al treno;2018;94;USA;Clint Eastwood;52.0
+TrÃªs VerÃµes;2019;94;Brazil, France;Sandra Kogut;60.0
+The Song of Sway Lake;2018;94;USA;Ari Gold;60.0
+The Cleansing Hour;2019;94;USA;Damien LeVeck;57.0
+Ti presento Patrick;2018;94;UK;Mandie Fletcher;59.0
+Soul to Keep;2018;94;USA;David Allensworth, Moniere;43.0
+True Fiction;2019;94;Canada;Braden Croft;48.0
+The Maestro;2018;94;USA;Adam Cushman;57.0
+Submission;2019;94;USA;J.M. Berrios;51.0
+Waka okami wa shÃ´gakusei!;2018;94;Japan;KitarÃ´ KÃ´saka;70.0
+Il bene mio;2018;94;Italy;Pippo Mezzapesa;57.0
+Honey Boy;2019;94;USA;Alma Har'el;73.0
+Dafne;2019;94;Italy;Federico Bondi;62.0
+Sestrenka;2019;94;Russia;Aleksandr Galibin;73.0
+Styx;2018;94;Germany, Austria, Netherlands, Malta;Wolfgang Fischer;65.0
+Los Bando;2018;94;Norway, Sweden;Christian Lo;67.0
+River Runs Red;2018;94;USA;Wes Miller;46.0
+Drive Me Home - Portami a casa;2018;94;Italy;Simone Catania;57.0
+Flay;2019;94;USA;Eric Pham;32.0
+Het leven is vurrukkulluk;2018;94;Netherlands;Frans Weisz;53.0
+El Fantasma de mi Novia;2018;94;Dominican Republic;"Francis ""Indio"" Disla Ferreira";62.0
+Emmett;2019;94;USA;Bridget Stokes;48.0
+UP There;2019;94;USA;Michael Blaustein, Daniel Weingarten;49.0
+Among Thieves;2019;95;USA;K.C. Schrimpl;42.0
+Life Like;2019;95;USA;Josh Janowicz;54.0
+Cabaret;2019;95;India;Kaustav Narayan Niyogi;35.0
+Khrustal;2018;95;Belarus, USA, Germany, Russia;Darya Zhuk;70.0
+Brave ragazze;2019;95;Italy;Michela Andreozzi;54.0
+Welcome to Curiosity;2018;95;UK;Ben Pickering;50.0
+Recuperando a mi Ex;2018;95;Mexico;Gabriel GuzmÃ¡n;35.0
+La terra dell'abbastanza;2018;95;Italy;Damiano D'Innocenzo, Fabio D'Innocenzo;62.0
+Cruel Peter;2019;95;Italy;Christian Bisceglia, Ascanio Malgarini;50.0
+In Reality;2018;95;USA;Ann Lupo;51.0
+Go Back to China;2019;95;China, USA;Emily Ting;59.0
+Prishelets;2018;95;Russia;Alexander Kulikov, Mikhail Raskhodnikov;24.0
+Po cem muzi touzÃ­;2018;95;Czech Republic;Rudolf Havlik;62.0
+Podbrosy;2018;95;Russia, Lithuania, Ireland, France;Ivan I. Tverdovskiy;61.0
+Jonathan;2018;95;USA;Bill Oliver;59.0
+Dry Martina;2018;95;Chile, Argentina;Che Sandoval;58.0
+Eaten by Lions;2018;95;UK;Jason Wingard;61.0
+Wounds;2019;95;USA, UK;Babak Anvari;40.0
+Ring of Silence;2019;95;USA;Nicole Bowers Wallace;86.0
+Hekayat-e darya;2018;95;Iran;Bahman Farmanara;46.0
+Eternal Beauty;2019;95;UK;Craig Roberts;63.0
+Recreo;2018;95;Argentina;HernÃ¡n Guerschuny, JazmÃ­n Stuart;57.0
+Solteras;2019;95;Mexico;Luis Javier Henaine;59.0
+Tully;2018;95;USA, Canada;Jason Reitman;70.0
+Abdel et la comtesse;2018;95;France;Isabelle Doval;48.0
+Ride;2018;95;Italy;Valerio Mastandrea;51.0
+Songbird;2018;95;UK;Jamie Adams;42.0
+Nyitva;2018;95;Hungary;Orsi Nagypal;65.0
+Chicuarotes;2019;95;Mexico;Gael GarcÃ­a Bernal;67.0
+Blindspotting;2018;95;USA;Carlos LÃ³pez Estrada;74.0
+The Parting Glass;2018;95;USA;Stephen Moyer;55.0
+Camper Killer;2018;95;USA;Tom Nagel;37.0
+The Tracker;2019;95;Italy, USA;Giorgio Serafini;34.0
+BROS. On The Rocks;2018;95;USA;Don Tjernagel;68.0
+Youtopia;2018;95;Italy;Berardo Carboni;55.0
+Termination;2019;95;USA;Alice Nicolini;26.0
+Burning Men;2019;95;UK;Jeremy Wooding;42.0
+Dorst;2018;95;Netherlands;Saskia Diesing;60.0
+Paradise Hills;2019;95;Spain, USA;Alice Waddington;56.0
+Dublin Oldschool;2018;95;Ireland;Dave Tynan;61.0
+Unhinged;2018;95;USA;Giorgio Serafini;40.0
+Shangri-La: Near Extinction;2018;95;USA;Nick Wauters;30.0
+In Paradox;2019;95;Kuwait;Hamad AlSarraf;53.0
+Exit 0;2019;95;USA;E.B. Hughes;65.0
+Panama Papers;2019;95;USA;Steven Soderbergh;63.0
+Vargur;2018;95;Iceland, Denmark, Sweden;BÃ¶rkur SigÃ¾Ã³rsson;62.0
+Lionheart;2018;95;Nigeria;Genevieve Nnaji;56.0
+The Golem;2018;95;Israel;Doron Paz, Yoav Paz;56.0
+Dino King 3D: Journey to Fire Mountain;2019;95;South Korea, China;Han Sang-Ho;48.0
+Tuntematon mestari;2018;95;Finland;Klaus HÃ¤rÃ¶;74.0
+Curse of the Witch's Doll;2018;95;UK;Lawrence Fowler;32.0
+Sea Fever;2019;95;Ireland, USA, UK, Sweden, Belgium;Neasa Hardiman;57.0
+CÃ³rka trenera;2018;95;Poland;Lukasz Grzegorzek;60.0
+Peter Rabbit;2018;95;USA, Australia, UK;Will Gluck;66.0
+Automata;2019;95;UK;Lawrie Brewster;43.0
+Yung;2018;95;Germany;Henning Gronkowski;57.0
+Heaven's War;2018;95;USA;Danny Carrales;42.0
+Les Tuche 3;2018;95;France;Olivier Baroux;46.0
+Saving Flora;2018;95;USA;Mark Drury Taylor;57.0
+Deep Murder;2019;95;USA;Nick Corirossi;42.0
+Greener Grass;2019;95;USA;Jocelyn DeBoer, Dawn Luebbe;63.0
+Summer '03;2018;95;USA;Becca Gleason;54.0
+The Deeper You Dig;2019;95;USA;John Adams, Toby Poser;51.0
+The Wretched;2019;95;USA;Brett Pierce, Drew T. Pierce;58.0
+The Dustwalker;2019;95;Australia, United Arab Emirates;Sandra Sciberras;38.0
+Pretenders;2018;95;USA;James Franco;51.0
+The Assassin's Code;2018;95;USA, Canada;David A. Armstrong;50.0
+Exterior/Night;2018;95;Egypt, United Arab Emirates;Ahmad Abdalla;69.0
+Benzinho;2018;95;Brazil, Uruguay, Germany;Gustavo Pizzi;72.0
+The Domestics;2018;95;USA;Mike P. Nelson;57.0
+Antes Que Eu Me EsqueÃ§a;2018;95;Brazil;Tiago Arakilian;68.0
+AndiÃ° eÃ°lilega;2018;95;Iceland, Sweden, Belgium;Isold Uggadottir;69.0
+Saving ZoÃ« - Alla ricerca della veritÃ ;2019;95;USA;Jeffrey G. Hunt;53.0
+Drakulics elvtÃ¡rs;2019;95;Hungary;MÃ¡rk BodzsÃ¡r;67.0
+Battle;2018;95;Norway, Denmark, Netherlands, Sweden;Katarina Launing;60.0
+Les affamÃ©s;2018;95;France;LÃ©a FrÃ©deval;41.0
+PrÃ©lude;2019;95;Germany;Sabrina Sarabi;60.0
+Cosa fai a Capodanno?;2018;95;Italy;Filippo Bologna;50.0
+Vielmachglas;2018;95;Germany;Florian Ross;51.0
+Terminal;2018;95;Ireland, UK, Hong Kong, Hungary, USA;Vaughn Stein;54.0
+Solum;2019;95;Portugal;Diogo Morgado;42.0
+Els dies que vindran;2019;95;Spain;Carlos Marques-Marcet;69.0
+After Everything;2018;95;USA;Hannah Marks, Joey Power;63.0
+Sasha Was Here;2018;95;Lithuania;Ernestas Jankauskas;70.0
+La grande noirceur;2018;95;Canada;Maxime Giroux;70.0
+Clown Motel: Spirits Arise;2019;95;USA;Joseph Kelly;52.0
+Diane;2018;95;USA;Kent Jones;67.0
+Beach Bum - Una vita in fumo;2019;95;Switzerland, UK, France, USA;Harmony Korine;55.0
+Dos Veces TÃº;2018;95;Mexico;SalomÃ³n Askenazi;54.0
+Brillantissime;2018;95;France, Belgium;MichÃ¨le Laroque;43.0
+Extinction;2018;95;USA;Ben Young;58.0
+Eat Me;2018;95;USA;Adrian Cruz;46.0
+The Luring;2019;95;USA;Christopher Wells;31.0
+LarguÃ©es;2018;95;France;EloÃ¯se Lang;58.0
+Ouija House;2018;95;USA;Ben Demaree;30.0
+The Infiltrators;2019;95;USA;Cristina Ibarra, Alex Rivera;58.0
+Broken Contract;2018;95;Australia;James Pentecost;38.0
+The Dark;2018;95;Austria;Justin P. Lange;56.0
+Kiss Kiss;2019;95;USA;Dallas King;25.0
+Happy New Year, Colin Burstead;2018;95;UK;Ben Wheatley;64.0
+Adam;2019;95;USA;Rhys Ernst;35.0
+The Other Side;2018;95;USA;Warren Pemberton;41.0
+La mala noche;2019;95;Ecuador, Mexico;Gabriela Calvache;58.0
+My Birthday Song;2018;95;India;Samir Soni;55.0
+Davay razvedyomsya!;2019;95;Russia;Anna Parmas;53.0
+Badnaam Gali;2019;95;India;Ashwin Shetty;70.0
+Uno di famiglia;2018;95;Italy;Alessio Maria Federici;57.0
+Mais vous Ãªtes fous;2019;95;France;Audrey Diwan;65.0
+Fighter;2019;95;Poland;Konrad Maximilian;36.0
+Snapshots;2018;95;USA;Melanie Mayron;66.0
+Dilili a Parigi;2018;95;France, Belgium, Germany;Michel Ocelot;70.0
+Sabea El Boromba;2019;95;Egypt;Mahmoud Karim;57.0
+Si Doel the Movie 2;2019;95;Indonesia;Rano Karno;70.0
+Benyamin Biang Kerok;2018;95;Indonesia;Hanung Bramantyo;29.0
+Frat Pack;2018;95;Canada, USA;Michael Philip;39.0
+Made in Bangladesh;2019;95;France, Bangladesh, Denmark, Portugal;Rubaiyat Hossain;71.0
+The Revenger: An Unromantic Comedy;2019;95;UK;Mark Murphy;56.0
+Exorcism at 60,000 Feet;2019;95;USA;Chad Ferrin;41.0
+Tiempo despuÃ©s;2018;95;Spain, Portugal;JosÃ© Luis Cuerda;58.0
+La fille au bracelet;2019;95;France, Belgium;StÃ©phane Demoustier;68.0
+The 9th Precinct;2019;95;Taiwan;Ding-Lin Wang;55.0
+Beauty & the Beholder;2018;95;USA;Laron Austin;44.0
+Shabab Sheyab;2018;95;United Arab Emirates;Yasir Al-Yasiri;78.0
+Webcast;2018;95;UK, France;Paul McGhie;57.0
+FinchÃ© morte non ci separi;2019;95;USA, Canada;Matt Bettinelli-Olpin, Tyler Gillett;68.0
+Bik Eneich: Un fils;2019;95;Tunisia, France, Lebanon, Qatar;Mehdi Barsaoui;70.0
+La belle et la belle;2018;95;France;Sophie FilliÃ¨res;56.0
+Les goÃ»ts et les couleurs;2018;95;France;Myriam Aziza;53.0
+The Debt Collector;2018;95;UK, USA;Jesse V. Johnson;57.0
+Tanki;2018;95;Russia;Kim Druzhinin;48.0
+Cuddle Weather;2019;95;Philippines;Rod Marmol;62.0
+Palm Swings;2019;95;USA;Sean Hoessli;45.0
+Relentless;2018;95;USA, El Salvador;Lance Tracy;45.0
+Komola Rocket;2018;95;Bangladesh;Noor Imran Mithu;74.0
+Shadow Wolves;2019;95;USA, UK;McKay Daines;37.0
+Makmum;2019;95;Indonesia;Hadrah Daeng Ratu;43.0
+Killers Anonymous;2019;95;UK;Martin Owen;51.0
+Steam Room Stories: The Movie!;2019;95;USA;J.C. Calciano;42.0
+Mossad;2019;95;Israel;Alon Gur Arye;67.0
+City Hunter: Private Eyes;2019;95;Japan;Kenji Kodama;65.0
+Xiao Mei;2018;95;Taiwan;Maren Hwang;63.0
+Gon-ji-am;2018;95;South Korea;Beom-sik Jeong;62.0
+The Brawler;2018;95;USA;Ken Kushner;48.0
+Mudras Calling;2018;95;Myanmar;Christina Kyi;85.0
+Zoo;2018;95;Denmark, Sweden;Antonio Tublen;55.0
+Nova Lituania;2019;96;Lithuania;Karolis Kaupinis;73.0
+Old Boys;2018;96;UK, Sweden;Toby MacDonald;61.0
+Heartlock;2018;96;USA;Jon Kauffman;54.0
+Helena;2018;96;Mexico;Alejandro Sugich;58.0
+Fiore gemello;2018;96;Italy;Laura Luchetti;61.0
+Dark Hall;2018;96;Spain, USA;Rodrigo CortÃ©s;51.0
+Miga Miga Avasaram;2019;96;India;Suresh Kamatchi;72.0
+Un viaggio a quattro zampe;2019;96;China, USA;Charles Martin Smith;67.0
+Enter The Wild;2018;96;USA;Mark Forstmann;37.0
+Landing Up;2018;96;USA;Daniel Tenenbaum;48.0
+Happy Ending;2018;96;Denmark;Hella Joof;58.0
+Hoax;2019;96;USA;Matt Allen;39.0
+Ji wu;2018;96;Hong Kong, Malaysia;Jeffrey Chiang;50.0
+Diamantino - Il calciatore piÃ¹ forte del mondo;2018;96;Portugal, France, Brazil;Gabriel Abrantes, Daniel Schmidt;64.0
+Babes with Blades;2018;96;UK;Cecily Fay;21.0
+Smallfoot: Il mio amico delle nevi;2018;96;USA;Karey Kirkpatrick, Jason Reisig;66.0
+Among the Shadows - Tra le ombre;2019;96;USA;Tiago Mesquita;21.0
+Da yue shi. Wei ai pei yue;2018;96;Hong Kong;Chi-Keung Fung;64.0
+The Isle;2018;96;UK;Matthew Butler-Hart;58.0
+My Hero Academia the Movie - Two Heroes;2018;96;Japan;Kenji Nagasaki;76.0
+Galaxy Lords;2018;96;USA;Von Bilka;29.0
+The Nun: La vocazione del male;2018;96;USA;Corin Hardy;53.0
+The Wedding Guest;2018;96;UK;Michael Winterbottom;57.0
+Die WunderÃ¼bung;2018;96;Austria;Michael Kreihsl;69.0
+Blood Bound;2019;96;USA;Richard LeMay;42.0
+A Certain Kind of Silence;2019;96;Czech Republic, Netherlands, Latvia;Michal Hogenauer;61.0
+Taipei - City of Love;2018;96;USA;Jason Lester;41.0
+Sophie Gold, the Diary of a Gold Digger;2018;96;USA;Carol Botar;57.0
+Garabandal, solo Dios lo sabe;2018;96;Spain;Brian Alexander Jackson;59.0
+Coureur;2018;96;Belgium;Kenneth Mercken;64.0
+El Hubiera SÃ­ Existe;2019;96;Mexico;Luis Eduardo Reyes;58.0
+Delirium;2018;96;USA;Dennis Iliadis;57.0
+Rich Kids;2018;96;USA;Laura Somers;60.0
+Scorched Earth;2018;96;Canada, USA;Peter Howitt;45.0
+L'unica;2018;96;USA;Stephanie Laing;64.0
+The Third Wife;2018;96;Vietnam;Ash Mayfair;67.0
+Ruben Brandt, Collector;2018;96;Hungary;Milorad Krstic;75.0
+El aÃ±o de la plaga;2018;96;Spain, Mexico, Belgium;C. MartÃ­n Ferrera;45.0
+Brotherhood;2019;96;Canada;Richard Bell;48.0
+Zeroville;2019;96;USA;James Franco;45.0
+Klaus: I segreti del Natale;2019;96;Spain, UK;Sergio Pablos, Carlos MartÃ­nez LÃ³pez;82.0
+Sin fin;2018;96;Spain;CÃ©sar Esteban Alenda, JosÃ© Esteban Alenda;69.0
+Monsters and Men;2018;96;USA;Reinaldo Marcus Green;58.0
+End of Sentence;2019;96;Iceland, Ireland;Elfar Adalsteins;72.0
+El PrÃ­ncipe;2019;96;Chile, Argentina, Belgium;SebastiÃ¡n MuÃ±oz;64.0
+La disparition des lucioles;2018;96;Canada;SÃ©bastien Pilote;69.0
+Bent - Polizia criminale;2018;96;Spain, USA;Bobby Moresco;52.0
+Mother Krampus 2: Slay Ride;2018;96;USA;Eddie Lengyel;34.0
+Crucible of the Vampire;2019;96;UK;Iain Ross-McNamee;35.0
+Vita nella Banlieu;2019;96;France;Kery James, LeÃ¯la Sy;64.0
+The Oscar Nominated Short Films 2018: Live Action;2018;96;USA;Max Porter;78.0
+Alpha - Un'amicizia forte come la vita;2018;96;USA, Canada, China;Albert Hughes;67.0
+RemÃ©lem legkÃ¶zelebb sikerÃ¼l meghalnod:);2018;96;Hungary;MihÃ¡ly Schwechtje;72.0
+Susi Susanti: Love All;2019;96;Indonesia;Sim F.;75.0
+To The Beat!;2018;96;USA;Jillian Clare;47.0
+Bomb, yek asheghaneh;2018;96;Iran;Payman Maadi;65.0
+Mosley;2019;96;New Zealand, China;Kirby Atkins;64.0
+Tiempo compartido;2018;96;Mexico;SebastiÃ¡n Hofmann;60.0
+Still;2018;96;USA;Takashi Doscher;52.0
+Lontano da qui;2018;96;USA, Israel, UK, Canada;Sara Colangelo;67.0
+Veneno;2018;96;Dominican Republic;TabarÃ© Blanchard;81.0
+Obey;2018;96;UK;Jamie Jones;54.0
+Io;2019;96;USA;Jonathan Helpert;47.0
+Irina;2018;96;Bulgaria;Nadejda Koseva;65.0
+Khejalat Nakesh;2018;90;Iran;Reza Maghsoodi;54.0
+Red Island;2018;90;Canada;Lux;32.0
+The Cleaning Lady;2018;90;USA;Jon Knautz;54.0
+Lost Fare;2018;90;USA;Bruce Logan;46.0
+Juanita;2019;90;USA;Clark Johnson;59.0
+Flashout;2019;90;USA;Richard Lerner;48.0
+The Perfection;2018;90;USA;Richard Shepard;61.0
+Gully;2019;90;USA;Nabil Elderkin;28.0
+Broken Star;2018;90;USA;Dave Schwep;43.0
+Mi vendicherÃ²;2018;90;USA;Ben Meyerson;44.0
+MamÃ¡ se fue de viaje;2019;90;Mexico;Fernando SariÃ±ana;44.0
+Mi mejor amigo;2018;90;Argentina;MartÃ­n Deus;67.0
+Meri Nimmo;2018;90;India;Rahul Shanklya;71.0
+Johnny Gruesome;2018;90;USA;Gregory Lamberson;38.0
+Parwareshghah;2019;90;Denmark, Luxembourg, France, Germany, Afghanistan;Shahrbanoo Sadat;66.0
+Art of Deception;2019;90;USA;Richard Ryan;35.0
+El Diesel;2018;90;Egypt;Karim El Sobky;46.0
+Allahyar and the Legend of Markhor;2018;90;Pakistan;Uzair Zaheer Khan;75.0
+The Mover;2018;90;Latvia;Davis Simanis Jr.;72.0
+Winter Song;2019;90;USA;Camille Brown;66.0
+Rizu to aoi tori;2018;90;Japan;Naoko Yamada;72.0
+Para Aduma;2018;90;Israel;Tsivia Barkai;63.0
+Seveled;2019;90;Hungary;DÃ©nes Orosz;62.0
+Le jeu;2018;90;France, Belgium;Fred CavayÃ©;68.0
+Wheely;2018;90;Malaysia, Martinique, Maldives, Djibouti, Brunei;Yusry Abd Halim, Carl Mendez;40.0
+Santa Girl;2019;90;USA;Blayne Weaver;51.0
+Binti;2019;90;Belgium;Frederike Migom;65.0
+Point of no Return;2018;90;Ireland, USA;Kevin Glynn;39.0
+Malvagi;2019;90;USA;Dan Berk, Robert Olsen;62.0
+Guardians of the Tomb;2018;90;China, Australia, Russia, Thailand;Kimble Rendall;44.0
+Wastelander;2018;90;USA;Angelo Lopes;26.0
+Bungou Stray Dogs: Dead Apple;2018;90;Japan;Takuya Igarashi;72.0
+Loners;2019;90;USA;Eryc Tramonn;58.0
+Billy;2018;90;Netherlands;Theo Maassen;63.0
+The Prey;2018;90;Cambodia;Jimmy Henderson;54.0
+Tabaluga;2018;90;Germany, Canada;Sven Unterwaldt Jr.;50.0
+Sick for Toys;2018;90;USA;David Del Rio;41.0
+Black Garden;2019;90;Australia;Shaun Wilson;52.0
+Viral Beauty;2018;90;USA, Canada;David Tyson Lam;63.0
+Cinderella and the Secret Prince;2018;90;USA;Lynne Southerland;52.0
+Nighthawks;2019;90;USA;Grant S. Johnson;37.0
+Comment tuer sa mÃ¨re;2018;90;France;David Diane, Morgan Spillemaecker;36.0
+Egg;2018;90;USA;Marianna Palka;50.0
+Skin in the Game;2019;90;USA;Adisa;43.0
+Le milieu de l'horizon;2019;90;Switzerland, Belgium;Delphine Lehericey;68.0
+A Daughter's Plan To Kill;2019;90;USA;Ian Niles;47.0
+CrÃ­a puercos;2018;90;Mexico;EhÃ©catl GarcÃ­a;73.0
+The Storyteller;2018;90;USA;Joe Crump;69.0
+Maria;2019;90;Philippines;Pedring Lopez;50.0
+Closure;2018;90;USA;Alex Goldberg;68.0
+The 20th Century;2019;90;Canada;Matthew Rankin;69.0
+Pumpkins;2018;90;UK;Maria Lee Metheringham;24.0
+Qui m'aime me suive!;2019;90;France;JosÃ© Alcala;51.0
+Jane and Emma;2018;90;USA;Chantelle Squires;62.0
+Robo;2019;90;Russia;Sarik Andreasyan;51.0
+Mr. Malevolent;2018;90;USA;Rusty Cundieff, Darin Scott;42.0
+Ghostbox Cowboy;2018;90;China, USA;John Maringouin;48.0
+The Manson Family Massacre;2019;90;UK, USA;Andrew Jones;32.0
+Alcatraz;2018;90;UK, USA;Andrew Jones;33.0
+The Dawn;2019;90;USA;Brandon Slagle;46.0
+Bit;2019;90;USA;Brad Michael Elmore;38.0
+Poms;2019;90;UK, USA, Canada;Zara Hayes;59.0
+Puoi baciare lo sposo;2018;90;Italy;Alessandro Genovesi;58.0
+A Beauty & The Beast Christmas;2019;90;USA;Dylan Vox;51.0
+La truffa Ã¨ servita;2018;90;USA, UK;James Oakley;41.0
+Fright Fest;2018;90;USA;Ante Novakovic;36.0
+The Flip Side;2018;90;Australia;Marion Pilowsky;48.0
+Tvar;2019;90;Russia;Olga Gorodetskaya;41.0
+Party Hard Die Young;2018;90;Austria;Dominik Hartl;51.0
+TÃ¡tova volha;2018;90;Czech Republic;JirÃ­ Vejdelek;64.0
+L'angelo del male - Brightburn;2019;90;USA;David Yarovesky;61.0
+Countdown;2019;90;USA;Justin Dec;54.0
+Pimped;2018;90;Australia;David Barker;53.0
+A Quiet Place - Un posto tranquillo;2018;90;USA;John Krasinski;75.0
+Cruise;2018;90;USA;Robert Siegel;53.0
+Treacherous;2018;90;USA;Brian Brough;50.0
+Hollywould;2019;90;USA;Joshua Coates;36.0
+Dead Squad: Temple of the Undead;2018;90;USA;Dominik Hauser;33.0
+Christmas on the Range;2019;90;USA;Gary Wheeler;59.0
+Sconnessi;2018;90;Italy;Cristian Marazziti;53.0
+Una Mujer Sin Filtro;2018;90;Mexico, Chile;Luis Eduardo Reyes;48.0
+F20;2018;90;Croatia;Arsen A. Ostojic;53.0
+Taal is zeg maar echt mijn ding;2018;90;Netherlands;Barbara Bredero;56.0
+Mali;2018;90;Croatia;Antonio Nuic;64.0
+Si saben cÃ³mo me pongo Â¿pa' quÃ© me invitan?;2018;90;Colombia;Fernando AyllÃ³n;48.0
+The Sonata;2018;90;France, UK, Russia, Latvia;Andrew Desmond;51.0
+Rondo;2018;90;USA;Drew Barnhardt;41.0
+In the Cloud;2018;90;USA;Robert Scott Wildes;38.0
+Xiong chu mei zhi bian xing ji;2018;90;China;Leon Ding, Huida Lin;55.0
+Wildwitch - Il mondo selvatico;2018;90;Denmark, Norway, Hungary, Czech Republic;Kaspar Munk;48.0
+L'agenzia dei bugiardi;2019;90;Italy;Volfango De Biasi;56.0
+Jusqu'ici tout va bien;2019;90;France, Belgium;Mohamed Hamidi;58.0
+Il dottore vi ucciderÃ  subito;2019;90;USA;Rob Pallatina;40.0
+Project Gio;2019;90;Netherlands;Bas van Teylingen;19.0
+The Bad Guys;2018;90;USA;Carlos Rincones;62.0
+The Barn;2018;90;USA, France;Matt Beurois;35.0
+Symphony No. 9;2019;90;Iran;Mohamad Reza Honarmand;54.0
+Witches in the Woods;2019;90;Canada;Jordan Barker;41.0
+Postcards from London;2018;90;UK;Steve McLean;51.0
+HÃ©ctor el Father: ConocerÃ¡s la Verdad;2018;90;Puerto Rico;Joel ColÃ³n;55.0
+La vita segreta di mio marito;2018;90;USA;Tamar Halpern;49.0
+Supervized;2019;90;Ireland, UK;Steve Barron;49.0
+Homo Novus;2018;90;Latvia;Anna Viduleja;73.0
+Blezi;2018;90;Latvia;Andrejs Ekis;43.0
+Inner Ghosts;2018;90;Portugal, Brazil;Paulo Leite;38.0
+Head Count;2018;90;USA;Elle Callahan;54.0
+Invisible Sue;2018;90;Germany, Luxembourg;Markus Dietrich;43.0
+Fragmentary;2019;90;Australia, United Arab Emirates, UK;Jace Pickard;43.0
+The Basement;2018;90;USA;Brian M. Conley, Nathan Ives;44.0
+Good Boys - Quei cattivi ragazzi;2019;90;USA;Gene Stupnitsky;67.0
+Harmony;2018;90;Australia;Corey Pearson;54.0
+The Gateway;2018;90;Australia;John V. Soto;54.0
+Future World;2018;90;USA;James Franco, Bruce Thierry Cheung;32.0
+Chasing Bullitt;2018;90;USA;Joe Eddy;47.0
+Permettimi di amarti;2018;90;USA;Shane Stanley;56.0
+The Legend of Halloween Jack;2018;90;UK;Andrew Jones;34.0
+Killer di matrimoni;2019;90;USA;Bernard Salzmann;28.0
+Il ritorno dell'eroe;2018;90;France, Belgium;Laurent Tirard;65.0
+Doppio ricatto, doppio inganno;2018;90;USA;Nadeem Soumah;54.0
+Lez Bomb;2018;90;USA;Jenna Laurenzo;50.0
+Following Phil;2018;90;USA;Samuel Omole;65.0
+Spider-Man 2: Another World;2018;90;UK;Joey Lever;74.0
+The Dwarves of Demrel;2018;90;USA;Chris Raney;35.0
+Our House;2018;90;Canada, Germany, USA;Anthony Scott Burns;53.0
+Arrivederci professore;2018;90;USA;Wayne Roberts;67.0
+Pats Sau Milijonierius;2019;90;Lithuania;Tadas Vidmantas;64.0
+The Aspern Papers;2018;90;UK, Germany;Julien Landais;46.0
+Metal Heart;2018;90;Ireland;Hugh O'Conor;59.0
+Malicious;2018;90;USA;Michael Winnick;50.0
+Vierges;2018;90;France, Israel, Belgium;Keren Ben Rafael;61.0
+Blue;2018;90;USA;Gabriela Ledesma;63.0
+Zuo jia de huang yan: Bi zhong you zui;2019;90;Hong Kong;Christopher Sun;57.0
+Monster;2018;90;UK;Matt Shaw;71.0
+Where We Go from Here;2019;90;USA;Anthony Meindl;47.0
+La morte in un sorso;2018;90;USA;Joe Menendez;48.0
+Manou the Swift;2019;90;Germany;Andrea Block, Christian Haas;54.0
+Grace - Ispirazione cercasi;2018;90;USA;Devin Adair;58.0
+House of Demons;2018;90;USA;Patrick Meaney;33.0
+Extracurricular;2018;90;Canada;Ray Xue;54.0
+The Baylock Residence;2019;90;UK;Anthony M. Winson;37.0
+Per amore di Megan;2018;90;USA;Danny J. Boyle;50.0
+Mamma a tutti i costi;2018;90;USA;Isak Borg, Dena Hysell-Cornejo;46.0
+Elcano y Magallanes. La primera vuelta al mundo;2019;90;Spain;Ãngel Alonso;41.0
+Epidemiya. Vongozero;2019;90;Russia;Pavel Kostomarov;63.0
+Once in Trubchevsk;2019;90;Russia;Larisa Sadilova;57.0
+Animal Among Us;2019;90;USA;John Woodruff;32.0
+Exit 14;2018;90;USA;Joe Salcedo;37.0
+Jurassic Predator;2018;90;UK;Andrew Jones;33.0
+Sunset Society;2018;90;USA;Phoebe Dollar, Rolfe Kanefsky;27.0
+Se son rose;2018;90;Italy;Leonardo Pieraccioni;53.0
+Christmas Camp;2018;90;USA;Jeff Fisher;59.0
+Viaje al cuarto de una madre;2018;90;Spain;Celia Rico Clavellino;67.0
+Fear, Love, and Agoraphobia;2018;90;USA;Alex D'Lerma;57.0
+Io, Leonardo;2019;90;Italy;Jesus Garces Lambert;54.0
+Il vegetale;2018;90;Italy;Gennaro Nunziante;49.0
+Limbo;2019;90;USA;Mark Young;49.0
+Toy Gun;2018;90;Germany, Belgium, Luxembourg;Marco Serafini;53.0
+StarDog and TurboCat;2019;90;UK;Ben Smith;70.0
+The Breaker Upperers;2018;90;New Zealand;Madeleine Sami, Jackie van Beek;59.0
+Talq Senai;2018;90;Egypt;Khaled Diab;65.0
+Klassikokkutulek 2: Pulmad ja matused;2018;90;Estonia;RenÃ© Vilbre;54.0
+A Horse from Heaven;2018;90;USA;David de Vos;55.0
+Paradize 89;2018;90;Latvia;Madara Dislere;67.0
+Shanda's River;2018;90;Italy;Marco Rosson;48.0
+Endzeit;2018;90;Germany;Carolina HellsgÃ¥rd;51.0
+Sol Alegria;2018;90;Brazil;Tavinho Teixeira;56.0
+Birthmarked;2018;90;Canada;Emanuel Hoss-Desmarais;57.0
+Comme des garÃ§ons;2018;90;France;Julien Hallard;60.0
+Investigation 13;2019;90;USA;Krisstian de Lara;40.0
+Obsession;2019;90;USA;Goran Dukic;49.0
+Alterscape;2018;90;USA;Serge Levin;54.0
+A Taste of Phobia;2018;90;UK;Domiziano Cristopharo, Jason Impey;32.0
+Dirty Dealing 3D;2018;90;USA;Christopher Robin Hood;38.0
+Chiamate un dottore!;2019;90;France;Tristan SÃ©guÃ©la;65.0
+Zlogonje;2018;90;Serbia, Republic of North Macedonia;Rasko Miljkovic;67.0
+Svinhery;2018;90;Ukraine, Latvia;Andrejs Ekis;54.0
+La monnaie de leur piÃ¨ce;2018;90;France;Anne Le Ny;41.0
+Beneath the Leaves;2019;90;USA;Adam Marino;45.0
+Emma Peeters;2018;90;Canada, Belgium;Nicole Palo;63.0
+Am I a Serial Killer?;2019;90;USA;Penelope Buitenhuis;50.0
+Lola vers la mer;2019;90;Belgium, France;Laurent Micheli;65.0
+Ravers;2018;90;UK;Bernhard Pucher;46.0
+The Last Porno Show;2019;90;Canada;Kire Paputts;64.0
+Lynn + Lucy;2019;90;UK;Fyzal Boulifa;67.0
+Between Worlds;2018;90;Spain;Maria Pulera;42.0
+Social Animals;2018;90;USA;Theresa Bennett;52.0
+Zayana;2019;90;Oman, India;Khalid Abdulrahim Al-Zadjali;70.0
+La Banda;2019;90;Spain;Roberto Bueso;57.0
+La signora di Purity Falls;2019;90;USA;Sam Irvin;47.0
+Marcianos Contra Mexicanos;2018;90;Mexico;Gabriel Riva Palacio Alatriste, Rodolfo Riva Palacio Alatriste;35.0
+La tribÃ¹;2018;90;Spain;Fernando Colomo;58.0
+My Soul to Keep;2019;90;USA;Ajmal Zaheer Ahmad;50.0
+The Bra;2018;90;Germany, Azerbaijan;Veit Helmer;67.0
+Danur 3: Sunyaruri;2019;90;Indonesia;Awi Suryadi;47.0
+Ascharyachakit!;2018;90;India;Samit Kakkad;49.0
+Treasure Hunter: Legend of the White Witch;2018;90;USA;Ken Barbet;27.0
+Professor Shanku O El Dorado;2019;90;India;Sandip Ray;52.0
+Jonaki;2018;90;India, France, Singapore;Aditya Vikram Sengupta;70.0
+Cyber Bride;2019;90;UK;Louisa Warren;23.0
+L'ultima ora;2019;90;USA;James Helsing;36.0
+Driven;2019;90;USA;Glenn Payne;63.0
+Tuttapposto;2019;90;Italy;Gianni Costantino;63.0
+Inside the Rain;2019;90;USA;Aaron Fisher;45.0
+The Short History of the Long Road;2019;90;USA;Ani Simon-Kennedy;64.0
+Two for Joy;2018;90;UK;Tom Beard;60.0
+Dead Fred;2019;90;UK;Deanna Dewey;39.0
+Fulci for fake;2019;90;UK, Italy;Simone Scafidi;63.0
+The Wedding Year;2019;90;USA;Robert Luketic;55.0
+Surviving Confession;2019;90;USA;Matthew Tibbenham;54.0
+Schoolhouse;2018;90;USA;Steven Perez;28.0
+Hole - L'abisso;2019;90;Ireland, UK, Belgium, Finland;Lee Cronin;57.0
+Tolko ne oni;2018;90;Russia;Aleksandr Boykov;19.0
+Nabat;2019;90;Iran;Pegah Arzi;52.0
+Segfault;2018;90;USA;Robert Paschall Jr.;63.0
+Morte tra i banchi;2018;90;USA;Danny J. Boyle;40.0
+Chhappad Phaad Ke;2019;90;India;Sameer Joshi;63.0
+Small Town Hero;2019;90;UK;Darren Bolton;40.0
+Achoura;2018;90;Morocco, France;Talal Selhami;53.0
+Clementine;2019;90;USA;Lara Gallagher;51.0
+The Silence;2019;90;Canada, Germany;John R. Leonetti;53.0
+First Light;2018;90;Canada;Jason Stone;55.0
+De Collega's 2.0;2018;90;Belgium;Jan Verheyen;45.0
+The Trap;2019;90;USA;Erik White;43.0
+Mistero al castello Blackwood;2018;90;USA;Stacie Passon;56.0
+LajkÃ³ - CigÃ¡ny az Ã¼rben;2018;90;Hungary;BalÃ¡zs Lengyel;58.0
+Pazzie d'amore;2018;90;USA;Lisa France;45.0
+Warning Shot;2018;90;USA;Dustin Fairbanks;49.0
+Inherit the Viper;2019;90;USA;Anthony Jerjen;51.0
+Uma Quase Dupla;2018;90;Brazil;Marcus Baldini;52.0
+Wanderland;2018;90;USA;Josh Klausner;54.0
+The Secret of Happiness;2018;90;Romania;Vlad Zamfirescu;76.0
+Puppet Master: The Littlest Reich;2018;90;UK, USA;Sonny Laguna, Tommy Wiklund;54.0
+Aleksi;2018;90;Croatia, Serbia, Serbia and Montenegro;Barbara Vekaric;67.0
+The Martyr Maker;2018;90;USA;Kamal Ahmed;40.0
+Morto tra una settimana... O ti ridiamo i soldi;2018;90;UK;Tom Edmunds;62.0
+The Wave;2019;90;USA;Gille Klabin;60.0
+The Long Dumb Road;2018;90;USA;Hannah Fidell;61.0
+West of Hell;2018;90;USA;Michael Steves;46.0
+The Ghost Beyond;2018;90;USA;R. Michael Givens;31.0
+Seeds;2018;90;USA;Owen Long;36.0
+Blood Brother;2018;90;USA;John Pogue;44.0
+Echoes of Fear;2018;90;USA;Brian Avenet-Bradley, Laurence Avenet-Bradley;52.0
+SOLO!;2018;90;UK;Nic Cornwall;63.0
+In Full Bloom - I fiori della rabbia;2019;90;Japan, USA;Reza Ghassemi, Adam VillaSenor;68.0
+Hutsulka Ksenya;2019;90;Ukraine;Alena Demyanenko;72.0
+Breaking Barbi;2019;90;USA;Edward G. Negron;51.0
+Rusalka: Ozero myortvykh;2018;90;Russia;Svyatoslav Podgaevskiy, Christopher Bevins;44.0
+Deux fils;2018;90;France, Belgium;FÃ©lix Moati;58.0
+Kapsalon Romy;2019;90;Netherlands, Germany;Mischa Kamp;72.0
+Piccoli Brividi 2 - I fantasmi di Halloween;2018;90;USA, UK;Ari Sandel;56.0
+Holmes & Watson - 2 de menti al servizio della regina;2018;90;USA, Canada;Etan Cohen;38.0
+Woodstock or Bust;2018;90;USA;Leslie Bloom;41.0
+Nobody Famous;2018;90;Canada;Sarah Rotella;46.0
+Siblings of the Cape;2018;90;Japan;Shinzo Katayama;70.0
+FOMO: Fear of Missing Out;2019;90;Hungary;Attila Hartung;70.0
+Vaioretto evÃ¢gÃ¢den gaiden: Eien to jidou shuki ningyou;2019;90;Japan;Haruka Fujita, Taichi Ishidate;74.0
+Storozh;2019;90;Russia;Yuriy Bykov;64.0
+Devushki byvayut raznye;2019;90;Russia;Sarik Andreasyan;23.0
+Gamak Ghar;2019;91;India;Achal Mishra;81.0
+Thousand Yard Stare;2018;91;Canada;Aaron Kurmey;38.0
+Volition;2019;91;Canada;Tony Dean Smith;56.0
+Summer Survivors;2018;91;Lithuania;Marija Kavtaradze;77.0
+Alone We Fight;2018;91;USA;Justin Lee;29.0
+Solo;2018;91;Spain;Hugo Stuven;49.0
+Mermaid Down;2019;91;USA, UK;Jeffrey Grellman;59.0
+We Summon the Darkness;2019;91;UK, USA, Canada;Marc Meyers;51.0
+Death Whisper;2019;91;Indonesia, South Korea;Awi Suryadi;64.0
+Darkoob;2018;91;Iran;Behrouz Shoaybi;57.0
+Space Ninjas;2019;91;UK;Scott McQuaid;37.0
+Mouthpiece;2018;91;Canada;Patricia Rozema;62.0
+Norm of the North: Keys to the Kingdom;2018;91;India, USA;Tim Maltby, Richard Finn;30.0
+Dziura w glowie;2018;91;Poland;Piotr Subbotko;65.0
+Il sole a mezzanotte - Midnight Sun;2018;91;USA;Scott Speer;66.0
+Galveston;2018;91;USA;MÃ©lanie Laurent;62.0
+Permanent Green Light;2018;91;France;Dennis Cooper, Zac Farley;55.0
+Sometimes Always Never;2018;91;UK;Carl Hunter;62.0
+Standing Up, Falling Down;2019;91;USA;Matt Ratner;64.0
+Use Me;2019;91;USA;Julian Shaw;41.0
+Matriarch;2018;91;UK;Scott Vickers;54.0
+La diseducazione di Cameron Post;2018;91;USA, UK;Desiree Akhavan;66.0
+Der Vorname;2018;91;Germany;SÃ¶nke Wortmann;71.0
+Round of Your Life;2019;91;USA;Dylan Thomas Ellis;43.0
+Schemers;2019;91;UK;Dave Mclean;58.0
+La casa delle bambole - Ghostland;2018;91;France, Canada, China;Pascal Laugier;64.0
+Los JapÃ³n;2019;91;Spain;Ãlvaro DÃ­az Lorenzo;36.0
+El SilbÃ³n: OrÃ­genes;2018;91;Mexico, Venezuela;Gisberg Bermudez;44.0
+First We Take Brooklyn;2018;91;USA;Danny A. Abeckaser;38.0
+Bioscopewala;2018;91;India;Deb Medhekar;77.0
+Buttiamo giÃ¹ l'uomo;2019;91;USA;Bridget Savage Cole, Danielle Krudy;64.0
+All Creatures Here Below;2018;91;USA;Collin Schiffli;56.0
+The Mercenary;2019;91;USA;Jesse V. Johnson;54.0
+O Filme do Bruno Aleixo;2019;91;Portugal;JoÃ£o Moreira, Pedro Santo;72.0
+Realna prica;2019;91;Serbia;Gordan Kicic;72.0
+Good Posture;2019;91;USA;Dolly Wells;54.0
+Big Time Adolescence;2019;91;USA;Jason Orley;70.0
+The Final Blade;2018;91;China;Willie Ying;66.0
+FinchÃ© matrimonio non ci separi;2018;91;Mexico;Santiago LimÃ³n;49.0
+Boo!;2018;91;USA;Luke Jaden;36.0
+Jimmie;2018;91;Sweden, Austria, Croatia;Jesper Ganslandt;60.0
+Chained for Life;2018;91;USA;Aaron Schimberg;66.0
+The Fight;2018;91;UK;Jessica Hynes;55.0
+Peng e i due anatroccoli;2018;91;China, USA, UK, Thailand, India;Christopher Jenkins;57.0
+Burning Kentucky;2019;91;USA;Bethany Brooke Anderson;44.0
+Todas as RazÃµes para Esquecer;2018;91;Brazil;Pedro Coutinho;63.0
+Relaxer;2018;91;USA;Joel Potrykus;59.0
+Quando gli angeli dormono;2018;91;Spain;Gonzalo Bendala;54.0
+Hume Tumse Pyaar Kitna;2019;91;India;Lalit Mohan;48.0
+The Party's Just Beginning;2018;91;UK;Karen Gillan;61.0
+The Final Scream;2019;91;UK;Scott Jeffrey;57.0
+Holly Star;2018;91;USA;Michael A. Nickles;51.0
+Black Site;2018;91;UK;Tom Paton;43.0
+El mejor verano de mi vida;2018;91;Spain;Dani de la Orden;58.0
+Mollywood;2019;91;USA;Morocco Vaughn;25.0
+Get Gone;2019;91;USA;Michael Thomas Daniel;27.0
+Elephants;2018;91;USA;Alex Hanno;59.0
+Gojira: hoshi wo kÃ» mono;2018;91;Japan;Hiroyuki Seshita, KÃ´bun Shizuno;50.0
+Benjamin BlÃ¼mchen;2019;91;Germany;Tim Trachte;36.0
+The Mercy of the Jungle;2018;91;Belgium, France, Rwanda;JoÃ«l Karekezi;62.0
+You Can't Say No;2018;91;USA;Paul Kramer;39.0
+Viking Destiny;2018;91;UK, Belgium;David L.G. Hughes;42.0
+Mug - Un'altra vita;2018;91;Poland;Malgorzata Szumowska;64.0
+Pupazzi senza gloria;2018;91;USA, China;Brian Henson;54.0
+Christ(Off);2018;91;France, Belgium;Pierre Dudan;41.0
+Spivak;2018;91;USA;Anthony Abrams, Adam Larson Broder;55.0
+Red Handed;2019;91;USA;Frank Peluso;33.0
+Gli acchiappamostri;2018;91;USA;Jason Murphy;54.0
+To Your Last Death;2019;91;USA;Jason Axinn;73.0
+Amin;2018;91;France;Philippe Faucon;62.0
+Black Wake;2018;91;USA;Jeremiah Kipp;21.0
+Nightshot;2018;91;France;Hugo KÃ¶nig;55.0
+Kill Chain;2019;91;USA;Ken Sanzel;50.0
+A Vigilante;2018;91;USA;Sarah Daggar-Nickson;57.0
+Message Man;2018;91;Indonesia, Australia, UK, United Arab Emirates;Corey Pearson;60.0
+Nicky Larson et le parfum de Cupidon;2018;91;France;Philippe Lacheau;65.0
+Butterfly Kisses;2018;91;USA;Erik Kristopher Myers;58.0
+Denmark;2019;91;UK;Adrian Shergold;60.0
+Gates of Darkness;2019;91;USA, France, Nepal;Don E. FauntLeRoy;42.0
+Qui e ora;2018;91;USA;Fabien Constant;44.0
+Edge of Fear;2018;91;USA;Bobby Roth;44.0
+Await Further Instructions;2018;91;UK;Johnny Kevorkian;48.0
+Lilli;2018;91;India;Prasobh Vijayan;58.0
+Take Me Somewhere Nice;2019;91;Netherlands, Bosnia and Herzegovina;Ena Sendijarevic;64.0
+The BBQ;2018;91;Australia;Stephen Amis;49.0
+Zahr-e Mar;2019;91;Iran;Javad Razavian;41.0
+L'immensitÃ  della notte;2019;91;USA;Andrew Patterson;67.0
+Deok-gu;2018;91;South Korea;Soo-in Bang;67.0
+Don't Go;2018;91;Ireland;David Gleeson;52.0
+Guadalupe Reyes;2019;91;Mexico;Salvador Espinosa;59.0
+Alive;2019;91;Canada;Rob Grant;53.0
+C'era una volta Steve McQueen;2019;91;USA;Mark Steven Johnson;62.0
+Friday's Child;2018;91;USA;A.J. Edwards;60.0
+Behind the Walls;2018;91;USA;James Kondelik, Jon Kondelik;30.0
+Mrs Lowry & Son;2019;91;UK;Adrian Noble;67.0
+Wo de qing chun dou shi ni;2019;91;China;Mengying Dai, Tong Zhou;63.0
+One Last Thing;2018;91;USA;Tim Rouhana;62.0
+Dead Don't Die in Dallas;2019;91;USA;Israel Luna;44.0
+Minutes to Midnight;2018;91;USA;Christopher Ray;34.0
+As Zvaigzde;2018;91;Lithuania;Robertas Kuliunas;32.0
+Torna a casa, Jimi! - 10 cose da non fare quanto perdi il tuo cane a Cipro;2018;92;Cyprus;Marios Piperides;66.0
+Marnies Welt;2018;92;Germany, Belgium;Christoph Lauenstein, Wolfgang Lauenstein;56.0
+El mundo es suyo;2018;92;Spain;Alfonso SÃ¡nchez;49.0
+One Man Dies a Million Times;2019;92;USA;Jessica Oreck;63.0
+Vitoria, 3 de marzo;2018;92;Spain;Victor Cabaco;66.0
+Better Start Running;2018;92;USA;Brett Simon;52.0
+En affÃ¦re;2018;92;Norway;Henrik Martin Dahlsbakken;56.0
+De Matchmaker;2018;92;Netherlands, Belgium;Jeroen Houben;60.0
+HÃ©raÃ°iÃ°;2019;92;Iceland, Denmark, Germany, France;GrÃ­mur HÃ¡konarson;66.0
+Zizotek;2019;92;Greece;Vardis Marinakis;62.0
+AllÃ¡ en el Rancho;2018;92;Mexico;Rafael Montero;40.0
+Wildling;2018;92;USA;Fritz BÃ¶hm;55.0
+Los amores cobardes;2018;92;Spain;Carmen Blanco;60.0
+Office Uprising;2018;92;USA;Lin Oeding;60.0
+Please Come with Me;2019;92;USA;Michael Ciulla;46.0
+Minuscule - Les mandibules du bout du monde;2018;92;France, Guadeloupe, China;HÃ©lÃ¨ne Giraud, Thomas Szabo;68.0
+Stretch Marks;2018;92;USA;Gregory Rocco;57.0
+Deadman Standing;2018;92;USA;Nicholas Barton;49.0
+Eleven Eleven;2018;92;USA;Chris Redish;36.0
+Scarpette rosse e i 7 nani;2019;92;South Korea;Sung-ho Hong, Moo-Hyun Jang;63.0
+Deadtectives;2018;92;USA;Tony West;62.0
+Rendez-vous chez les Malawas;2019;92;France, Belgium;James Huth;39.0
+The Manor;2018;92;USA;Jonathon Schermerhorn;30.0
+A Kid Like Jake;2018;92;USA;Silas Howard;54.0
+Unfriended: Dark Web;2018;92;USA, Russia;Stephen Susco;59.0
+Reach;2018;92;USA;Leif Rokesh;56.0
+Shadows in Mind;2019;92;USA;Mark Schwab;53.0
+Taxi a Gibraltar;2019;92;Spain, Argentina;Alejo Flah;45.0
+Hollow Body;2018;92;USA;Alex Keledjian;37.0
+Love for Sale 2;2019;92;Indonesia;Andibachtiar Yusuf;69.0
+L'incredibile viaggio del fachiro;2018;92;France, India, Belgium, Singapore, USA;Ken Scott;69.0
+The Second Coming of Christ;2018;92;USA;Daniel Anghelcev;45.0
+BROS. Last Call;2018;92;USA;Don Tjernagel;84.0
+The Harvesting;2019;92;USA;Ivan Kraljevic;37.0
+Automation;2019;92;USA;Garo Setian;45.0
+Unintended;2018;92;USA;Anja Murmann;53.0
+Julemandens datter;2018;92;Denmark;Christian DyekjÃ¦r;57.0
+Nuclear;2019;92;UK;Catherine Linstrum;50.0
+Strategy and Pursuit;2018;92;USA;Matt Riddlehoover;72.0
+In a Relationship;2018;92;Mexico, USA;Sam Boyd;55.0
+Twelve;2019;92;USA;Steve Grimaldi;61.0
+Rapina a Stoccolma;2018;92;Canada, USA;Robert Budreau;61.0
+Ni liu da shu;2018;92;Hong Kong;Sunny Chan;68.0
+Ga woo man si ging;2019;92;Hong Kong;Herman Yau;60.0
+All Inclusive;2019;92;France, Belgium;Fabien Onteniente;31.0
+Someone Great;2019;92;USA;Jennifer Kaytin Robinson;62.0
+Patuljci sa naslovnih strana;2018;92;Serbia;Milorad Milinkovic;46.0
+Noura RÃªve;2019;92;Tunisia, Belgium, France, Qatar, Netherlands;Hinde Boujemaa;65.0
+Black Christmas;2019;92;USA, New Zealand;Sophia Takal;32.0
+Cat in the Wall;2019;92;Bulgaria, UK, France;Vesela Kazakova, Mina Mileva;55.0
+Let It Snow - Innamorarsi sotto la neve;2019;92;USA;Luke Snellin;58.0
+A Boy Called Sailboat;2018;92;USA, Australia;Cameron Nugent;67.0
+Dolci scelte;2018;92;USA;Ben Shelton;58.0
+Runnin' from My Roots;2018;92;USA;Nancy Criss;49.0
+We Die Young;2019;92;Bulgaria, USA;Lior Geller;53.0
+Hemelrijken;2019;92;Netherlands;Stanley Kolk;63.0
+Arctic - Un'avventura glaciale;2019;92;India, UK, China, Canada, Japan, South Korea, USA;Aaron Woodley;46.0
+Thunder Road;2018;92;USA;Jim Cummings;71.0
+American Dreamer;2018;92;USA;Derrick Borte;61.0
+El Hijo;2019;92;Argentina;SebastiÃ¡n Schindel;54.0
+En komikers uppvÃ¤xt;2019;92;Sweden;Rojda SekersÃ¶z;66.0
+Rosy;2018;92;USA;Jess Bond;47.0
+Wake Up - Il risveglio;2019;92;USA;Aleksandr Chernyaev;50.0
+Todas as CanÃ§Ãµes de Amor;2018;92;Brazil;Joana Mariani;69.0
+Interlaced;2018;92;USA;James Cardoza;32.0
+Kat and the Band;2019;92;UK;E.E. Hegarty;57.0
+Haunt;2019;92;USA;Scott Beck, Bryan Woods;63.0
+Ghost in the Graveyard;2019;92;USA;Charlie Comparetto;49.0
+Catacombe;2018;92;Belgium, Netherlands;Victor D. Ponten;55.0
+Trolled;2018;92;USA;Alex Sebastian;18.0
+Cops;2018;92;Austria;Stefan A. Lukacs;63.0
+Ordinary Love;2019;92;UK;Lisa Barros D'Sa, Glenn Leyburn;66.0
+Marla;2018;92;USA;Lisa van Dam-Bates;33.0
+Eerie Fairy Tales;2019;92;Estonia;Mart Sander;69.0
+The Samuel Project;2018;92;USA;Marc Fusco;73.0
+L'extraordinaire voyage de Marona;2019;92;France, Romania, Belgium;Anca Damian;76.0
+O PoÃ§o;2019;92;Brazil;AndrÃ© Borelli;68.0
+Unheimlich perfekte Freunde;2019;92;Germany;Marcus H. RosenmÃ¼ller;64.0
+What Still Remains;2018;92;USA;Josh Mendoza;47.0
+Incredible Violence;2018;92;Canada;G. Patrick Condon;43.0
+El viaje extraordinario de Celeste GarcÃ­a;2018;92;Cuba, Germany;Arturo Infante;64.0
+Robin Hood: The Rebellion;2018;92;UK;Nicholas Winter;42.0
+Der LÃ¤ufer;2018;92;Switzerland;Hannes Baumgartner;59.0
+The System;2018;92;USA;Irin Daniels;82.0
+Mountain Rest;2018;92;USA;Alex O Eaton;54.0
+The House of Us;2019;92;South Korea;Ga-eun Yoon;73.0
+Persona non grata;2019;92;France;Roschdy Zem;50.0
+A Sombra do Pai;2018;92;Brazil;Gabriela Amaral;63.0
+The Viper's Hex;2018;92;Japan;Addison Heath, Jasmine Jakupi;74.0
+Clara's Ghost;2018;92;USA;Bridey Elliott;43.0
+The Tokoloshe;2018;92;South Africa;Jerome Pikwane;43.0
+Danur 2: Maddah;2018;92;Indonesia;Awi Suryadi;57.0
+L'avvertimento;2018;92;Spain;Daniel Calparsoro;59.0
+JagtsÃ¦son;2019;92;Denmark;Tilde Harkamp;52.0
+Couples' Night;2018;92;USA;Mark Harris;72.0
+Escape and Evasion;2019;92;Australia, United Arab Emirates;Storm Ashwood;44.0
+Blood Fest;2018;92;USA;Owen Egerton;53.0
+Natale, folle Natale;2019;92;USA;Leslie Small;48.0
+Doshman-e zan;2018;92;Iran;Karim Amini;40.0
+The Hurt;2018;92;USA;Kevin Van Stevenson;31.0
+Howlers;2019;92;USA;Josh Ridgway;48.0
+Already Gone;2019;92;USA;Christopher Kenneally;40.0
+Horrible Histories: The Movie - Rotten Romans;2019;92;UK;Dominic Brigstocke;52.0
+Tomorrow;2018;92;UK;Martha Pinson;80.0
+Headgame;2018;92;USA;Steven Judd;39.0
+Jinn;2018;92;USA;Nijla Mumin;55.0
+Dreamland;2019;92;Canada, Luxembourg, Belgium;Bruce McDonald;47.0
+My Prince Edward;2019;92;Hong Kong;Norris Wong;69.0
+Solis;2018;92;UK;Carl Strathie;47.0
+Vengeance;2018;92;UK;Ross Boyask;44.0
+Backtrace;2018;92;USA;Brian A. Miller;37.0
+Suk Suk;2019;92;Hong Kong;Ray Yeung;71.0
+The Prodigy - Il figlio del male;2019;92;USA, Canada;Nicholas McCarthy;58.0
+The Field;2019;92;USA;Tate Bunker;42.0
+Un giorno di pioggia a New York;2019;92;USA;Woody Allen;66.0
+Stillwater;2018;92;USA;Nino Aldi;51.0
+Un cavaliere per Natale;2019;92;USA;Monika Mitchell;55.0
+Il primo anno;2018;92;France;Thomas Lilti;67.0
+Family Blood;2018;92;USA;Sonny Mallhi;42.0
+Quanto basta;2018;92;Brazil, Italy;Francesco Falaschi;65.0
+Show Dogs - Entriamo in scena;2018;92;UK, USA;Raja Gosnell;37.0
+What are the Odds?;2019;92;India;Megha Ramaswamy;53.0
+The Haunting of Borley Rectory;2019;92;UK;Steven M. Smith;32.0
+Un'improbabile amicizia;2019;93;Canada;Christopher Cantwell;56.0
+Duck Butter;2018;93;USA;Miguel Arteta;53.0
+Cheshm O Goosh Baste;2019;93;Iran;Farzad Motamen;47.0
+Hattrick;2018;93;Iran;Ramtin Lavafipour;58.0
+La notte ha divorato il mondo;2018;93;France;Dominique Rocher;60.0
+U-July 22;2018;93;Norway;Erik Poppe;72.0
+Cetto c'Ã¨ senzadubbiamente;2019;93;Italy;Giulio Manfredonia;51.0
+Litigante;2019;93;Colombia, France;Franco Lolli;65.0
+Bombay Rose;2019;93;India, UK, France, Qatar;Gitanjali Rao;64.0
+Ladyworld;2018;93;USA;Amanda Kramer;35.0
+Los Angeles Overnight;2018;93;USA, Australia;Michael Chrisoulakis;59.0
+Robbery;2018;93;Canada;Corey Stanton;43.0
+Antiquities;2018;93;USA;Daniel Campbell;65.0
+Sarkoob;2019;93;Iran;Reza Goran;48.0
+Welcome to Hell;2018;93;UK;Tony Newton, Sam Mason-Bell;27.0
+Alien Expedition;2018;93;USA;Wallace Brothers;27.0
+Coyote Lake;2019;93;USA;Sara Seligman;52.0
+Mai visto;2019;93;Spain;Marina Seresesky;53.0
+QuÃ© LeÃ³n;2018;93;Dominican Republic;Frank Perozo;62.0
+Higher Power;2018;93;USA;Matthew Charles Santoro;48.0
+Dark Sense;2019;93;UK;Magnus Wake;47.0
+Lo mÃ¡s sencillo es complicarlo todo;2018;93;Mexico;Rene Bueno;38.0
+Asimetrija;2019;93;Serbia, Slovenia, Italy;Masa Neskovic;50.0
+Fall City;2018;93;USA;Nathan D. Lee;54.0
+Stuber - Autista d'assalto;2019;93;USA;Michael Dowse;62.0
+In the Trap - Nella trappola;2019;93;Italy;Alessio Liguori;40.0
+Possession Diaries;2019;93;USA;Juan Frausto;19.0
+Battle Drone;2018;93;USA;Mitch Gould;52.0
+The 16th Episode;2018;93;USA;JÃ©rÃ´me Cohen-Olivar;57.0
+Eighth Grade - Terza media;2018;93;USA;Bo Burnham;74.0
+La chute de Sparte;2018;93;Canada;Tristan Dubois;61.0
+The Way We Weren't;2019;93;USA, Switzerland;Rick Hays;65.0
+The Black String;2018;93;USA;Brian Hanson;54.0
+Uqdat el-Khawagah;2018;93;Egypt;Peter Mimi;49.0
+Madeline's Madeline;2018;93;USA;Josephine Decker;64.0
+Beyond White Space;2018;93;USA, Hungary;Ken Locsmandi;45.0
+Mister Link;2019;93;Canada, USA;Chris Butler;67.0
+The Oath;2018;93;USA;Ike Barinholtz;54.0
+Las niÃ±as bien;2018;93;Mexico;Alejandra MÃ¡rquez Abella;70.0
+El increÃ­ble finde menguante;2019;93;Spain;Jon Mikel Caballero;62.0
+Lupin III: The First;2019;93;Japan;Takashi Yamazaki;70.0
+Gosnell: The Trial of America's Biggest Serial Killer;2018;93;USA;Nick Searcy;67.0
+Tangeye Abu Ghorayb;2018;93;Iran;Bahram Tavakoli;65.0
+The Executioners;2018;93;USA;Giorgio Serafini;38.0
+The Glorious Seven;2019;93;Germany;Harald Franklin;27.0
+The Ninth Passenger;2018;93;Canada;Corey Large;30.0
+Route 80;2018;93;USA;Nick Rapuano;47.0
+Assimilate;2019;93;USA;John Murlowski;53.0
+Slender Man;2018;93;USA;Sylvain White;32.0
+When Jeff Tried to Save the World;2018;93;USA;Kendall Goldberg;57.0
+Giant Little Ones;2018;93;Canada;Keith Behrman;72.0
+Safe Spaces;2019;93;USA;Daniel Schechter;57.0
+The Divorce Party;2019;93;USA;Hughes William Thompson;51.0
+Going for Gold;2018;93;Australia;Clay Glen;47.0
+Swiped;2018;93;USA;Ann Deborah Fishman;35.0
+Love Addict;2018;93;France;Frank Bellocq;50.0
+Cold November;2018;93;Kosovo, Albania, Republic of North Macedonia;Ismet Sijarina;70.0
+Iron Sky - La battaglia continua;2019;93;Finland, Germany, Belgium;Timo Vuorensola;50.0
+Catskill Park;2018;93;USA;Vlad Yudin;37.0
+Resolution Song;2018;93;USA;Antonio James;49.0
+Hidden Light;2018;93;Australia;Aaron Kamp;68.0
+A Son of Man;2019;93;Ecuador;Jamaicanoproblem, Pablo AgÃ¼ero;59.0
+La Llorona - Le lacrime del male;2019;93;USA;Michael Chaves;53.0
+Little Monsters;2019;93;Australia, USA, UK;Abe Forsythe;63.0
+Tales from the Lodge;2019;93;UK;Abigail Blackmore;50.0
+All Square;2018;93;USA;John Hyams;59.0
+Firecrackers;2018;93;Canada;Jasmin Mozaffari;60.0
+Let There Be Light;2019;93;Slovakia, Czech Republic;Marko Skop;67.0
+Dance Baby Dance;2018;93;USA;Stephen Kogon;61.0
+Depth of Pyaar;2019;93;Canada;Mukesh Asopa, Charles Ross;70.0
+HollywoodtÃ¼rke;2019;93;Germany;Murat Ãœnal;58.0
+Brakland;2018;93;Denmark, Iceland;Martin Skovbjerg;59.0
+Blood Vessel;2019;93;Australia;Justin Dix;52.0
+Cui mian cai jue;2019;93;Hong Kong, China;Siu Kwan Lai, Wing Tai Lau;59.0
+Kinky;2018;93;USA;Jean-Claude La Marre;30.0
+Aiuto, ho ristretto mamma e papÃ ;2018;93;Germany;Tim Trageser;49.0
+Los Angeles/Tehran;2018;93;Iran;Tina Pakravan;23.0
+Die defekte Katze;2018;93;Germany;Susan Gordanshekan;65.0
+International Falls;2019;93;USA;Amber McGinnis;54.0
+Target;2018;93;Indonesia;Raditya Dika;40.0
+Support the Girls;2018;93;USA;Andrew Bujalski;64.0
+Old Man & the Gun;2018;93;USA, UK;David Lowery;67.0
+Fig Tree;2018;93;Israel, France, Ethiopia, Germany;Aalam-Warqe Davidian;63.0
+Tijuana Jackson: Purpose Over Prison;2018;93;USA;Romany Malco;57.0
+Run with the Hunted;2019;93;USA;John Swab;75.0
+Daffodils;2019;93;New Zealand;David Stubbs;57.0
+Paradise Beach;2019;93;France;Xavier Durringer;44.0
+Buoyancy;2019;93;Australia;Rodd Rathjen;74.0
+El Motoarrebatador;2018;93;Argentina, Uruguay, France;AgustÃ­n Toscano;68.0
+Happy Times;2019;93;Israel, USA, Italy;Michael Mayer;59.0
+Psi umiru sami;2019;93;Serbia;Nikola Petrovic;50.0
+Videomannen;2018;93;Sweden;Kristian A. SÃ¶derstrÃ¶m;58.0
+Red Devil;2019;93;UK;Savvas D. Michael;60.0
+The Perfect Host: A Southern Gothic Tale;2018;93;USA;Derrick Sims;41.0
+Attenti a quelle due;2019;93;USA;Chris Addison;54.0
+Best F(r)iends: Volume 2;2018;93;USA;Justin MacGregor;51.0
+One Remains;2019;93;USA;Josh Hodgins;29.0
+Holiday;2018;93;Denmark, Netherlands, Sweden;Isabella EklÃ¶f;57.0
+Cronofobia;2018;93;Switzerland;Francesco Rizzi;67.0
+Liang zhi lao hu;2019;93;China;Fei Li;57.0
+Welcome the Stranger;2018;94;USA;Justin Kelly;47.0
+Long Lost;2018;94;USA;Erik Bloomquist;51.0
+By Light of Desert Night;2019;94;USA;David Stuart Snell;54.0
+Jahan, Ba Man Beraghs;2019;94;Iran;Sorush Sehhat;66.0
+The Nightmare Gallery;2019;94;USA;Gene Blalock;38.0
+Une annÃ©e polaire;2018;94;France;Samuel Collardey;65.0
+Sid & Aya: Not a Love Story;2018;94;Philippines;Irene Villamor;69.0
+Dance Night Obsession;2019;94;USA;Harvey Lowry;39.0
+American Bistro;2019;94;USA;Arthur Diennet;64.0
+Loca Por El Trabajo;2018;94;Mexico;Luis Eduardo Reyes;43.0
+Eide Asli;2019;94;Iran;Azita Moguie;53.0
+Cobain;2018;94;Netherlands, Belgium, Germany;Nanouk Leopold;63.0
+Itsy Bitsy;2019;94;USA;Micah Gallo;49.0
+Meet Me in St. Gallen;2018;94;Philippines;Irene Villamor;70.0
+Tutti i ricordi di Claire;2018;94;France;Julie Bertuccelli;60.0
+Half Magic;2018;94;USA;Heather Graham;46.0
+Hotel Gagarin;2018;94;Italy;Simone Spada;57.0
+Corbin Nash;2018;94;UK, USA;Ben Jagger;49.0
+Il pacco;2018;94;USA;Jake Szymanski;55.0
+El despertar de las hormigas;2019;94;Costa Rica, Spain;Antonella Sudasassi, Antonella Sudasassi;66.0
+Il padre dell'anno;2018;94;USA;Tyler Spindel;52.0
+The Open House;2018;94;Canada, USA;Matt Angel, Suzanne Coote;32.0
+Balboa Blvd;2019;94;Australia;Kylie Claude, Rody Claude;66.0
+Virgin Cheerleaders in Chains;2018;94;USA;Paulo Biscaia Filho, Gary McClain Gannaway;38.0
+Quando eravamo fratelli;2018;94;USA;Jeremiah Zagar;69.0
+El proyeccionista;2019;94;Dominican Republic;JosÃ© MarÃ­a Cabral;69.0
+Mi pequeÃ±o gran hombre;2018;94;Mexico;Jorge RamÃ­rez SuÃ¡rez;41.0
+Sonora;2018;94;Mexico;Alejandro Springall;62.0
+Moj jutarnji smeh;2019;94;Serbia;Marko Djordjevic;72.0
+Port Authority;2019;94;USA, France;Danielle Lessovitz;65.0
+Hala;2019;94;USA;Minhal Baig;58.0
+Ibiza;2018;94;USA;Alex Richanbach;52.0
+Swallow;2019;94;USA, France;Carlo Mirabella-Davis;64.0
+Sharon Tate - Tra incubo e realtÃ ;2019;94;USA, Mexico;Daniel Farrands;28.0
+Snu;2019;94;Portugal;PatrÃ­cia Sequeira;66.0
+Il buco;2019;94;Spain;Galder Gaztelu-Urrutia;70.0
+Blood Vow;2018;94;USA;Victoria Sutton;62.0
+Braven - Il coraggioso;2018;94;Canada;Lin Oeding;60.0
+The Bouncer;2018;94;France, Belgium, British Virgin Islands;Julien Leclercq;59.0
+Battalion;2018;94;Australia;Michael Miller;21.0
+Hotel Artemis;2018;94;UK, USA;Drew Pearce;61.0
+Non tutte le sciagure vengono dal cielo;2018;94;Switzerland;Michael Steiner;66.0
+Miss Arizona;2018;94;USA;Autumn McAlpin;53.0
+James vs. His Future Self;2019;94;Canada;Jeremy LaLonde;59.0
+Disco;2019;94;Norway;Jorunn Myklebust Syversen;54.0
+Un PapÃ¡ Pirata;2019;94;Mexico;Humberto Hinojosa Ozcariz;45.0
+Eiga Chuunibyou demo koi ga shitai! Take On Me;2018;94;Japan;Tatsuya Ishihara;73.0
+Just a Gigolo;2019;94;France;Olivier Baroux;54.0
+Blackmark;2018;94;USA;A.J. Martinson;45.0
+Say Yes;2018;94;USA;Stewart Wade;68.0
+Blood Craft;2019;94;USA;James Cullen Bressack;35.0
+Cam;2018;94;USA;Daniel Goldhaber;59.0
+Extra Ordinary;2019;94;Ireland, Belgium, Finland, UK;Mike Ahern, Enda Loughman;64.0
+Dedicada a mi Ex;2019;94;Colombia, Ecuador;Jorge Ulloa;75.0
+MormaÃ§o;2018;94;Brazil;Marina Meliande;64.0
+Cucuy: The Boogeyman;2018;94;USA;Peter Sullivan;46.0
+Red Zone - 22 miglia di fuoco;2018;94;USA, China, Colombia;Peter Berg;61.0
+Equipaggio zero;2019;94;USA;Bert, Bertie;69.0
+Cabaret Maxime;2018;94;Portugal, USA;Bruno de Almeida;61.0
+Bennett's War;2019;94;USA;Alex Ranarivelo;57.0
+Code Name: Dynastud;2018;94;USA;Richard Griffin;34.0
+Re loca;2018;94;Argentina;Martino Zaidelis;61.0
+Loon Lake;2019;94;USA;Ansel Faraj;49.0
+Chen mo de zheng ren;2019;94;China, Hong Kong;Renny Harlin;56.0
+Close;2019;94;UK, USA;Vicky Jewson;57.0
+The Truth About Lies;2018;94;USA;Phil Allocco;52.0
+Las grietas de Jara;2018;94;Argentina, Spain;NicolÃ¡s Gil Lavedra;57.0
+Zagrebacki Ekvinocij;2019;94;Croatia;Svebor Mihael Jelic;81.0
+Long xia jing cha;2018;94;China;Xinyun Li;50.0
+The Second;2018;94;Australia;Mairi Cameron;47.0
+Change in the Air;2018;94;USA;Dianne Dreyer;55.0
+Ore 15:17 - Attacco al treno;2018;94;USA;Clint Eastwood;52.0
+TrÃªs VerÃµes;2019;94;Brazil, France;Sandra Kogut;60.0
+The Song of Sway Lake;2018;94;USA;Ari Gold;60.0
+The Cleansing Hour;2019;94;USA;Damien LeVeck;57.0
+Ti presento Patrick;2018;94;UK;Mandie Fletcher;59.0
+Soul to Keep;2018;94;USA;David Allensworth, Moniere;43.0
+True Fiction;2019;94;Canada;Braden Croft;48.0
+The Maestro;2018;94;USA;Adam Cushman;57.0
+Submission;2019;94;USA;J.M. Berrios;51.0
+Waka okami wa shÃ´gakusei!;2018;94;Japan;KitarÃ´ KÃ´saka;70.0
+Il bene mio;2018;94;Italy;Pippo Mezzapesa;57.0
+Honey Boy;2019;94;USA;Alma Har'el;73.0
+Dafne;2019;94;Italy;Federico Bondi;62.0
+Sestrenka;2019;94;Russia;Aleksandr Galibin;73.0
+Styx;2018;94;Germany, Austria, Netherlands, Malta;Wolfgang Fischer;65.0
+Los Bando;2018;94;Norway, Sweden;Christian Lo;67.0
+River Runs Red;2018;94;USA;Wes Miller;46.0
+Drive Me Home - Portami a casa;2018;94;Italy;Simone Catania;57.0
+Flay;2019;94;USA;Eric Pham;32.0
+Het leven is vurrukkulluk;2018;94;Netherlands;Frans Weisz;53.0
+El Fantasma de mi Novia;2018;94;Dominican Republic;"Francis ""Indio"" Disla Ferreira";62.0
+Emmett;2019;94;USA;Bridget Stokes;48.0
+UP There;2019;94;USA;Michael Blaustein, Daniel Weingarten;49.0
+Among Thieves;2019;95;USA;K.C. Schrimpl;42.0
+Life Like;2019;95;USA;Josh Janowicz;54.0
+Cabaret;2019;95;India;Kaustav Narayan Niyogi;35.0
+Khrustal;2018;95;Belarus, USA, Germany, Russia;Darya Zhuk;70.0
+Brave ragazze;2019;95;Italy;Michela Andreozzi;54.0
+Welcome to Curiosity;2018;95;UK;Ben Pickering;50.0
+Recuperando a mi Ex;2018;95;Mexico;Gabriel GuzmÃ¡n;35.0
+La terra dell'abbastanza;2018;95;Italy;Damiano D'Innocenzo, Fabio D'Innocenzo;62.0
+Cruel Peter;2019;95;Italy;Christian Bisceglia, Ascanio Malgarini;50.0
+In Reality;2018;95;USA;Ann Lupo;51.0
+Go Back to China;2019;95;China, USA;Emily Ting;59.0
+Prishelets;2018;95;Russia;Alexander Kulikov, Mikhail Raskhodnikov;24.0
+Po cem muzi touzÃ­;2018;95;Czech Republic;Rudolf Havlik;62.0
+Podbrosy;2018;95;Russia, Lithuania, Ireland, France;Ivan I. Tverdovskiy;61.0
+Jonathan;2018;95;USA;Bill Oliver;59.0
+Dry Martina;2018;95;Chile, Argentina;Che Sandoval;58.0
+Eaten by Lions;2018;95;UK;Jason Wingard;61.0
+Wounds;2019;95;USA, UK;Babak Anvari;40.0
+Ring of Silence;2019;95;USA;Nicole Bowers Wallace;86.0
+Hekayat-e darya;2018;95;Iran;Bahman Farmanara;46.0
+Eternal Beauty;2019;95;UK;Craig Roberts;63.0
+Recreo;2018;95;Argentina;HernÃ¡n Guerschuny, JazmÃ­n Stuart;57.0
+Solteras;2019;95;Mexico;Luis Javier Henaine;59.0
+Tully;2018;95;USA, Canada;Jason Reitman;70.0
+Abdel et la comtesse;2018;95;France;Isabelle Doval;48.0
+Ride;2018;95;Italy;Valerio Mastandrea;51.0
+Songbird;2018;95;UK;Jamie Adams;42.0
+Nyitva;2018;95;Hungary;Orsi Nagypal;65.0
+Chicuarotes;2019;95;Mexico;Gael GarcÃ­a Bernal;67.0
+Blindspotting;2018;95;USA;Carlos LÃ³pez Estrada;74.0
+The Parting Glass;2018;95;USA;Stephen Moyer;55.0
+Camper Killer;2018;95;USA;Tom Nagel;37.0
+The Tracker;2019;95;Italy, USA;Giorgio Serafini;34.0
+BROS. On The Rocks;2018;95;USA;Don Tjernagel;68.0
+Youtopia;2018;95;Italy;Berardo Carboni;55.0
+Termination;2019;95;USA;Alice Nicolini;26.0
+Burning Men;2019;95;UK;Jeremy Wooding;42.0
+Dorst;2018;95;Netherlands;Saskia Diesing;60.0
+Paradise Hills;2019;95;Spain, USA;Alice Waddington;56.0
+Dublin Oldschool;2018;95;Ireland;Dave Tynan;61.0
+Unhinged;2018;95;USA;Giorgio Serafini;40.0
+Shangri-La: Near Extinction;2018;95;USA;Nick Wauters;30.0
+In Paradox;2019;95;Kuwait;Hamad AlSarraf;53.0
+Exit 0;2019;95;USA;E.B. Hughes;65.0
+Panama Papers;2019;95;USA;Steven Soderbergh;63.0
+Vargur;2018;95;Iceland, Denmark, Sweden;BÃ¶rkur SigÃ¾Ã³rsson;62.0
+Lionheart;2018;95;Nigeria;Genevieve Nnaji;56.0
+The Golem;2018;95;Israel;Doron Paz, Yoav Paz;56.0
+Dino King 3D: Journey to Fire Mountain;2019;95;South Korea, China;Han Sang-Ho;48.0
+Tuntematon mestari;2018;95;Finland;Klaus HÃ¤rÃ¶;74.0
+Curse of the Witch's Doll;2018;95;UK;Lawrence Fowler;32.0
+Sea Fever;2019;95;Ireland, USA, UK, Sweden, Belgium;Neasa Hardiman;57.0
+CÃ³rka trenera;2018;95;Poland;Lukasz Grzegorzek;60.0
+Peter Rabbit;2018;95;USA, Australia, UK;Will Gluck;66.0
+Automata;2019;95;UK;Lawrie Brewster;43.0
+Yung;2018;95;Germany;Henning Gronkowski;57.0
+Heaven's War;2018;95;USA;Danny Carrales;42.0
+Les Tuche 3;2018;95;France;Olivier Baroux;46.0
+Saving Flora;2018;95;USA;Mark Drury Taylor;57.0
+Deep Murder;2019;95;USA;Nick Corirossi;42.0
+Greener Grass;2019;95;USA;Jocelyn DeBoer, Dawn Luebbe;63.0
+Summer '03;2018;95;USA;Becca Gleason;54.0
+The Deeper You Dig;2019;95;USA;John Adams, Toby Poser;51.0
+The Wretched;2019;95;USA;Brett Pierce, Drew T. Pierce;58.0
+The Dustwalker;2019;95;Australia, United Arab Emirates;Sandra Sciberras;38.0
+Pretenders;2018;95;USA;James Franco;51.0
+The Assassin's Code;2018;95;USA, Canada;David A. Armstrong;50.0
+Exterior/Night;2018;95;Egypt, United Arab Emirates;Ahmad Abdalla;69.0
+Benzinho;2018;95;Brazil, Uruguay, Germany;Gustavo Pizzi;72.0
+The Domestics;2018;95;USA;Mike P. Nelson;57.0
+Antes Que Eu Me EsqueÃ§a;2018;95;Brazil;Tiago Arakilian;68.0
+AndiÃ° eÃ°lilega;2018;95;Iceland, Sweden, Belgium;Isold Uggadottir;69.0
+Saving ZoÃ« - Alla ricerca della veritÃ ;2019;95;USA;Jeffrey G. Hunt;53.0
+Drakulics elvtÃ¡rs;2019;95;Hungary;MÃ¡rk BodzsÃ¡r;67.0
+Battle;2018;95;Norway, Denmark, Netherlands, Sweden;Katarina Launing;60.0
+Les affamÃ©s;2018;95;France;LÃ©a FrÃ©deval;41.0
+PrÃ©lude;2019;95;Germany;Sabrina Sarabi;60.0
+Cosa fai a Capodanno?;2018;95;Italy;Filippo Bologna;50.0
+Vielmachglas;2018;95;Germany;Florian Ross;51.0
+Terminal;2018;95;Ireland, UK, Hong Kong, Hungary, USA;Vaughn Stein;54.0
+Solum;2019;95;Portugal;Diogo Morgado;42.0
+Els dies que vindran;2019;95;Spain;Carlos Marques-Marcet;69.0
+After Everything;2018;95;USA;Hannah Marks, Joey Power;63.0
+Sasha Was Here;2018;95;Lithuania;Ernestas Jankauskas;70.0
+La grande noirceur;2018;95;Canada;Maxime Giroux;70.0
+Clown Motel: Spirits Arise;2019;95;USA;Joseph Kelly;52.0
+Diane;2018;95;USA;Kent Jones;67.0
+Beach Bum - Una vita in fumo;2019;95;Switzerland, UK, France, USA;Harmony Korine;55.0
+Dos Veces TÃº;2018;95;Mexico;SalomÃ³n Askenazi;54.0
+Brillantissime;2018;95;France, Belgium;MichÃ¨le Laroque;43.0
+Extinction;2018;95;USA;Ben Young;58.0
+Eat Me;2018;95;USA;Adrian Cruz;46.0
+The Luring;2019;95;USA;Christopher Wells;31.0
+LarguÃ©es;2018;95;France;EloÃ¯se Lang;58.0
+Ouija House;2018;95;USA;Ben Demaree;30.0
+The Infiltrators;2019;95;USA;Cristina Ibarra, Alex Rivera;58.0
+Broken Contract;2018;95;Australia;James Pentecost;38.0
+The Dark;2018;95;Austria;Justin P. Lange;56.0
+Kiss Kiss;2019;95;USA;Dallas King;25.0
+Happy New Year, Colin Burstead;2018;95;UK;Ben Wheatley;64.0
+Adam;2019;95;USA;Rhys Ernst;35.0
+The Other Side;2018;95;USA;Warren Pemberton;41.0
+La mala noche;2019;95;Ecuador, Mexico;Gabriela Calvache;58.0
+My Birthday Song;2018;95;India;Samir Soni;55.0
+Davay razvedyomsya!;2019;95;Russia;Anna Parmas;53.0
+Badnaam Gali;2019;95;India;Ashwin Shetty;70.0
+Uno di famiglia;2018;95;Italy;Alessio Maria Federici;57.0
+Mais vous Ãªtes fous;2019;95;France;Audrey Diwan;65.0
+Fighter;2019;95;Poland;Konrad Maximilian;36.0
+Snapshots;2018;95;USA;Melanie Mayron;66.0
+Dilili a Parigi;2018;95;France, Belgium, Germany;Michel Ocelot;70.0
+Sabea El Boromba;2019;95;Egypt;Mahmoud Karim;57.0
+Si Doel the Movie 2;2019;95;Indonesia;Rano Karno;70.0
+Benyamin Biang Kerok;2018;95;Indonesia;Hanung Bramantyo;29.0
+Frat Pack;2018;95;Canada, USA;Michael Philip;39.0
+Made in Bangladesh;2019;95;France, Bangladesh, Denmark, Portugal;Rubaiyat Hossain;71.0
+The Revenger: An Unromantic Comedy;2019;95;UK;Mark Murphy;56.0
+Exorcism at 60,000 Feet;2019;95;USA;Chad Ferrin;41.0
+Tiempo despuÃ©s;2018;95;Spain, Portugal;JosÃ© Luis Cuerda;58.0
+La fille au bracelet;2019;95;France, Belgium;StÃ©phane Demoustier;68.0
+The 9th Precinct;2019;95;Taiwan;Ding-Lin Wang;55.0
+Beauty & the Beholder;2018;95;USA;Laron Austin;44.0
+Shabab Sheyab;2018;95;United Arab Emirates;Yasir Al-Yasiri;78.0
+Webcast;2018;95;UK, France;Paul McGhie;57.0
+FinchÃ© morte non ci separi;2019;95;USA, Canada;Matt Bettinelli-Olpin, Tyler Gillett;68.0
+Bik Eneich: Un fils;2019;95;Tunisia, France, Lebanon, Qatar;Mehdi Barsaoui;70.0
+La belle et la belle;2018;95;France;Sophie FilliÃ¨res;56.0
+Les goÃ»ts et les couleurs;2018;95;France;Myriam Aziza;53.0
+The Debt Collector;2018;95;UK, USA;Jesse V. Johnson;57.0
+Tanki;2018;95;Russia;Kim Druzhinin;48.0
+Cuddle Weather;2019;95;Philippines;Rod Marmol;62.0
+Palm Swings;2019;95;USA;Sean Hoessli;45.0
+Relentless;2018;95;USA, El Salvador;Lance Tracy;45.0
+Komola Rocket;2018;95;Bangladesh;Noor Imran Mithu;74.0
+Shadow Wolves;2019;95;USA, UK;McKay Daines;37.0
+Makmum;2019;95;Indonesia;Hadrah Daeng Ratu;43.0
+Killers Anonymous;2019;95;UK;Martin Owen;51.0
+Steam Room Stories: The Movie!;2019;95;USA;J.C. Calciano;42.0
+Mossad;2019;95;Israel;Alon Gur Arye;67.0
+City Hunter: Private Eyes;2019;95;Japan;Kenji Kodama;65.0
+Xiao Mei;2018;95;Taiwan;Maren Hwang;63.0
+Gon-ji-am;2018;95;South Korea;Beom-sik Jeong;62.0
+The Brawler;2018;95;USA;Ken Kushner;48.0
+Mudras Calling;2018;95;Myanmar;Christina Kyi;85.0
+Zoo;2018;95;Denmark, Sweden;Antonio Tublen;55.0
+Nova Lituania;2019;96;Lithuania;Karolis Kaupinis;73.0
+Old Boys;2018;96;UK, Sweden;Toby MacDonald;61.0
+Heartlock;2018;96;USA;Jon Kauffman;54.0
+Helena;2018;96;Mexico;Alejandro Sugich;58.0
+Fiore gemello;2018;96;Italy;Laura Luchetti;61.0
+Dark Hall;2018;96;Spain, USA;Rodrigo CortÃ©s;51.0
+Miga Miga Avasaram;2019;96;India;Suresh Kamatchi;72.0
+Un viaggio a quattro zampe;2019;96;China, USA;Charles Martin Smith;67.0
+Enter The Wild;2018;96;USA;Mark Forstmann;37.0
+Landing Up;2018;96;USA;Daniel Tenenbaum;48.0
+Happy Ending;2018;96;Denmark;Hella Joof;58.0
+Hoax;2019;96;USA;Matt Allen;39.0
+Ji wu;2018;96;Hong Kong, Malaysia;Jeffrey Chiang;50.0
+Diamantino - Il calciatore piÃ¹ forte del mondo;2018;96;Portugal, France, Brazil;Gabriel Abrantes, Daniel Schmidt;64.0
+Babes with Blades;2018;96;UK;Cecily Fay;21.0
+Smallfoot: Il mio amico delle nevi;2018;96;USA;Karey Kirkpatrick, Jason Reisig;66.0
+Among the Shadows - Tra le ombre;2019;96;USA;Tiago Mesquita;21.0
+Da yue shi. Wei ai pei yue;2018;96;Hong Kong;Chi-Keung Fung;64.0
+The Isle;2018;96;UK;Matthew Butler-Hart;58.0
+My Hero Academia the Movie - Two Heroes;2018;96;Japan;Kenji Nagasaki;76.0
+Galaxy Lords;2018;96;USA;Von Bilka;29.0
+The Nun: La vocazione del male;2018;96;USA;Corin Hardy;53.0
+The Wedding Guest;2018;96;UK;Michael Winterbottom;57.0
+Die WunderÃ¼bung;2018;96;Austria;Michael Kreihsl;69.0
+Blood Bound;2019;96;USA;Richard LeMay;42.0
+A Certain Kind of Silence;2019;96;Czech Republic, Netherlands, Latvia;Michal Hogenauer;61.0
+Taipei - City of Love;2018;96;USA;Jason Lester;41.0
+Sophie Gold, the Diary of a Gold Digger;2018;96;USA;Carol Botar;57.0
+Garabandal, solo Dios lo sabe;2018;96;Spain;Brian Alexander Jackson;59.0
+Coureur;2018;96;Belgium;Kenneth Mercken;64.0
+El Hubiera SÃ­ Existe;2019;96;Mexico;Luis Eduardo Reyes;58.0
+Delirium;2018;96;USA;Dennis Iliadis;57.0
+Rich Kids;2018;96;USA;Laura Somers;60.0
+Scorched Earth;2018;96;Canada, USA;Peter Howitt;45.0
+L'unica;2018;96;USA;Stephanie Laing;64.0
+The Third Wife;2018;96;Vietnam;Ash Mayfair;67.0
+Ruben Brandt, Collector;2018;96;Hungary;Milorad Krstic;75.0
+El aÃ±o de la plaga;2018;96;Spain, Mexico, Belgium;C. MartÃ­n Ferrera;45.0
+Brotherhood;2019;96;Canada;Richard Bell;48.0
+Zeroville;2019;96;USA;James Franco;45.0
+Klaus: I segreti del Natale;2019;96;Spain, UK;Sergio Pablos, Carlos MartÃ­nez LÃ³pez;82.0
+Sin fin;2018;96;Spain;CÃ©sar Esteban Alenda, JosÃ© Esteban Alenda;69.0
+Monsters and Men;2018;96;USA;Reinaldo Marcus Green;58.0
+End of Sentence;2019;96;Iceland, Ireland;Elfar Adalsteins;72.0
+El PrÃ­ncipe;2019;96;Chile, Argentina, Belgium;SebastiÃ¡n MuÃ±oz;64.0
+La disparition des lucioles;2018;96;Canada;SÃ©bastien Pilote;69.0
+Bent - Polizia criminale;2018;96;Spain, USA;Bobby Moresco;52.0
+Mother Krampus 2: Slay Ride;2018;96;USA;Eddie Lengyel;34.0
+Crucible of the Vampire;2019;96;UK;Iain Ross-McNamee;35.0
+Vita nella Banlieu;2019;96;France;Kery James, LeÃ¯la Sy;64.0
+The Oscar Nominated Short Films 2018: Live Action;2018;96;USA;Max Porter;78.0
+Alpha - Un'amicizia forte come la vita;2018;96;USA, Canada, China;Albert Hughes;67.0
+RemÃ©lem legkÃ¶zelebb sikerÃ¼l meghalnod:);2018;96;Hungary;MihÃ¡ly Schwechtje;72.0
+Susi Susanti: Love All;2019;96;Indonesia;Sim F.;75.0
+To The Beat!;2018;96;USA;Jillian Clare;47.0
+Bomb, yek asheghaneh;2018;96;Iran;Payman Maadi;65.0
+Mosley;2019;96;New Zealand, China;Kirby Atkins;64.0
+Tiempo compartido;2018;96;Mexico;SebastiÃ¡n Hofmann;60.0
+Still;2018;96;USA;Takashi Doscher;52.0
+Lontano da qui;2018;96;USA, Israel, UK, Canada;Sara Colangelo;67.0
+Veneno;2018;96;Dominican Republic;TabarÃ© Blanchard;81.0
+Obey;2018;96;UK;Jamie Jones;54.0
+Io;2019;96;USA;Jonathan Helpert;47.0
+Irina;2018;96;Bulgaria;Nadejda Koseva;65.0
+Khejalat Nakesh;2018;90;Iran;Reza Maghsoodi;54.0
+Red Island;2018;90;Canada;Lux;32.0
+The Cleaning Lady;2018;90;USA;Jon Knautz;54.0
+Lost Fare;2018;90;USA;Bruce Logan;46.0
+Juanita;2019;90;USA;Clark Johnson;59.0
+Flashout;2019;90;USA;Richard Lerner;48.0
+The Perfection;2018;90;USA;Richard Shepard;61.0
+Gully;2019;90;USA;Nabil Elderkin;28.0
+Broken Star;2018;90;USA;Dave Schwep;43.0
+Mi vendicherÃ²;2018;90;USA;Ben Meyerson;44.0
+MamÃ¡ se fue de viaje;2019;90;Mexico;Fernando SariÃ±ana;44.0
+Mi mejor amigo;2018;90;Argentina;MartÃ­n Deus;67.0
+Meri Nimmo;2018;90;India;Rahul Shanklya;71.0
+Johnny Gruesome;2018;90;USA;Gregory Lamberson;38.0
+Parwareshghah;2019;90;Denmark, Luxembourg, France, Germany, Afghanistan;Shahrbanoo Sadat;66.0
+Art of Deception;2019;90;USA;Richard Ryan;35.0
+El Diesel;2018;90;Egypt;Karim El Sobky;46.0
+Allahyar and the Legend of Markhor;2018;90;Pakistan;Uzair Zaheer Khan;75.0
+The Mover;2018;90;Latvia;Davis Simanis Jr.;72.0
+Winter Song;2019;90;USA;Camille Brown;66.0
+Rizu to aoi tori;2018;90;Japan;Naoko Yamada;72.0
+Para Aduma;2018;90;Israel;Tsivia Barkai;63.0
+Seveled;2019;90;Hungary;DÃ©nes Orosz;62.0
+Le jeu;2018;90;France, Belgium;Fred CavayÃ©;68.0
+Wheely;2018;90;Malaysia, Martinique, Maldives, Djibouti, Brunei;Yusry Abd Halim, Carl Mendez;40.0
+Santa Girl;2019;90;USA;Blayne Weaver;51.0
+Binti;2019;90;Belgium;Frederike Migom;65.0
+Point of no Return;2018;90;Ireland, USA;Kevin Glynn;39.0
+Malvagi;2019;90;USA;Dan Berk, Robert Olsen;62.0
+Guardians of the Tomb;2018;90;China, Australia, Russia, Thailand;Kimble Rendall;44.0
+Wastelander;2018;90;USA;Angelo Lopes;26.0
+Bungou Stray Dogs: Dead Apple;2018;90;Japan;Takuya Igarashi;72.0
+Loners;2019;90;USA;Eryc Tramonn;58.0
+Billy;2018;90;Netherlands;Theo Maassen;63.0
+The Prey;2018;90;Cambodia;Jimmy Henderson;54.0
+Tabaluga;2018;90;Germany, Canada;Sven Unterwaldt Jr.;50.0
+Sick for Toys;2018;90;USA;David Del Rio;41.0
+Black Garden;2019;90;Australia;Shaun Wilson;52.0
+Viral Beauty;2018;90;USA, Canada;David Tyson Lam;63.0
+Cinderella and the Secret Prince;2018;90;USA;Lynne Southerland;52.0
+Nighthawks;2019;90;USA;Grant S. Johnson;37.0
+Comment tuer sa mÃ¨re;2018;90;France;David Diane, Morgan Spillemaecker;36.0
+Egg;2018;90;USA;Marianna Palka;50.0
+Skin in the Game;2019;90;USA;Adisa;43.0
+Le milieu de l'horizon;2019;90;Switzerland, Belgium;Delphine Lehericey;68.0
+A Daughter's Plan To Kill;2019;90;USA;Ian Niles;47.0
+CrÃ­a puercos;2018;90;Mexico;EhÃ©catl GarcÃ­a;73.0
+The Storyteller;2018;90;USA;Joe Crump;69.0
+Maria;2019;90;Philippines;Pedring Lopez;50.0
+Closure;2018;90;USA;Alex Goldberg;68.0
+The 20th Century;2019;90;Canada;Matthew Rankin;69.0
+Pumpkins;2018;90;UK;Maria Lee Metheringham;24.0
+Qui m'aime me suive!;2019;90;France;JosÃ© Alcala;51.0
+Jane and Emma;2018;90;USA;Chantelle Squires;62.0
+Robo;2019;90;Russia;Sarik Andreasyan;51.0
+Mr. Malevolent;2018;90;USA;Rusty Cundieff, Darin Scott;42.0
+Ghostbox Cowboy;2018;90;China, USA;John Maringouin;48.0
+The Manson Family Massacre;2019;90;UK, USA;Andrew Jones;32.0
+Alcatraz;2018;90;UK, USA;Andrew Jones;33.0
+The Dawn;2019;90;USA;Brandon Slagle;46.0
+Bit;2019;90;USA;Brad Michael Elmore;38.0
+Poms;2019;90;UK, USA, Canada;Zara Hayes;59.0
+Puoi baciare lo sposo;2018;90;Italy;Alessandro Genovesi;58.0
+A Beauty & The Beast Christmas;2019;90;USA;Dylan Vox;51.0
+La truffa Ã¨ servita;2018;90;USA, UK;James Oakley;41.0
+Fright Fest;2018;90;USA;Ante Novakovic;36.0
+The Flip Side;2018;90;Australia;Marion Pilowsky;48.0
+Tvar;2019;90;Russia;Olga Gorodetskaya;41.0
+Party Hard Die Young;2018;90;Austria;Dominik Hartl;51.0
+TÃ¡tova volha;2018;90;Czech Republic;JirÃ­ Vejdelek;64.0
+L'angelo del male - Brightburn;2019;90;USA;David Yarovesky;61.0
+Countdown;2019;90;USA;Justin Dec;54.0
+Pimped;2018;90;Australia;David Barker;53.0
+A Quiet Place - Un posto tranquillo;2018;90;USA;John Krasinski;75.0
+Cruise;2018;90;USA;Robert Siegel;53.0
+Treacherous;2018;90;USA;Brian Brough;50.0
+Hollywould;2019;90;USA;Joshua Coates;36.0
+Dead Squad: Temple of the Undead;2018;90;USA;Dominik Hauser;33.0
+Christmas on the Range;2019;90;USA;Gary Wheeler;59.0
+Sconnessi;2018;90;Italy;Cristian Marazziti;53.0
+Una Mujer Sin Filtro;2018;90;Mexico, Chile;Luis Eduardo Reyes;48.0
+F20;2018;90;Croatia;Arsen A. Ostojic;53.0
+Taal is zeg maar echt mijn ding;2018;90;Netherlands;Barbara Bredero;56.0
+Mali;2018;90;Croatia;Antonio Nuic;64.0
+Si saben cÃ³mo me pongo Â¿pa' quÃ© me invitan?;2018;90;Colombia;Fernando AyllÃ³n;48.0
+The Sonata;2018;90;France, UK, Russia, Latvia;Andrew Desmond;51.0
+Rondo;2018;90;USA;Drew Barnhardt;41.0
+In the Cloud;2018;90;USA;Robert Scott Wildes;38.0
+Xiong chu mei zhi bian xing ji;2018;90;China;Leon Ding, Huida Lin;55.0
+Wildwitch - Il mondo selvatico;2018;90;Denmark, Norway, Hungary, Czech Republic;Kaspar Munk;48.0
+L'agenzia dei bugiardi;2019;90;Italy;Volfango De Biasi;56.0
+Jusqu'ici tout va bien;2019;90;France, Belgium;Mohamed Hamidi;58.0
+Il dottore vi ucciderÃ  subito;2019;90;USA;Rob Pallatina;40.0
+Project Gio;2019;90;Netherlands;Bas van Teylingen;19.0
+The Bad Guys;2018;90;USA;Carlos Rincones;62.0
+The Barn;2018;90;USA, France;Matt Beurois;35.0
+Symphony No. 9;2019;90;Iran;Mohamad Reza Honarmand;54.0
+Witches in the Woods;2019;90;Canada;Jordan Barker;41.0
+Postcards from London;2018;90;UK;Steve McLean;51.0
+HÃ©ctor el Father: ConocerÃ¡s la Verdad;2018;90;Puerto Rico;Joel ColÃ³n;55.0
+La vita segreta di mio marito;2018;90;USA;Tamar Halpern;49.0
+Supervized;2019;90;Ireland, UK;Steve Barron;49.0
+Homo Novus;2018;90;Latvia;Anna Viduleja;73.0
+Blezi;2018;90;Latvia;Andrejs Ekis;43.0
+Inner Ghosts;2018;90;Portugal, Brazil;Paulo Leite;38.0
+Head Count;2018;90;USA;Elle Callahan;54.0
+Invisible Sue;2018;90;Germany, Luxembourg;Markus Dietrich;43.0
+Fragmentary;2019;90;Australia, United Arab Emirates, UK;Jace Pickard;43.0
+The Basement;2018;90;USA;Brian M. Conley, Nathan Ives;44.0
+Good Boys - Quei cattivi ragazzi;2019;90;USA;Gene Stupnitsky;67.0
+Harmony;2018;90;Australia;Corey Pearson;54.0
+The Gateway;2018;90;Australia;John V. Soto;54.0
+Future World;2018;90;USA;James Franco, Bruce Thierry Cheung;32.0
+Chasing Bullitt;2018;90;USA;Joe Eddy;47.0
+Permettimi di amarti;2018;90;USA;Shane Stanley;56.0
+The Legend of Halloween Jack;2018;90;UK;Andrew Jones;34.0
+Killer di matrimoni;2019;90;USA;Bernard Salzmann;28.0
+Il ritorno dell'eroe;2018;90;France, Belgium;Laurent Tirard;65.0
+Doppio ricatto, doppio inganno;2018;90;USA;Nadeem Soumah;54.0
+Lez Bomb;2018;90;USA;Jenna Laurenzo;50.0
+Following Phil;2018;90;USA;Samuel Omole;65.0
+Spider-Man 2: Another World;2018;90;UK;Joey Lever;74.0
+The Dwarves of Demrel;2018;90;USA;Chris Raney;35.0
+Our House;2018;90;Canada, Germany, USA;Anthony Scott Burns;53.0
+Arrivederci professore;2018;90;USA;Wayne Roberts;67.0
+Pats Sau Milijonierius;2019;90;Lithuania;Tadas Vidmantas;64.0
+The Aspern Papers;2018;90;UK, Germany;Julien Landais;46.0
+Metal Heart;2018;90;Ireland;Hugh O'Conor;59.0
+Malicious;2018;90;USA;Michael Winnick;50.0
+Vierges;2018;90;France, Israel, Belgium;Keren Ben Rafael;61.0
+Blue;2018;90;USA;Gabriela Ledesma;63.0
+Zuo jia de huang yan: Bi zhong you zui;2019;90;Hong Kong;Christopher Sun;57.0
+Monster;2018;90;UK;Matt Shaw;71.0
+Where We Go from Here;2019;90;USA;Anthony Meindl;47.0
+La morte in un sorso;2018;90;USA;Joe Menendez;48.0
+Manou the Swift;2019;90;Germany;Andrea Block, Christian Haas;54.0
+Grace - Ispirazione cercasi;2018;90;USA;Devin Adair;58.0
+House of Demons;2018;90;USA;Patrick Meaney;33.0
+Extracurricular;2018;90;Canada;Ray Xue;54.0
+The Baylock Residence;2019;90;UK;Anthony M. Winson;37.0
+Per amore di Megan;2018;90;USA;Danny J. Boyle;50.0
+Mamma a tutti i costi;2018;90;USA;Isak Borg, Dena Hysell-Cornejo;46.0
+Elcano y Magallanes. La primera vuelta al mundo;2019;90;Spain;Ãngel Alonso;41.0
+Epidemiya. Vongozero;2019;90;Russia;Pavel Kostomarov;63.0
+Once in Trubchevsk;2019;90;Russia;Larisa Sadilova;57.0
+Animal Among Us;2019;90;USA;John Woodruff;32.0
+Exit 14;2018;90;USA;Joe Salcedo;37.0
+Jurassic Predator;2018;90;UK;Andrew Jones;33.0
+Sunset Society;2018;90;USA;Phoebe Dollar, Rolfe Kanefsky;27.0
+Se son rose;2018;90;Italy;Leonardo Pieraccioni;53.0
+Christmas Camp;2018;90;USA;Jeff Fisher;59.0
+Viaje al cuarto de una madre;2018;90;Spain;Celia Rico Clavellino;67.0
+Fear, Love, and Agoraphobia;2018;90;USA;Alex D'Lerma;57.0
+Io, Leonardo;2019;90;Italy;Jesus Garces Lambert;54.0
+Il vegetale;2018;90;Italy;Gennaro Nunziante;49.0
+Limbo;2019;90;USA;Mark Young;49.0
+Toy Gun;2018;90;Germany, Belgium, Luxembourg;Marco Serafini;53.0
+StarDog and TurboCat;2019;90;UK;Ben Smith;70.0
+The Breaker Upperers;2018;90;New Zealand;Madeleine Sami, Jackie van Beek;59.0
+Talq Senai;2018;90;Egypt;Khaled Diab;65.0
+Klassikokkutulek 2: Pulmad ja matused;2018;90;Estonia;RenÃ© Vilbre;54.0
+A Horse from Heaven;2018;90;USA;David de Vos;55.0
+Paradize 89;2018;90;Latvia;Madara Dislere;67.0
+Shanda's River;2018;90;Italy;Marco Rosson;48.0
+Endzeit;2018;90;Germany;Carolina HellsgÃ¥rd;51.0
+Sol Alegria;2018;90;Brazil;Tavinho Teixeira;56.0
+Birthmarked;2018;90;Canada;Emanuel Hoss-Desmarais;57.0
+Comme des garÃ§ons;2018;90;France;Julien Hallard;60.0
+Investigation 13;2019;90;USA;Krisstian de Lara;40.0
+Obsession;2019;90;USA;Goran Dukic;49.0
+Alterscape;2018;90;USA;Serge Levin;54.0
+A Taste of Phobia;2018;90;UK;Domiziano Cristopharo, Jason Impey;32.0
+Dirty Dealing 3D;2018;90;USA;Christopher Robin Hood;38.0
+Chiamate un dottore!;2019;90;France;Tristan SÃ©guÃ©la;65.0
+Zlogonje;2018;90;Serbia, Republic of North Macedonia;Rasko Miljkovic;67.0
+Svinhery;2018;90;Ukraine, Latvia;Andrejs Ekis;54.0
+La monnaie de leur piÃ¨ce;2018;90;France;Anne Le Ny;41.0
+Beneath the Leaves;2019;90;USA;Adam Marino;45.0
+Emma Peeters;2018;90;Canada, Belgium;Nicole Palo;63.0
+Am I a Serial Killer?;2019;90;USA;Penelope Buitenhuis;50.0
+Lola vers la mer;2019;90;Belgium, France;Laurent Micheli;65.0
+Ravers;2018;90;UK;Bernhard Pucher;46.0
+The Last Porno Show;2019;90;Canada;Kire Paputts;64.0
+Lynn + Lucy;2019;90;UK;Fyzal Boulifa;67.0
+Between Worlds;2018;90;Spain;Maria Pulera;42.0
+Social Animals;2018;90;USA;Theresa Bennett;52.0
+Zayana;2019;90;Oman, India;Khalid Abdulrahim Al-Zadjali;70.0
+La Banda;2019;90;Spain;Roberto Bueso;57.0
+La signora di Purity Falls;2019;90;USA;Sam Irvin;47.0
+Marcianos Contra Mexicanos;2018;90;Mexico;Gabriel Riva Palacio Alatriste, Rodolfo Riva Palacio Alatriste;35.0
+La tribÃ¹;2018;90;Spain;Fernando Colomo;58.0
+My Soul to Keep;2019;90;USA;Ajmal Zaheer Ahmad;50.0
+The Bra;2018;90;Germany, Azerbaijan;Veit Helmer;67.0
+Danur 3: Sunyaruri;2019;90;Indonesia;Awi Suryadi;47.0
+Ascharyachakit!;2018;90;India;Samit Kakkad;49.0
+Treasure Hunter: Legend of the White Witch;2018;90;USA;Ken Barbet;27.0
+Professor Shanku O El Dorado;2019;90;India;Sandip Ray;52.0
+Jonaki;2018;90;India, France, Singapore;Aditya Vikram Sengupta;70.0
+Cyber Bride;2019;90;UK;Louisa Warren;23.0
+L'ultima ora;2019;90;USA;James Helsing;36.0
+Driven;2019;90;USA;Glenn Payne;63.0
+Tuttapposto;2019;90;Italy;Gianni Costantino;63.0
+Inside the Rain;2019;90;USA;Aaron Fisher;45.0
+The Short History of the Long Road;2019;90;USA;Ani Simon-Kennedy;64.0
+Two for Joy;2018;90;UK;Tom Beard;60.0
+Dead Fred;2019;90;UK;Deanna Dewey;39.0
+Fulci for fake;2019;90;UK, Italy;Simone Scafidi;63.0
+The Wedding Year;2019;90;USA;Robert Luketic;55.0
+Surviving Confession;2019;90;USA;Matthew Tibbenham;54.0
+Schoolhouse;2018;90;USA;Steven Perez;28.0
+Hole - L'abisso;2019;90;Ireland, UK, Belgium, Finland;Lee Cronin;57.0
+Tolko ne oni;2018;90;Russia;Aleksandr Boykov;19.0
+Nabat;2019;90;Iran;Pegah Arzi;52.0
+Segfault;2018;90;USA;Robert Paschall Jr.;63.0
+Morte tra i banchi;2018;90;USA;Danny J. Boyle;40.0
+Chhappad Phaad Ke;2019;90;India;Sameer Joshi;63.0
+Small Town Hero;2019;90;UK;Darren Bolton;40.0
+Achoura;2018;90;Morocco, France;Talal Selhami;53.0
+Clementine;2019;90;USA;Lara Gallagher;51.0
+The Silence;2019;90;Canada, Germany;John R. Leonetti;53.0
+First Light;2018;90;Canada;Jason Stone;55.0
+De Collega's 2.0;2018;90;Belgium;Jan Verheyen;45.0
+The Trap;2019;90;USA;Erik White;43.0
+Mistero al castello Blackwood;2018;90;USA;Stacie Passon;56.0
+LajkÃ³ - CigÃ¡ny az Ã¼rben;2018;90;Hungary;BalÃ¡zs Lengyel;58.0
+Pazzie d'amore;2018;90;USA;Lisa France;45.0
+Warning Shot;2018;90;USA;Dustin Fairbanks;49.0
+Inherit the Viper;2019;90;USA;Anthony Jerjen;51.0
+Uma Quase Dupla;2018;90;Brazil;Marcus Baldini;52.0
+Wanderland;2018;90;USA;Josh Klausner;54.0
+The Secret of Happiness;2018;90;Romania;Vlad Zamfirescu;76.0
+Puppet Master: The Littlest Reich;2018;90;UK, USA;Sonny Laguna, Tommy Wiklund;54.0
+Aleksi;2018;90;Croatia, Serbia, Serbia and Montenegro;Barbara Vekaric;67.0
+The Martyr Maker;2018;90;USA;Kamal Ahmed;40.0
+Morto tra una settimana... O ti ridiamo i soldi;2018;90;UK;Tom Edmunds;62.0
+The Wave;2019;90;USA;Gille Klabin;60.0
+The Long Dumb Road;2018;90;USA;Hannah Fidell;61.0
+West of Hell;2018;90;USA;Michael Steves;46.0
+The Ghost Beyond;2018;90;USA;R. Michael Givens;31.0
+Seeds;2018;90;USA;Owen Long;36.0
+Blood Brother;2018;90;USA;John Pogue;44.0
+Echoes of Fear;2018;90;USA;Brian Avenet-Bradley, Laurence Avenet-Bradley;52.0
+SOLO!;2018;90;UK;Nic Cornwall;63.0
+In Full Bloom - I fiori della rabbia;2019;90;Japan, USA;Reza Ghassemi, Adam VillaSenor;68.0
+Hutsulka Ksenya;2019;90;Ukraine;Alena Demyanenko;72.0
+Breaking Barbi;2019;90;USA;Edward G. Negron;51.0
+Rusalka: Ozero myortvykh;2018;90;Russia;Svyatoslav Podgaevskiy, Christopher Bevins;44.0
+Deux fils;2018;90;France, Belgium;FÃ©lix Moati;58.0
+Kapsalon Romy;2019;90;Netherlands, Germany;Mischa Kamp;72.0
+Piccoli Brividi 2 - I fantasmi di Halloween;2018;90;USA, UK;Ari Sandel;56.0
+Holmes & Watson - 2 de menti al servizio della regina;2018;90;USA, Canada;Etan Cohen;38.0
+Woodstock or Bust;2018;90;USA;Leslie Bloom;41.0
+Nobody Famous;2018;90;Canada;Sarah Rotella;46.0
+Siblings of the Cape;2018;90;Japan;Shinzo Katayama;70.0
+FOMO: Fear of Missing Out;2019;90;Hungary;Attila Hartung;70.0
+Vaioretto evÃ¢gÃ¢den gaiden: Eien to jidou shuki ningyou;2019;90;Japan;Haruka Fujita, Taichi Ishidate;74.0
+Storozh;2019;90;Russia;Yuriy Bykov;64.0
+Devushki byvayut raznye;2019;90;Russia;Sarik Andreasyan;23.0
+Gamak Ghar;2019;91;India;Achal Mishra;81.0
+Thousand Yard Stare;2018;91;Canada;Aaron Kurmey;38.0
+Volition;2019;91;Canada;Tony Dean Smith;56.0
+Summer Survivors;2018;91;Lithuania;Marija Kavtaradze;77.0
+Alone We Fight;2018;91;USA;Justin Lee;29.0
+Solo;2018;91;Spain;Hugo Stuven;49.0
+Mermaid Down;2019;91;USA, UK;Jeffrey Grellman;59.0
+We Summon the Darkness;2019;91;UK, USA, Canada;Marc Meyers;51.0
+Death Whisper;2019;91;Indonesia, South Korea;Awi Suryadi;64.0
+Darkoob;2018;91;Iran;Behrouz Shoaybi;57.0
+Space Ninjas;2019;91;UK;Scott McQuaid;37.0
+Mouthpiece;2018;91;Canada;Patricia Rozema;62.0
+Norm of the North: Keys to the Kingdom;2018;91;India, USA;Tim Maltby, Richard Finn;30.0
+Dziura w glowie;2018;91;Poland;Piotr Subbotko;65.0
+Il sole a mezzanotte - Midnight Sun;2018;91;USA;Scott Speer;66.0
+Galveston;2018;91;USA;MÃ©lanie Laurent;62.0
+Permanent Green Light;2018;91;France;Dennis Cooper, Zac Farley;55.0
+Sometimes Always Never;2018;91;UK;Carl Hunter;62.0
+Standing Up, Falling Down;2019;91;USA;Matt Ratner;64.0
+Use Me;2019;91;USA;Julian Shaw;41.0
+Matriarch;2018;91;UK;Scott Vickers;54.0
+La diseducazione di Cameron Post;2018;91;USA, UK;Desiree Akhavan;66.0
+Der Vorname;2018;91;Germany;SÃ¶nke Wortmann;71.0
+Round of Your Life;2019;91;USA;Dylan Thomas Ellis;43.0
+Schemers;2019;91;UK;Dave Mclean;58.0
+La casa delle bambole - Ghostland;2018;91;France, Canada, China;Pascal Laugier;64.0
+Los JapÃ³n;2019;91;Spain;Ãlvaro DÃ­az Lorenzo;36.0
+El SilbÃ³n: OrÃ­genes;2018;91;Mexico, Venezuela;Gisberg Bermudez;44.0
+First We Take Brooklyn;2018;91;USA;Danny A. Abeckaser;38.0
+Bioscopewala;2018;91;India;Deb Medhekar;77.0
+Buttiamo giÃ¹ l'uomo;2019;91;USA;Bridget Savage Cole, Danielle Krudy;64.0
+All Creatures Here Below;2018;91;USA;Collin Schiffli;56.0
+The Mercenary;2019;91;USA;Jesse V. Johnson;54.0
+O Filme do Bruno Aleixo;2019;91;Portugal;JoÃ£o Moreira, Pedro Santo;72.0
+Realna prica;2019;91;Serbia;Gordan Kicic;72.0
+Good Posture;2019;91;USA;Dolly Wells;54.0
+Big Time Adolescence;2019;91;USA;Jason Orley;70.0
+The Final Blade;2018;91;China;Willie Ying;66.0
+FinchÃ© matrimonio non ci separi;2018;91;Mexico;Santiago LimÃ³n;49.0
+Boo!;2018;91;USA;Luke Jaden;36.0
+Jimmie;2018;91;Sweden, Austria, Croatia;Jesper Ganslandt;60.0
+Chained for Life;2018;91;USA;Aaron Schimberg;66.0
+The Fight;2018;91;UK;Jessica Hynes;55.0
+Peng e i due anatroccoli;2018;91;China, USA, UK, Thailand, India;Christopher Jenkins;57.0
+Burning Kentucky;2019;91;USA;Bethany Brooke Anderson;44.0
+Todas as RazÃµes para Esquecer;2018;91;Brazil;Pedro Coutinho;63.0
+Relaxer;2018;91;USA;Joel Potrykus;59.0
+Quando gli angeli dormono;2018;91;Spain;Gonzalo Bendala;54.0
+Hume Tumse Pyaar Kitna;2019;91;India;Lalit Mohan;48.0
+The Party's Just Beginning;2018;91;UK;Karen Gillan;61.0
+The Final Scream;2019;91;UK;Scott Jeffrey;57.0
+Holly Star;2018;91;USA;Michael A. Nickles;51.0
+Black Site;2018;91;UK;Tom Paton;43.0
+El mejor verano de mi vida;2018;91;Spain;Dani de la Orden;58.0
+Mollywood;2019;91;USA;Morocco Vaughn;25.0
+Get Gone;2019;91;USA;Michael Thomas Daniel;27.0
+Elephants;2018;91;USA;Alex Hanno;59.0
+Gojira: hoshi wo kÃ» mono;2018;91;Japan;Hiroyuki Seshita, KÃ´bun Shizuno;50.0
+Benjamin BlÃ¼mchen;2019;91;Germany;Tim Trachte;36.0
+The Mercy of the Jungle;2018;91;Belgium, France, Rwanda;JoÃ«l Karekezi;62.0
+You Can't Say No;2018;91;USA;Paul Kramer;39.0
+Viking Destiny;2018;91;UK, Belgium;David L.G. Hughes;42.0
+Mug - Un'altra vita;2018;91;Poland;Malgorzata Szumowska;64.0
+Pupazzi senza gloria;2018;91;USA, China;Brian Henson;54.0
+Christ(Off);2018;91;France, Belgium;Pierre Dudan;41.0
+Spivak;2018;91;USA;Anthony Abrams, Adam Larson Broder;55.0
+Red Handed;2019;91;USA;Frank Peluso;33.0
+Gli acchiappamostri;2018;91;USA;Jason Murphy;54.0
+To Your Last Death;2019;91;USA;Jason Axinn;73.0
+Amin;2018;91;France;Philippe Faucon;62.0
+Black Wake;2018;91;USA;Jeremiah Kipp;21.0
+Nightshot;2018;91;France;Hugo KÃ¶nig;55.0
+Kill Chain;2019;91;USA;Ken Sanzel;50.0
+A Vigilante;2018;91;USA;Sarah Daggar-Nickson;57.0
+Message Man;2018;91;Indonesia, Australia, UK, United Arab Emirates;Corey Pearson;60.0
+Nicky Larson et le parfum de Cupidon;2018;91;France;Philippe Lacheau;65.0
+Butterfly Kisses;2018;91;USA;Erik Kristopher Myers;58.0
+Denmark;2019;91;UK;Adrian Shergold;60.0
+Gates of Darkness;2019;91;USA, France, Nepal;Don E. FauntLeRoy;42.0
+Qui e ora;2018;91;USA;Fabien Constant;44.0
+Edge of Fear;2018;91;USA;Bobby Roth;44.0
+Await Further Instructions;2018;91;UK;Johnny Kevorkian;48.0
+Lilli;2018;91;India;Prasobh Vijayan;58.0
+Take Me Somewhere Nice;2019;91;Netherlands, Bosnia and Herzegovina;Ena Sendijarevic;64.0
+The BBQ;2018;91;Australia;Stephen Amis;49.0
+Zahr-e Mar;2019;91;Iran;Javad Razavian;41.0
+L'immensitÃ  della notte;2019;91;USA;Andrew Patterson;67.0
+Deok-gu;2018;91;South Korea;Soo-in Bang;67.0
+Don't Go;2018;91;Ireland;David Gleeson;52.0
+Guadalupe Reyes;2019;91;Mexico;Salvador Espinosa;59.0
+Alive;2019;91;Canada;Rob Grant;53.0
+C'era una volta Steve McQueen;2019;91;USA;Mark Steven Johnson;62.0
+Friday's Child;2018;91;USA;A.J. Edwards;60.0
+Behind the Walls;2018;91;USA;James Kondelik, Jon Kondelik;30.0
+Mrs Lowry & Son;2019;91;UK;Adrian Noble;67.0
+Wo de qing chun dou shi ni;2019;91;China;Mengying Dai, Tong Zhou;63.0
+One Last Thing;2018;91;USA;Tim Rouhana;62.0
+Dead Don't Die in Dallas;2019;91;USA;Israel Luna;44.0
+Minutes to Midnight;2018;91;USA;Christopher Ray;34.0
+As Zvaigzde;2018;91;Lithuania;Robertas Kuliunas;32.0
+Torna a casa, Jimi! - 10 cose da non fare quanto perdi il tuo cane a Cipro;2018;92;Cyprus;Marios Piperides;66.0
+Marnies Welt;2018;92;Germany, Belgium;Christoph Lauenstein, Wolfgang Lauenstein;56.0
+El mundo es suyo;2018;92;Spain;Alfonso SÃ¡nchez;49.0
+One Man Dies a Million Times;2019;92;USA;Jessica Oreck;63.0
+Vitoria, 3 de marzo;2018;92;Spain;Victor Cabaco;66.0
+Better Start Running;2018;92;USA;Brett Simon;52.0
+En affÃ¦re;2018;92;Norway;Henrik Martin Dahlsbakken;56.0
+De Matchmaker;2018;92;Netherlands, Belgium;Jeroen Houben;60.0
+HÃ©raÃ°iÃ°;2019;92;Iceland, Denmark, Germany, France;GrÃ­mur HÃ¡konarson;66.0
+Zizotek;2019;92;Greece;Vardis Marinakis;62.0
+AllÃ¡ en el Rancho;2018;92;Mexico;Rafael Montero;40.0
+Wildling;2018;92;USA;Fritz BÃ¶hm;55.0
+Los amores cobardes;2018;92;Spain;Carmen Blanco;60.0
+Office Uprising;2018;92;USA;Lin Oeding;60.0
+Please Come with Me;2019;92;USA;Michael Ciulla;46.0
+Minuscule - Les mandibules du bout du monde;2018;92;France, Guadeloupe, China;HÃ©lÃ¨ne Giraud, Thomas Szabo;68.0
+Stretch Marks;2018;92;USA;Gregory Rocco;57.0
+Deadman Standing;2018;92;USA;Nicholas Barton;49.0
+Eleven Eleven;2018;92;USA;Chris Redish;36.0
+Scarpette rosse e i 7 nani;2019;92;South Korea;Sung-ho Hong, Moo-Hyun Jang;63.0
+Deadtectives;2018;92;USA;Tony West;62.0
+Rendez-vous chez les Malawas;2019;92;France, Belgium;James Huth;39.0
+The Manor;2018;92;USA;Jonathon Schermerhorn;30.0
+A Kid Like Jake;2018;92;USA;Silas Howard;54.0
+Unfriended: Dark Web;2018;92;USA, Russia;Stephen Susco;59.0
+Reach;2018;92;USA;Leif Rokesh;56.0
+Shadows in Mind;2019;92;USA;Mark Schwab;53.0
+Taxi a Gibraltar;2019;92;Spain, Argentina;Alejo Flah;45.0
+Hollow Body;2018;92;USA;Alex Keledjian;37.0
+Love for Sale 2;2019;92;Indonesia;Andibachtiar Yusuf;69.0
+L'incredibile viaggio del fachiro;2018;92;France, India, Belgium, Singapore, USA;Ken Scott;69.0
+The Second Coming of Christ;2018;92;USA;Daniel Anghelcev;45.0
+BROS. Last Call;2018;92;USA;Don Tjernagel;84.0
+The Harvesting;2019;92;USA;Ivan Kraljevic;37.0
+Automation;2019;92;USA;Garo Setian;45.0
+Unintended;2018;92;USA;Anja Murmann;53.0
+Julemandens datter;2018;92;Denmark;Christian DyekjÃ¦r;57.0
+Nuclear;2019;92;UK;Catherine Linstrum;50.0
+Strategy and Pursuit;2018;92;USA;Matt Riddlehoover;72.0
+In a Relationship;2018;92;Mexico, USA;Sam Boyd;55.0
+Twelve;2019;92;USA;Steve Grimaldi;61.0
+Rapina a Stoccolma;2018;92;Canada, USA;Robert Budreau;61.0
+Ni liu da shu;2018;92;Hong Kong;Sunny Chan;68.0
+Ga woo man si ging;2019;92;Hong Kong;Herman Yau;60.0
+All Inclusive;2019;92;France, Belgium;Fabien Onteniente;31.0
+Someone Great;2019;92;USA;Jennifer Kaytin Robinson;62.0
+Patuljci sa naslovnih strana;2018;92;Serbia;Milorad Milinkovic;46.0
+Noura RÃªve;2019;92;Tunisia, Belgium, France, Qatar, Netherlands;Hinde Boujemaa;65.0
+Black Christmas;2019;92;USA, New Zealand;Sophia Takal;32.0
+Cat in the Wall;2019;92;Bulgaria, UK, France;Vesela Kazakova, Mina Mileva;55.0
+Let It Snow - Innamorarsi sotto la neve;2019;92;USA;Luke Snellin;58.0
+A Boy Called Sailboat;2018;92;USA, Australia;Cameron Nugent;67.0
+Dolci scelte;2018;92;USA;Ben Shelton;58.0
+Runnin' from My Roots;2018;92;USA;Nancy Criss;49.0
+We Die Young;2019;92;Bulgaria, USA;Lior Geller;53.0
+Hemelrijken;2019;92;Netherlands;Stanley Kolk;63.0
+Arctic - Un'avventura glaciale;2019;92;India, UK, China, Canada, Japan, South Korea, USA;Aaron Woodley;46.0
+Thunder Road;2018;92;USA;Jim Cummings;71.0
+American Dreamer;2018;92;USA;Derrick Borte;61.0
+El Hijo;2019;92;Argentina;SebastiÃ¡n Schindel;54.0
+En komikers uppvÃ¤xt;2019;92;Sweden;Rojda SekersÃ¶z;66.0
+Rosy;2018;92;USA;Jess Bond;47.0
+Wake Up - Il risveglio;2019;92;USA;Aleksandr Chernyaev;50.0
+Todas as CanÃ§Ãµes de Amor;2018;92;Brazil;Joana Mariani;69.0
+Interlaced;2018;92;USA;James Cardoza;32.0
+Kat and the Band;2019;92;UK;E.E. Hegarty;57.0
+Haunt;2019;92;USA;Scott Beck, Bryan Woods;63.0
+Ghost in the Graveyard;2019;92;USA;Charlie Comparetto;49.0
+Catacombe;2018;92;Belgium, Netherlands;Victor D. Ponten;55.0
+Trolled;2018;92;USA;Alex Sebastian;18.0
+Cops;2018;92;Austria;Stefan A. Lukacs;63.0
+Ordinary Love;2019;92;UK;Lisa Barros D'Sa, Glenn Leyburn;66.0
+Marla;2018;92;USA;Lisa van Dam-Bates;33.0
+Eerie Fairy Tales;2019;92;Estonia;Mart Sander;69.0
+The Samuel Project;2018;92;USA;Marc Fusco;73.0
+L'extraordinaire voyage de Marona;2019;92;France, Romania, Belgium;Anca Damian;76.0
+O PoÃ§o;2019;92;Brazil;AndrÃ© Borelli;68.0
+Unheimlich perfekte Freunde;2019;92;Germany;Marcus H. RosenmÃ¼ller;64.0
+What Still Remains;2018;92;USA;Josh Mendoza;47.0
+Incredible Violence;2018;92;Canada;G. Patrick Condon;43.0
+El viaje extraordinario de Celeste GarcÃ­a;2018;92;Cuba, Germany;Arturo Infante;64.0
+Robin Hood: The Rebellion;2018;92;UK;Nicholas Winter;42.0
+Der LÃ¤ufer;2018;92;Switzerland;Hannes Baumgartner;59.0
+The System;2018;92;USA;Irin Daniels;82.0
+Mountain Rest;2018;92;USA;Alex O Eaton;54.0
+The House of Us;2019;92;South Korea;Ga-eun Yoon;73.0
+Persona non grata;2019;92;France;Roschdy Zem;50.0
+A Sombra do Pai;2018;92;Brazil;Gabriela Amaral;63.0
+The Viper's Hex;2018;92;Japan;Addison Heath, Jasmine Jakupi;74.0
+Clara's Ghost;2018;92;USA;Bridey Elliott;43.0
+The Tokoloshe;2018;92;South Africa;Jerome Pikwane;43.0
+Danur 2: Maddah;2018;92;Indonesia;Awi Suryadi;57.0
+L'avvertimento;2018;92;Spain;Daniel Calparsoro;59.0
+JagtsÃ¦son;2019;92;Denmark;Tilde Harkamp;52.0
+Couples' Night;2018;92;USA;Mark Harris;72.0
+Escape and Evasion;2019;92;Australia, United Arab Emirates;Storm Ashwood;44.0
+Blood Fest;2018;92;USA;Owen Egerton;53.0
+Natale, folle Natale;2019;92;USA;Leslie Small;48.0
+Doshman-e zan;2018;92;Iran;Karim Amini;40.0
+The Hurt;2018;92;USA;Kevin Van Stevenson;31.0
+Howlers;2019;92;USA;Josh Ridgway;48.0
+Already Gone;2019;92;USA;Christopher Kenneally;40.0
+Horrible Histories: The Movie - Rotten Romans;2019;92;UK;Dominic Brigstocke;52.0
+Tomorrow;2018;92;UK;Martha Pinson;80.0
+Headgame;2018;92;USA;Steven Judd;39.0
+Jinn;2018;92;USA;Nijla Mumin;55.0
+Dreamland;2019;92;Canada, Luxembourg, Belgium;Bruce McDonald;47.0
+My Prince Edward;2019;92;Hong Kong;Norris Wong;69.0
+Solis;2018;92;UK;Carl Strathie;47.0
+Vengeance;2018;92;UK;Ross Boyask;44.0
+Backtrace;2018;92;USA;Brian A. Miller;37.0
+Suk Suk;2019;92;Hong Kong;Ray Yeung;71.0
+The Prodigy - Il figlio del male;2019;92;USA, Canada;Nicholas McCarthy;58.0
+The Field;2019;92;USA;Tate Bunker;42.0
+Un giorno di pioggia a New York;2019;92;USA;Woody Allen;66.0
+Stillwater;2018;92;USA;Nino Aldi;51.0
+Un cavaliere per Natale;2019;92;USA;Monika Mitchell;55.0
+Il primo anno;2018;92;France;Thomas Lilti;67.0
+Family Blood;2018;92;USA;Sonny Mallhi;42.0
+Quanto basta;2018;92;Brazil, Italy;Francesco Falaschi;65.0
+Show Dogs - Entriamo in scena;2018;92;UK, USA;Raja Gosnell;37.0
+What are the Odds?;2019;92;India;Megha Ramaswamy;53.0
+The Haunting of Borley Rectory;2019;92;UK;Steven M. Smith;32.0
+Un'improbabile amicizia;2019;93;Canada;Christopher Cantwell;56.0
+Duck Butter;2018;93;USA;Miguel Arteta;53.0
+Cheshm O Goosh Baste;2019;93;Iran;Farzad Motamen;47.0
+Hattrick;2018;93;Iran;Ramtin Lavafipour;58.0
+La notte ha divorato il mondo;2018;93;France;Dominique Rocher;60.0
+U-July 22;2018;93;Norway;Erik Poppe;72.0
+Cetto c'Ã¨ senzadubbiamente;2019;93;Italy;Giulio Manfredonia;51.0
+Litigante;2019;93;Colombia, France;Franco Lolli;65.0
+Bombay Rose;2019;93;India, UK, France, Qatar;Gitanjali Rao;64.0
+Ladyworld;2018;93;USA;Amanda Kramer;35.0
+Los Angeles Overnight;2018;93;USA, Australia;Michael Chrisoulakis;59.0
+Robbery;2018;93;Canada;Corey Stanton;43.0
+Antiquities;2018;93;USA;Daniel Campbell;65.0
+Sarkoob;2019;93;Iran;Reza Goran;48.0
+Welcome to Hell;2018;93;UK;Tony Newton, Sam Mason-Bell;27.0
+Alien Expedition;2018;93;USA;Wallace Brothers;27.0
+Coyote Lake;2019;93;USA;Sara Seligman;52.0
+Mai visto;2019;93;Spain;Marina Seresesky;53.0
+QuÃ© LeÃ³n;2018;93;Dominican Republic;Frank Perozo;62.0
+Higher Power;2018;93;USA;Matthew Charles Santoro;48.0
+Dark Sense;2019;93;UK;Magnus Wake;47.0
+Lo mÃ¡s sencillo es complicarlo todo;2018;93;Mexico;Rene Bueno;38.0
+Asimetrija;2019;93;Serbia, Slovenia, Italy;Masa Neskovic;50.0
+Fall City;2018;93;USA;Nathan D. Lee;54.0
+Stuber - Autista d'assalto;2019;93;USA;Michael Dowse;62.0
+In the Trap - Nella trappola;2019;93;Italy;Alessio Liguori;40.0
+Possession Diaries;2019;93;USA;Juan Frausto;19.0
+Battle Drone;2018;93;USA;Mitch Gould;52.0
+The 16th Episode;2018;93;USA;JÃ©rÃ´me Cohen-Olivar;57.0
+Eighth Grade - Terza media;2018;93;USA;Bo Burnham;74.0
+La chute de Sparte;2018;93;Canada;Tristan Dubois;61.0
+The Way We Weren't;2019;93;USA, Switzerland;Rick Hays;65.0
+The Black String;2018;93;USA;Brian Hanson;54.0
+Uqdat el-Khawagah;2018;93;Egypt;Peter Mimi;49.0
+Madeline's Madeline;2018;93;USA;Josephine Decker;64.0
+Beyond White Space;2018;93;USA, Hungary;Ken Locsmandi;45.0
+Mister Link;2019;93;Canada, USA;Chris Butler;67.0
+The Oath;2018;93;USA;Ike Barinholtz;54.0
+Las niÃ±as bien;2018;93;Mexico;Alejandra MÃ¡rquez Abella;70.0
+El increÃ­ble finde menguante;2019;93;Spain;Jon Mikel Caballero;62.0
+Lupin III: The First;2019;93;Japan;Takashi Yamazaki;70.0
+Gosnell: The Trial of America's Biggest Serial Killer;2018;93;USA;Nick Searcy;67.0
+Tangeye Abu Ghorayb;2018;93;Iran;Bahram Tavakoli;65.0
+The Executioners;2018;93;USA;Giorgio Serafini;38.0
+The Glorious Seven;2019;93;Germany;Harald Franklin;27.0
+The Ninth Passenger;2018;93;Canada;Corey Large;30.0
+Route 80;2018;93;USA;Nick Rapuano;47.0
+Assimilate;2019;93;USA;John Murlowski;53.0
+Slender Man;2018;93;USA;Sylvain White;32.0
+When Jeff Tried to Save the World;2018;93;USA;Kendall Goldberg;57.0
+Giant Little Ones;2018;93;Canada;Keith Behrman;72.0
+Safe Spaces;2019;93;USA;Daniel Schechter;57.0
+The Divorce Party;2019;93;USA;Hughes William Thompson;51.0
+Going for Gold;2018;93;Australia;Clay Glen;47.0
+Swiped;2018;93;USA;Ann Deborah Fishman;35.0
+Love Addict;2018;93;France;Frank Bellocq;50.0
+Cold November;2018;93;Kosovo, Albania, Republic of North Macedonia;Ismet Sijarina;70.0
+Iron Sky - La battaglia continua;2019;93;Finland, Germany, Belgium;Timo Vuorensola;50.0
+Catskill Park;2018;93;USA;Vlad Yudin;37.0
+Resolution Song;2018;93;USA;Antonio James;49.0
+Hidden Light;2018;93;Australia;Aaron Kamp;68.0
+A Son of Man;2019;93;Ecuador;Jamaicanoproblem, Pablo AgÃ¼ero;59.0
+La Llorona - Le lacrime del male;2019;93;USA;Michael Chaves;53.0
+Little Monsters;2019;93;Australia, USA, UK;Abe Forsythe;63.0
+Tales from the Lodge;2019;93;UK;Abigail Blackmore;50.0
+All Square;2018;93;USA;John Hyams;59.0
+Firecrackers;2018;93;Canada;Jasmin Mozaffari;60.0
+Let There Be Light;2019;93;Slovakia, Czech Republic;Marko Skop;67.0
+Dance Baby Dance;2018;93;USA;Stephen Kogon;61.0
+Depth of Pyaar;2019;93;Canada;Mukesh Asopa, Charles Ross;70.0
+HollywoodtÃ¼rke;2019;93;Germany;Murat Ãœnal;58.0
+Brakland;2018;93;Denmark, Iceland;Martin Skovbjerg;59.0
+Blood Vessel;2019;93;Australia;Justin Dix;52.0
+Cui mian cai jue;2019;93;Hong Kong, China;Siu Kwan Lai, Wing Tai Lau;59.0
+Kinky;2018;93;USA;Jean-Claude La Marre;30.0
+Aiuto, ho ristretto mamma e papÃ ;2018;93;Germany;Tim Trageser;49.0
+Los Angeles/Tehran;2018;93;Iran;Tina Pakravan;23.0
+Die defekte Katze;2018;93;Germany;Susan Gordanshekan;65.0
+International Falls;2019;93;USA;Amber McGinnis;54.0
+Target;2018;93;Indonesia;Raditya Dika;40.0
+Support the Girls;2018;93;USA;Andrew Bujalski;64.0
+Old Man & the Gun;2018;93;USA, UK;David Lowery;67.0
+Fig Tree;2018;93;Israel, France, Ethiopia, Germany;Aalam-Warqe Davidian;63.0
+Tijuana Jackson: Purpose Over Prison;2018;93;USA;Romany Malco;57.0
+Run with the Hunted;2019;93;USA;John Swab;75.0
+Daffodils;2019;93;New Zealand;David Stubbs;57.0
+Paradise Beach;2019;93;France;Xavier Durringer;44.0
+Buoyancy;2019;93;Australia;Rodd Rathjen;74.0
+El Motoarrebatador;2018;93;Argentina, Uruguay, France;AgustÃ­n Toscano;68.0
+Happy Times;2019;93;Israel, USA, Italy;Michael Mayer;59.0
+Psi umiru sami;2019;93;Serbia;Nikola Petrovic;50.0
+Videomannen;2018;93;Sweden;Kristian A. SÃ¶derstrÃ¶m;58.0
+Red Devil;2019;93;UK;Savvas D. Michael;60.0
+The Perfect Host: A Southern Gothic Tale;2018;93;USA;Derrick Sims;41.0
+Attenti a quelle due;2019;93;USA;Chris Addison;54.0
+Best F(r)iends: Volume 2;2018;93;USA;Justin MacGregor;51.0
+One Remains;2019;93;USA;Josh Hodgins;29.0
+Holiday;2018;93;Denmark, Netherlands, Sweden;Isabella EklÃ¶f;57.0
+Cronofobia;2018;93;Switzerland;Francesco Rizzi;67.0
+Liang zhi lao hu;2019;93;China;Fei Li;57.0
+Welcome the Stranger;2018;94;USA;Justin Kelly;47.0
+Long Lost;2018;94;USA;Erik Bloomquist;51.0
+By Light of Desert Night;2019;94;USA;David Stuart Snell;54.0
+Jahan, Ba Man Beraghs;2019;94;Iran;Sorush Sehhat;66.0
+The Nightmare Gallery;2019;94;USA;Gene Blalock;38.0
+Une annÃ©e polaire;2018;94;France;Samuel Collardey;65.0
+Sid & Aya: Not a Love Story;2018;94;Philippines;Irene Villamor;69.0
+Dance Night Obsession;2019;94;USA;Harvey Lowry;39.0
+American Bistro;2019;94;USA;Arthur Diennet;64.0
+Loca Por El Trabajo;2018;94;Mexico;Luis Eduardo Reyes;43.0
+Eide Asli;2019;94;Iran;Azita Moguie;53.0
+Cobain;2018;94;Netherlands, Belgium, Germany;Nanouk Leopold;63.0
+Itsy Bitsy;2019;94;USA;Micah Gallo;49.0
+Meet Me in St. Gallen;2018;94;Philippines;Irene Villamor;70.0
+Tutti i ricordi di Claire;2018;94;France;Julie Bertuccelli;60.0
+Half Magic;2018;94;USA;Heather Graham;46.0
+Hotel Gagarin;2018;94;Italy;Simone Spada;57.0
+Corbin Nash;2018;94;UK, USA;Ben Jagger;49.0
+Il pacco;2018;94;USA;Jake Szymanski;55.0
+El despertar de las hormigas;2019;94;Costa Rica, Spain;Antonella Sudasassi, Antonella Sudasassi;66.0
+Il padre dell'anno;2018;94;USA;Tyler Spindel;52.0
+The Open House;2018;94;Canada, USA;Matt Angel, Suzanne Coote;32.0
+Balboa Blvd;2019;94;Australia;Kylie Claude, Rody Claude;66.0
+Virgin Cheerleaders in Chains;2018;94;USA;Paulo Biscaia Filho, Gary McClain Gannaway;38.0
+Quando eravamo fratelli;2018;94;USA;Jeremiah Zagar;69.0
+El proyeccionista;2019;94;Dominican Republic;JosÃ© MarÃ­a Cabral;69.0
+Mi pequeÃ±o gran hombre;2018;94;Mexico;Jorge RamÃ­rez SuÃ¡rez;41.0
+Sonora;2018;94;Mexico;Alejandro Springall;62.0
+Moj jutarnji smeh;2019;94;Serbia;Marko Djordjevic;72.0
+Port Authority;2019;94;USA, France;Danielle Lessovitz;65.0
+Hala;2019;94;USA;Minhal Baig;58.0
+Ibiza;2018;94;USA;Alex Richanbach;52.0
+Swallow;2019;94;USA, France;Carlo Mirabella-Davis;64.0
+Sharon Tate - Tra incubo e realtÃ ;2019;94;USA, Mexico;Daniel Farrands;28.0
+Snu;2019;94;Portugal;PatrÃ­cia Sequeira;66.0
+Il buco;2019;94;Spain;Galder Gaztelu-Urrutia;70.0
+Blood Vow;2018;94;USA;Victoria Sutton;62.0
+Braven - Il coraggioso;2018;94;Canada;Lin Oeding;60.0
+The Bouncer;2018;94;France, Belgium, British Virgin Islands;Julien Leclercq;59.0
+Battalion;2018;94;Australia;Michael Miller;21.0
+Hotel Artemis;2018;94;UK, USA;Drew Pearce;61.0
+Non tutte le sciagure vengono dal cielo;2018;94;Switzerland;Michael Steiner;66.0
+Miss Arizona;2018;94;USA;Autumn McAlpin;53.0
+James vs. His Future Self;2019;94;Canada;Jeremy LaLonde;59.0
+Disco;2019;94;Norway;Jorunn Myklebust Syversen;54.0
+Un PapÃ¡ Pirata;2019;94;Mexico;Humberto Hinojosa Ozcariz;45.0
+Eiga Chuunibyou demo koi ga shitai! Take On Me;2018;94;Japan;Tatsuya Ishihara;73.0
+Just a Gigolo;2019;94;France;Olivier Baroux;54.0
+Blackmark;2018;94;USA;A.J. Martinson;45.0
+Say Yes;2018;94;USA;Stewart Wade;68.0
+Blood Craft;2019;94;USA;James Cullen Bressack;35.0
+Cam;2018;94;USA;Daniel Goldhaber;59.0
+Extra Ordinary;2019;94;Ireland, Belgium, Finland, UK;Mike Ahern, Enda Loughman;64.0
+Dedicada a mi Ex;2019;94;Colombia, Ecuador;Jorge Ulloa;75.0
+MormaÃ§o;2018;94;Brazil;Marina Meliande;64.0
+Cucuy: The Boogeyman;2018;94;USA;Peter Sullivan;46.0
+Red Zone - 22 miglia di fuoco;2018;94;USA, China, Colombia;Peter Berg;61.0
+Equipaggio zero;2019;94;USA;Bert, Bertie;69.0
+Cabaret Maxime;2018;94;Portugal, USA;Bruno de Almeida;61.0
+Bennett's War;2019;94;USA;Alex Ranarivelo;57.0
+Code Name: Dynastud;2018;94;USA;Richard Griffin;34.0
+Re loca;2018;94;Argentina;Martino Zaidelis;61.0
+Loon Lake;2019;94;USA;Ansel Faraj;49.0
+Chen mo de zheng ren;2019;94;China, Hong Kong;Renny Harlin;56.0
+Close;2019;94;UK, USA;Vicky Jewson;57.0
+The Truth About Lies;2018;94;USA;Phil Allocco;52.0
+Las grietas de Jara;2018;94;Argentina, Spain;NicolÃ¡s Gil Lavedra;57.0
+Zagrebacki Ekvinocij;2019;94;Croatia;Svebor Mihael Jelic;81.0
+Long xia jing cha;2018;94;China;Xinyun Li;50.0
+The Second;2018;94;Australia;Mairi Cameron;47.0
+Change in the Air;2018;94;USA;Dianne Dreyer;55.0
+Ore 15:17 - Attacco al treno;2018;94;USA;Clint Eastwood;52.0
+TrÃªs VerÃµes;2019;94;Brazil, France;Sandra Kogut;60.0
+The Song of Sway Lake;2018;94;USA;Ari Gold;60.0
+The Cleansing Hour;2019;94;USA;Damien LeVeck;57.0
+Ti presento Patrick;2018;94;UK;Mandie Fletcher;59.0
+Soul to Keep;2018;94;USA;David Allensworth, Moniere;43.0
+True Fiction;2019;94;Canada;Braden Croft;48.0
+The Maestro;2018;94;USA;Adam Cushman;57.0
+Submission;2019;94;USA;J.M. Berrios;51.0
+Waka okami wa shÃ´gakusei!;2018;94;Japan;KitarÃ´ KÃ´saka;70.0
+Il bene mio;2018;94;Italy;Pippo Mezzapesa;57.0
+Honey Boy;2019;94;USA;Alma Har'el;73.0
+Dafne;2019;94;Italy;Federico Bondi;62.0
+Sestrenka;2019;94;Russia;Aleksandr Galibin;73.0
+Styx;2018;94;Germany, Austria, Netherlands, Malta;Wolfgang Fischer;65.0
+Los Bando;2018;94;Norway, Sweden;Christian Lo;67.0
+River Runs Red;2018;94;USA;Wes Miller;46.0
+Drive Me Home - Portami a casa;2018;94;Italy;Simone Catania;57.0
+Flay;2019;94;USA;Eric Pham;32.0
+Het leven is vurrukkulluk;2018;94;Netherlands;Frans Weisz;53.0
+El Fantasma de mi Novia;2018;94;Dominican Republic;"Francis ""Indio"" Disla Ferreira";62.0
+Emmett;2019;94;USA;Bridget Stokes;48.0
+UP There;2019;94;USA;Michael Blaustein, Daniel Weingarten;49.0
+Among Thieves;2019;95;USA;K.C. Schrimpl;42.0
+Life Like;2019;95;USA;Josh Janowicz;54.0
+Cabaret;2019;95;India;Kaustav Narayan Niyogi;35.0
+Khrustal;2018;95;Belarus, USA, Germany, Russia;Darya Zhuk;70.0
+Brave ragazze;2019;95;Italy;Michela Andreozzi;54.0
+Welcome to Curiosity;2018;95;UK;Ben Pickering;50.0
+Recuperando a mi Ex;2018;95;Mexico;Gabriel GuzmÃ¡n;35.0
+La terra dell'abbastanza;2018;95;Italy;Damiano D'Innocenzo, Fabio D'Innocenzo;62.0
+Cruel Peter;2019;95;Italy;Christian Bisceglia, Ascanio Malgarini;50.0
+In Reality;2018;95;USA;Ann Lupo;51.0
+Go Back to China;2019;95;China, USA;Emily Ting;59.0
+Prishelets;2018;95;Russia;Alexander Kulikov, Mikhail Raskhodnikov;24.0
+Po cem muzi touzÃ­;2018;95;Czech Republic;Rudolf Havlik;62.0
+Podbrosy;2018;95;Russia, Lithuania, Ireland, France;Ivan I. Tverdovskiy;61.0
+Jonathan;2018;95;USA;Bill Oliver;59.0
+Dry Martina;2018;95;Chile, Argentina;Che Sandoval;58.0
+Eaten by Lions;2018;95;UK;Jason Wingard;61.0
+Wounds;2019;95;USA, UK;Babak Anvari;40.0
+Ring of Silence;2019;95;USA;Nicole Bowers Wallace;86.0
+Hekayat-e darya;2018;95;Iran;Bahman Farmanara;46.0
+Eternal Beauty;2019;95;UK;Craig Roberts;63.0
+Recreo;2018;95;Argentina;HernÃ¡n Guerschuny, JazmÃ­n Stuart;57.0
+Solteras;2019;95;Mexico;Luis Javier Henaine;59.0
+Tully;2018;95;USA, Canada;Jason Reitman;70.0
+Abdel et la comtesse;2018;95;France;Isabelle Doval;48.0
+Ride;2018;95;Italy;Valerio Mastandrea;51.0
+Songbird;2018;95;UK;Jamie Adams;42.0
+Nyitva;2018;95;Hungary;Orsi Nagypal;65.0
+Chicuarotes;2019;95;Mexico;Gael GarcÃ­a Bernal;67.0
+Blindspotting;2018;95;USA;Carlos LÃ³pez Estrada;74.0
+The Parting Glass;2018;95;USA;Stephen Moyer;55.0
+Camper Killer;2018;95;USA;Tom Nagel;37.0
+The Tracker;2019;95;Italy, USA;Giorgio Serafini;34.0
+BROS. On The Rocks;2018;95;USA;Don Tjernagel;68.0
+Youtopia;2018;95;Italy;Berardo Carboni;55.0
+Termination;2019;95;USA;Alice Nicolini;26.0
+Burning Men;2019;95;UK;Jeremy Wooding;42.0
+Dorst;2018;95;Netherlands;Saskia Diesing;60.0
+Paradise Hills;2019;95;Spain, USA;Alice Waddington;56.0
+Dublin Oldschool;2018;95;Ireland;Dave Tynan;61.0
+Unhinged;2018;95;USA;Giorgio Serafini;40.0
+Shangri-La: Near Extinction;2018;95;USA;Nick Wauters;30.0
+In Paradox;2019;95;Kuwait;Hamad AlSarraf;53.0
+Exit 0;2019;95;USA;E.B. Hughes;65.0
+Panama Papers;2019;95;USA;Steven Soderbergh;63.0
+Vargur;2018;95;Iceland, Denmark, Sweden;BÃ¶rkur SigÃ¾Ã³rsson;62.0
+Lionheart;2018;95;Nigeria;Genevieve Nnaji;56.0
+The Golem;2018;95;Israel;Doron Paz, Yoav Paz;56.0
+Dino King 3D: Journey to Fire Mountain;2019;95;South Korea, China;Han Sang-Ho;48.0
+Tuntematon mestari;2018;95;Finland;Klaus HÃ¤rÃ¶;74.0
+Curse of the Witch's Doll;2018;95;UK;Lawrence Fowler;32.0
+Sea Fever;2019;95;Ireland, USA, UK, Sweden, Belgium;Neasa Hardiman;57.0
+CÃ³rka trenera;2018;95;Poland;Lukasz Grzegorzek;60.0
+Peter Rabbit;2018;95;USA, Australia, UK;Will Gluck;66.0
+Automata;2019;95;UK;Lawrie Brewster;43.0
+Yung;2018;95;Germany;Henning Gronkowski;57.0
+Heaven's War;2018;95;USA;Danny Carrales;42.0
+Les Tuche 3;2018;95;France;Olivier Baroux;46.0
+Saving Flora;2018;95;USA;Mark Drury Taylor;57.0
+Deep Murder;2019;95;USA;Nick Corirossi;42.0
+Greener Grass;2019;95;USA;Jocelyn DeBoer, Dawn Luebbe;63.0
+Summer '03;2018;95;USA;Becca Gleason;54.0
+The Deeper You Dig;2019;95;USA;John Adams, Toby Poser;51.0
+The Wretched;2019;95;USA;Brett Pierce, Drew T. Pierce;58.0
+The Dustwalker;2019;95;Australia, United Arab Emirates;Sandra Sciberras;38.0
+Pretenders;2018;95;USA;James Franco;51.0
+The Assassin's Code;2018;95;USA, Canada;David A. Armstrong;50.0
+Exterior/Night;2018;95;Egypt, United Arab Emirates;Ahmad Abdalla;69.0
+Benzinho;2018;95;Brazil, Uruguay, Germany;Gustavo Pizzi;72.0
+The Domestics;2018;95;USA;Mike P. Nelson;57.0
+Antes Que Eu Me EsqueÃ§a;2018;95;Brazil;Tiago Arakilian;68.0
+AndiÃ° eÃ°lilega;2018;95;Iceland, Sweden, Belgium;Isold Uggadottir;69.0
+Saving ZoÃ« - Alla ricerca della veritÃ ;2019;95;USA;Jeffrey G. Hunt;53.0
+Drakulics elvtÃ¡rs;2019;95;Hungary;MÃ¡rk BodzsÃ¡r;67.0
+Battle;2018;95;Norway, Denmark, Netherlands, Sweden;Katarina Launing;60.0
+Les affamÃ©s;2018;95;France;LÃ©a FrÃ©deval;41.0
+PrÃ©lude;2019;95;Germany;Sabrina Sarabi;60.0
+Cosa fai a Capodanno?;2018;95;Italy;Filippo Bologna;50.0
+Vielmachglas;2018;95;Germany;Florian Ross;51.0
+Terminal;2018;95;Ireland, UK, Hong Kong, Hungary, USA;Vaughn Stein;54.0
+Solum;2019;95;Portugal;Diogo Morgado;42.0
+Els dies que vindran;2019;95;Spain;Carlos Marques-Marcet;69.0
+After Everything;2018;95;USA;Hannah Marks, Joey Power;63.0
+Sasha Was Here;2018;95;Lithuania;Ernestas Jankauskas;70.0
+La grande noirceur;2018;95;Canada;Maxime Giroux;70.0
+Clown Motel: Spirits Arise;2019;95;USA;Joseph Kelly;52.0
+Diane;2018;95;USA;Kent Jones;67.0
+Beach Bum - Una vita in fumo;2019;95;Switzerland, UK, France, USA;Harmony Korine;55.0
+Dos Veces TÃº;2018;95;Mexico;SalomÃ³n Askenazi;54.0
+Brillantissime;2018;95;France, Belgium;MichÃ¨le Laroque;43.0
+Extinction;2018;95;USA;Ben Young;58.0
+Eat Me;2018;95;USA;Adrian Cruz;46.0
+The Luring;2019;95;USA;Christopher Wells;31.0
+LarguÃ©es;2018;95;France;EloÃ¯se Lang;58.0
+Ouija House;2018;95;USA;Ben Demaree;30.0
+The Infiltrators;2019;95;USA;Cristina Ibarra, Alex Rivera;58.0
+Broken Contract;2018;95;Australia;James Pentecost;38.0
+The Dark;2018;95;Austria;Justin P. Lange;56.0
+Kiss Kiss;2019;95;USA;Dallas King;25.0
+Happy New Year, Colin Burstead;2018;95;UK;Ben Wheatley;64.0
+Adam;2019;95;USA;Rhys Ernst;35.0
+The Other Side;2018;95;USA;Warren Pemberton;41.0
+La mala noche;2019;95;Ecuador, Mexico;Gabriela Calvache;58.0
+My Birthday Song;2018;95;India;Samir Soni;55.0
+Davay razvedyomsya!;2019;95;Russia;Anna Parmas;53.0
+Badnaam Gali;2019;95;India;Ashwin Shetty;70.0
+Uno di famiglia;2018;95;Italy;Alessio Maria Federici;57.0
+Mais vous Ãªtes fous;2019;95;France;Audrey Diwan;65.0
+Fighter;2019;95;Poland;Konrad Maximilian;36.0
+Snapshots;2018;95;USA;Melanie Mayron;66.0
+Dilili a Parigi;2018;95;France, Belgium, Germany;Michel Ocelot;70.0
+Sabea El Boromba;2019;95;Egypt;Mahmoud Karim;57.0
+Si Doel the Movie 2;2019;95;Indonesia;Rano Karno;70.0
+Benyamin Biang Kerok;2018;95;Indonesia;Hanung Bramantyo;29.0
+Frat Pack;2018;95;Canada, USA;Michael Philip;39.0
+Made in Bangladesh;2019;95;France, Bangladesh, Denmark, Portugal;Rubaiyat Hossain;71.0
+The Revenger: An Unromantic Comedy;2019;95;UK;Mark Murphy;56.0
+Exorcism at 60,000 Feet;2019;95;USA;Chad Ferrin;41.0
+Tiempo despuÃ©s;2018;95;Spain, Portugal;JosÃ© Luis Cuerda;58.0
+La fille au bracelet;2019;95;France, Belgium;StÃ©phane Demoustier;68.0
+The 9th Precinct;2019;95;Taiwan;Ding-Lin Wang;55.0
+Beauty & the Beholder;2018;95;USA;Laron Austin;44.0
+Shabab Sheyab;2018;95;United Arab Emirates;Yasir Al-Yasiri;78.0
+Webcast;2018;95;UK, France;Paul McGhie;57.0
+FinchÃ© morte non ci separi;2019;95;USA, Canada;Matt Bettinelli-Olpin, Tyler Gillett;68.0
+Bik Eneich: Un fils;2019;95;Tunisia, France, Lebanon, Qatar;Mehdi Barsaoui;70.0
+La belle et la belle;2018;95;France;Sophie FilliÃ¨res;56.0
+Les goÃ»ts et les couleurs;2018;95;France;Myriam Aziza;53.0
+The Debt Collector;2018;95;UK, USA;Jesse V. Johnson;57.0
+Tanki;2018;95;Russia;Kim Druzhinin;48.0
+Cuddle Weather;2019;95;Philippines;Rod Marmol;62.0
+Palm Swings;2019;95;USA;Sean Hoessli;45.0
+Relentless;2018;95;USA, El Salvador;Lance Tracy;45.0
+Komola Rocket;2018;95;Bangladesh;Noor Imran Mithu;74.0
+Shadow Wolves;2019;95;USA, UK;McKay Daines;37.0
+Makmum;2019;95;Indonesia;Hadrah Daeng Ratu;43.0
+Killers Anonymous;2019;95;UK;Martin Owen;51.0
+Steam Room Stories: The Movie!;2019;95;USA;J.C. Calciano;42.0
+Mossad;2019;95;Israel;Alon Gur Arye;67.0
+City Hunter: Private Eyes;2019;95;Japan;Kenji Kodama;65.0
+Xiao Mei;2018;95;Taiwan;Maren Hwang;63.0
+Gon-ji-am;2018;95;South Korea;Beom-sik Jeong;62.0
+The Brawler;2018;95;USA;Ken Kushner;48.0
+Mudras Calling;2018;95;Myanmar;Christina Kyi;85.0
+Zoo;2018;95;Denmark, Sweden;Antonio Tublen;55.0
+Nova Lituania;2019;96;Lithuania;Karolis Kaupinis;73.0
+Old Boys;2018;96;UK, Sweden;Toby MacDonald;61.0
+Heartlock;2018;96;USA;Jon Kauffman;54.0
+Helena;2018;96;Mexico;Alejandro Sugich;58.0
+Fiore gemello;2018;96;Italy;Laura Luchetti;61.0
+Dark Hall;2018;96;Spain, USA;Rodrigo CortÃ©s;51.0
+Miga Miga Avasaram;2019;96;India;Suresh Kamatchi;72.0
+Un viaggio a quattro zampe;2019;96;China, USA;Charles Martin Smith;67.0
+Enter The Wild;2018;96;USA;Mark Forstmann;37.0
+Landing Up;2018;96;USA;Daniel Tenenbaum;48.0
+Happy Ending;2018;96;Denmark;Hella Joof;58.0
+Hoax;2019;96;USA;Matt Allen;39.0
+Ji wu;2018;96;Hong Kong, Malaysia;Jeffrey Chiang;50.0
+Diamantino - Il calciatore piÃ¹ forte del mondo;2018;96;Portugal, France, Brazil;Gabriel Abrantes, Daniel Schmidt;64.0
+Babes with Blades;2018;96;UK;Cecily Fay;21.0
+Smallfoot: Il mio amico delle nevi;2018;96;USA;Karey Kirkpatrick, Jason Reisig;66.0
+Among the Shadows - Tra le ombre;2019;96;USA;Tiago Mesquita;21.0
+Da yue shi. Wei ai pei yue;2018;96;Hong Kong;Chi-Keung Fung;64.0
+The Isle;2018;96;UK;Matthew Butler-Hart;58.0
+My Hero Academia the Movie - Two Heroes;2018;96;Japan;Kenji Nagasaki;76.0
+Galaxy Lords;2018;96;USA;Von Bilka;29.0
+The Nun: La vocazione del male;2018;96;USA;Corin Hardy;53.0
+The Wedding Guest;2018;96;UK;Michael Winterbottom;57.0
+Die WunderÃ¼bung;2018;96;Austria;Michael Kreihsl;69.0
+Blood Bound;2019;96;USA;Richard LeMay;42.0
+A Certain Kind of Silence;2019;96;Czech Republic, Netherlands, Latvia;Michal Hogenauer;61.0
+Taipei - City of Love;2018;96;USA;Jason Lester;41.0
+Sophie Gold, the Diary of a Gold Digger;2018;96;USA;Carol Botar;57.0
+Garabandal, solo Dios lo sabe;2018;96;Spain;Brian Alexander Jackson;59.0
+Coureur;2018;96;Belgium;Kenneth Mercken;64.0
+El Hubiera SÃ­ Existe;2019;96;Mexico;Luis Eduardo Reyes;58.0
+Delirium;2018;96;USA;Dennis Iliadis;57.0
+Rich Kids;2018;96;USA;Laura Somers;60.0
+Scorched Earth;2018;96;Canada, USA;Peter Howitt;45.0
+L'unica;2018;96;USA;Stephanie Laing;64.0
+The Third Wife;2018;96;Vietnam;Ash Mayfair;67.0
+Ruben Brandt, Collector;2018;96;Hungary;Milorad Krstic;75.0
+El aÃ±o de la plaga;2018;96;Spain, Mexico, Belgium;C. MartÃ­n Ferrera;45.0
+Brotherhood;2019;96;Canada;Richard Bell;48.0
+Zeroville;2019;96;USA;James Franco;45.0
+Klaus: I segreti del Natale;2019;96;Spain, UK;Sergio Pablos, Carlos MartÃ­nez LÃ³pez;82.0
+Sin fin;2018;96;Spain;CÃ©sar Esteban Alenda, JosÃ© Esteban Alenda;69.0
+Monsters and Men;2018;96;USA;Reinaldo Marcus Green;58.0
+End of Sentence;2019;96;Iceland, Ireland;Elfar Adalsteins;72.0
+El PrÃ­ncipe;2019;96;Chile, Argentina, Belgium;SebastiÃ¡n MuÃ±oz;64.0
+La disparition des lucioles;2018;96;Canada;SÃ©bastien Pilote;69.0
+Bent - Polizia criminale;2018;96;Spain, USA;Bobby Moresco;52.0
+Mother Krampus 2: Slay Ride;2018;96;USA;Eddie Lengyel;34.0
+Crucible of the Vampire;2019;96;UK;Iain Ross-McNamee;35.0
+Vita nella Banlieu;2019;96;France;Kery James, LeÃ¯la Sy;64.0
+The Oscar Nominated Short Films 2018: Live Action;2018;96;USA;Max Porter;78.0
+Alpha - Un'amicizia forte come la vita;2018;96;USA, Canada, China;Albert Hughes;67.0
+RemÃ©lem legkÃ¶zelebb sikerÃ¼l meghalnod:);2018;96;Hungary;MihÃ¡ly Schwechtje;72.0
+Susi Susanti: Love All;2019;96;Indonesia;Sim F.;75.0
+To The Beat!;2018;96;USA;Jillian Clare;47.0
+Bomb, yek asheghaneh;2018;96;Iran;Payman Maadi;65.0
+Mosley;2019;96;New Zealand, China;Kirby Atkins;64.0
+Tiempo compartido;2018;96;Mexico;SebastiÃ¡n Hofmann;60.0
+Still;2018;96;USA;Takashi Doscher;52.0
+Lontano da qui;2018;96;USA, Israel, UK, Canada;Sara Colangelo;67.0
+Veneno;2018;96;Dominican Republic;TabarÃ© Blanchard;81.0
+Obey;2018;96;UK;Jamie Jones;54.0
+Io;2019;96;USA;Jonathan Helpert;47.0
+Irina;2018;96;Bulgaria;Nadejda Koseva;65.0
